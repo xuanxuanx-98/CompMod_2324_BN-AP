@@ -1,2 +1,4 @@
 # ignore unpublic data
-corpus_LINCE_NER_ENG-SPA
+data/train.conll
+data/dev.conll
+data/test.conll

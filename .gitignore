@@ -1,4 +1,12 @@
-# ignore unpublic data
+# ignore unpublic data source
 data/train.conll
 data/dev.conll
 data/test.conll
+
+# ignore all files in text_compose folder
+text_compose/*/.*
+text_compose/*/*
+# excetption rules for relevant files
+!text_compose/*/*.tex
+!text_compose/*/*.pdf
+!text_compose/*/*.bib

@@ -10,3 +10,5 @@ text_compose/*/*
 !text_compose/*/*.tex
 !text_compose/*/*.pdf
 !text_compose/*/*.bib
+!text_compose/*/*.sty
+!text_compose/*/*.bst

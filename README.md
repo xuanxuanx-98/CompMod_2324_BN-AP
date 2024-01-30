@@ -17,4 +17,6 @@ Project work for seminar Computational Modeling's BN and AP requirements.
 
 ## License
 
-All source code is made available under a BSD 3-clause license. You can freely use and modify the code without warranty if you provide attribution to the authors. See LICENSE.md for the full license text. The project report and slide presentation content are not open source. The author reserves the rights to the content.
+All source code is made available under a BSD 3-clause license. You can freely use and modify the code without warranty if you provide attribution to the authors. See ``LICENSE`` for the full license text. 
+
+All contents under ``text_compose`` are not open source. The author reserves the rights to the content.

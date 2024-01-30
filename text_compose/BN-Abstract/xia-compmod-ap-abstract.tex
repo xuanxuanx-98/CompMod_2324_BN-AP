@@ -66,53 +66,59 @@
 
 \section{Introduction}
 
-The term ``named entity'' was first defined in the Sixth Message Understanding Conference (MUC-6) \citep{grishman1996ner}. In the publicly available description, at least three types of language expressions were categorized as such entities: ``unique identifiers'' of entities (organizations, persons, locations), times (dates, times), and quantities (monetary values, percentages). The extraction of such entities in a sentence is however not a trivial job. Outside the most obvious dictionary matching \citep{higashinaka2012nerwiki,shang2018learning}, several other hybrid approaches have been proposed over the years, especially for bio-medical other domain specific terms \citep{rock2012nerbio,lou2020dicthyb}. Nowadays, with pre-trained language models spaCy, StanfordNLP as such, named entity recognition tasks can be easily carried out as a part of standard pipeline during text annotation.
+The term ``named entity'' was first defined in the Sixth Message Understanding Conference (MUC-6) \citep{grishman1996ner}. In the publicly available description, at least three types of language expressions were categorized as such entities: ``unique identifiers'' of entities (organizations, persons, locations), times (dates, times), and quantities (monetary values, percentages). The extraction of such entities from a sentence is, however, not a trivial job. Outside the most obvious dictionary matching \citep{higashinaka2012nerwiki,shang2018learning}, several other hybrid approaches have been proposed over the years, especially for bio-medical and other domain-specific terms \citep{rock2012nerbio,lou2020dicthyb}. Nowadays, with pre-trained language models spaCy, StanfordNLP as such, named entity recognition tasks can be easily carried out as part of the standard pipeline during text annotation.
 
 This research aims to investigate the multi-purposed language model spaCy's performance on named entity recognition tasks when it comes to multilingual data, above all where two languages are used interchangeably in one sentence, the so-called insertional code-switching, as follows:
 
-\ex. It's just pretending \textit{tengo una ventana aquí}.\\
-  \citep[104]{arias2005esencs}
+\ex. @esangiecarajo you asked .. \textit{ya lo borre} so chill \textit{jajajajaja}
 
-The sentence starts with an English matrix sentence. The language in the embedded clause however, is switched to Spanish (italicized). We want to know how difficult it is for a monolingual spaCy model to extract named entities from such sentences.
+The sentence starts with a matrix sentence (L1) in English. An embedded clause in Spanish is then inserted (L2, italicized). The language is switched back to English. Followed by modal particles again in Spanish. We want to know how difficult it is for a monolingual spaCy model to deal with such inserted tokens as in this sentence.
 
 
 \section{Research Questions}
 
+The research questions can be summarized into three major points:
+
+Firstly, how many inserted L2 tokens that are not named entities themselves are falsely annotated as named entities by spaCy? Named entities in nature are unique to the language's vocabulary. Since the inserted L2 tokens are ``foreign'' to a language-specific model, we would expect that some of the unique words would be annotated as NEs.
+
+Secondly, among the tokens that are falsely tagged as named entities, how many are just inserted non-NE L2 tokens? Namely, how many errors are caused by code-switching? By analyzing this aspect, we are able to estimate how troublesome code-switching actually is for a spaCy model. Furthermore, we would also be able to determine whether it is reasonable to use spaCy on the named entity recognition tasks of code-mixed data.
 
 
+Finally, we also calculate how many inserted L2 tokens that are actually named entities are correctly identified as NEs by the L1 model. This also helps us to understand how effective spaCy is, if we are only interested in extracting NEs tokens from the embedded language.
 
 
+\section{Data}
+
+The data comes from Computational Approaches to Linguistic Code-Switching (CALCS) \citep{aguilaretal2018calcs}, which are accessible through the LinCE Benchmark website (\href{https://ritual.uh.edu/lince/datasets}{https://ritual.uh.edu/lince/datasets}). The specific subset used in this research is the train set in Spanish-English (SPA-ENG) from CALCS Shared Task 2018.
+
+The original data is stored in minimal CoNLL-U format. Sentences are separated by empty lines. The tokens in the sentence are all on individual lines. The tokens are marked with language tags (\texttt{lang1} for English, \texttt{lang2} for Spanish). Whether the tokens are named entities and to what type of named entities they belong to, is also marked overtly.
+
+Overall, there are 33,611 sentences, among which 8,692 contain both English and Spanish tokens (code-mixed). By comparing the absolute language tag amount in each sentence, we get 1,478 instances with English as the matrix language, and 7,214 are Spanish dominant.
 
 
+\section{Methodology}
+
+Since spaCy models are usually built on monolingual data, the choice of which language-specific model should be used to annotate the current sentence needs to be made based on individual cases. The general pipeline goes as follows: 1) Before applying the NLP model, make sure both languages are present in the current sentence; 2) Determine the matrix language (L1) of the sentence; 3) Choose the spaCy model for L1 to annotate the whole sentence, regardless of the inserted L2 tokens; 4) Retrieve named entity recognition results from linguistic features (\href{https://spacy.io/usage/linguistic-features}{https://spacy.io/usage/linguistic-features}) built in spaCy's standard pipeline. For effeciency reasons, here we only use small variante of models for both languages: \texttt{en\_core\_web\_sm} and \texttt{es\_core\_news\_sm}.
+
+Since spaCy only works on strings, the raw token chain of each sentence will be concatenated in the first step. The new text string will be passed to the language model. This, however, causes alignment issues when spaCy's tokenization results differ from the gold tokens in the original sentence dataframe. The solution is to store the named entities extracted by spaCy simply as list items. Then we go through the original token column. If the token is found in the spaCy's NE list, we mark it as \texttt{Yes}, if not, as \texttt{O}, following the original label scheme.
+
+The focus of this experiment lies in whether the model could sufficiently distinguish between inserted code-switched normal words and named entities. The types of NEs the results tokens are assigned to are less relevant. Hence, we replace all specific named entity types in both gold tags and spaCy results with a unified value \texttt{Yes}. 
+
+For the results of each sentence, four types of information are saved: the matrix language, the gold language tags of all tokens in the sentence, the gold named entity property, and the NER results returned by spaCy model. The latter three are stored in a list aligned to the gold token list of the original sentence, on which the error analyses can be conducted.
 
 
+\section{Error Analyses}
+
+For the first research question, we extracted all indices of all code-switched tokens in each sentence. That is, if the matrix language of the sentence is identified as English, we extract all Spanish tokens, and vice versa. We also want to exclude cases where the inserted tokens are named entities themselves. With the list of target words' indices, the corresponding NER results from the automatic annotation will be compared. The target tokens falsely tagged as \texttt{Yes} by spaCy will be filtered out. As for results, we have 38.96\% of normal L2 tokens tagged as named entities.
+
+To investigate the relation between the performance drop and the insertions of L2 tokens, we first collect all named entity tags that are falsely given by spaCy. Then we map these errors to the language tags. If the token on which the error occurs is code-switched, it will be saved to the error list. Dividing NER errors on code-switching points by total NER errors, we get results of 27.48\%. That is, over a quarter of named entity recognition errors are simply due to L2 token insertions.
+
+Lastly, we turn to the few cases where the inserted L2 tokens are actually named entities themselves. We collect all the L2 tokens in a sentence. Then we save those that are tagged as \texttt{Yes} in the normalized gold labels. Our goal is to find out the cases where spaCy also gives \texttt{Yes} tags to these target words (L2 NEs). From the results, we see that almost 70\% of these true L2 named entities are correctly tagged as NEs. The error rate is relatively low compared to earlier analyses. However, it is unclear whether this is because spaCy could overcome the ``language barrier'' while dealing with L2 named entities or simply by chance. Given the fact that by assigning NE tags to all indiscriminately would even achieve 100\% accuracy, the actual performances of the models are still questionable.
 
 
+\section{Conclusion}
 
-
-
-
-
-
-
-
-
-
-\newpage
-\section{Extracts from BN Proposal}
-
-\noindent \textbf{Proposal 1} --- spaCy performance on named entity recognition task with code-mixed data \bigbreak
-
-The goal of the research is to evaluate how well spaCy performs on NER tasks when it comes to multilingual data, above all where two languages are used interchangeably in one sentence.  The English-Spanish code-mixed data used here comes directly from CALCS 2018 (Computational Approaches to Linguistic Code-Switching) shared task \citep{aguilaretal2018calcs}. Since spaCy out of the box is language specific, the transformer variants of the both involved languages will be used to tag the data. The results (two versions) will be compared to the gold labels given in the CoNLL-U file to retrieve accuracy and possibly other evaluation metrics.
-
-\textbf{Possible expansion for AP} One interesting type of code-switching is the so-called ``insertional code-switching'', where a single token or a short phrase of the embedded language L2 appears inside a sentence structure of the matrix language L1. One could imagine that at least in some cases a language model trained only on L1 would falsely identify inserted L2 elements as special names. My question is, whether there is a correlation between the length of the inserted words and the possibility of them being regarded as named entities. For this the results from above will be re-analysed. The cases of L2 insertions which are not named entities themselves will be extracted with the corresponding word lengths and the annotations returned by spaCy (namely NE == True/False). The percentage of falsely annotated insertions on each word length can then be calculated. Using a correlation test, whether there is a correlation between inserted L2 word length and error rate can then be answered easily.
-\vspace{20pt}
-
-\noindent \textbf{Proposal 2} --- NLP model performance on sentiment analysis tasks with code-mixed data \bigbreak
-
-The dataset collected for this proposal is Dataset for Sentiment Analysis on Code-Mix Telugu-English Text \citep{kusampudi2021cssentiment}. The goals and procedures of this BN base research will be largely similar to the previous one except for two critical points: 1) Instead of NER results, the sentiment pipeline provided by \texttt{SpacyTextBlob} will be called up. The results are encoded as \texttt{polarity}; 2) spaCy does not support Telugu. So only the English model can be used. Fundamentally this is a text classification task but with tricky data. Two aspects will be evaluated: 1) How well spaCy English model performs on sentences with English as L1, Telugu as L2; 2) How well the same model performs on sentences with Telugu as L1, English as L2. The results from the latter condition are expected to be much worse than the first one. Because the model itself is not trained on the matrix language, it should not be surprising if the sentiment information of the ``foreign language'' can not be captured effectively.
-
-\textbf{Possible expansion for AP} The unpredictability of the classification results using spaCy lies in that spaCy models are trained solely on monolingual data. A possible way to run a ``real'' monolingual analysis would be integrating multilingual word vectors in the classifier training process. The retrieving of this kind of vectors is doable using language-agnostic models like those from \citet{smith2017multilang}, \citet{devlin2018mbert} and more recently \citet{conneau2019roberta}. My design for this project is to compare the performances of each embedding model on the list on sentiment analysis to determine how well they can capture the semantics of multilingual sentences. The procedure goes as follows: First the data will be split into train and test set. The embeddings of all sentences in both sets will be retrieved using different models. Train different classification models with train embeddings using scikit-learn. Get prediction accuracies on test set embeddings. The results will be organized in tabular form to provide an overview. It will be of great interest to see whether there is a consistent increase of accuracy with embeddings generated by newer models. spaCy's performance could also be brought into comparison as the baseline. One aspect worth further considering is whether a subset of spaCy predictions should be used as the baseline. Since its monolingual nature, including predictions on data with Telugu as matrix language will certainly bring unfair disadvantages to its results. One approach would be by reducing the data to English as L1 only and let spaCy English model compete against other models trained on multilingual embeddings of the same subset of sentences.
+In this experiment, we looked into monolingual spaCy language models' performances on named entity recognition tasks with code-mixed data. We see that about 40\% of inserted L2 tokens are falsely recognized as named entities, which indicates that code-switching does pose a challenge to monolingual language models in NER. However, under 30\% of the errors are directly caused by code-switching. To what degree CS affects performance is therefore unclear.
 
 
 

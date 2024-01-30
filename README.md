@@ -2,6 +2,8 @@
 
 Project work for seminar Computational Modeling's BN and AP requirements.
 
+BN Project: This project aims to examine multi-functional spaCy language models' performance on named entity recognition (NER) tasks, when the texts are code-mixed.
+
 ## Repository Structure
 
 - ``/data``: instructions on how to get the dataset used in the experiment
@@ -19,4 +21,4 @@ Project work for seminar Computational Modeling's BN and AP requirements.
 
 All source code is made available under a BSD 3-clause license. You can freely use and modify the code without warranty if you provide attribution to the authors. See ``LICENSE`` for the full license text. 
 
-All contents under ``text_compose`` are not open source. The author reserves the rights to the content.
+All contents under ``/text_compose`` are not open source. The author reserves the rights to the content.

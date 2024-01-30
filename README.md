@@ -19,6 +19,6 @@ BN Project: This project aims to examine multi-functional spaCy language models'
 
 ## License
 
-All source code is made available under a BSD 3-clause license. You can freely use and modify the code without warranty if you provide attribution to the authors. See ``LICENSE`` for the full license text. 
+All source code is made available under the GPL-3.0 license. You can freely use and modify the code without warranty if you provide attribution to the authors. See ``LICENSE`` for the full license text. 
 
 All contents under ``/text_compose`` are not open source. The author reserves the rights to the content.

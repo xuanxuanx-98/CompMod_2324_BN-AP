@@ -11,7 +11,7 @@ Project work for seminar Computational Modeling's BN and AP requirements.
 ## How2Run
 
 - Install runtime requirements in ``REQUIREMENTS.txt``.
-- Download the dataset from [Datasets - LinCE Benchmark](https://ritual.uh.edu/lince/datasets).
+- Follow the instructions in ``/data/How2GetData.txt`` to download the correct dataset.
 - Make sure ``train.conll`` is in the `/data` folder.
 - Run notebook `spaCy_NER_on_CS.ipynb`.
 

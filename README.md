@@ -6,7 +6,7 @@ Project work for seminar Computational Modeling's BN and AP requirements.
 
 - ``/data``: instructions on how to get the dataset used in the experiment
 - ``/notebooks``: implementation of the project
-- ``text_compose``: organizational texts and their source LaTeX codes
+- ``/text_compose``: organizational texts and their source LaTeX codes
 
 ## How2Run
 

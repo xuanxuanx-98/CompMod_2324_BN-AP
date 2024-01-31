@@ -15,7 +15,7 @@ BN Project: This project aims to examine multi-functional spaCy language models'
 - Install runtime requirements in ``REQUIREMENTS.txt``.
 - Follow the instructions in ``/data/How2GetData.txt`` to download the correct dataset.
 - Make sure ``train.conll`` is in the `/data` folder.
-- Run notebook `spaCy_NER_on_CS.ipynb`.
+- Run notebook `/notebooks/spaCy_NER_on_CS.ipynb`.
 
 ## License
 

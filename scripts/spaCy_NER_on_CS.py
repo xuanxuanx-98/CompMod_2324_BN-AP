@@ -22,8 +22,10 @@ warnings.filterwarnings("ignore")
 
 
 def parse_file(file_path):
-    # empty list to store DataFrames for each sentence
-    corpus = []
+    """read in and parse conllu file
+    return the file as a list "corpus" to main function
+    each item in "corpus" is a sentence dataframe"""
+    corpus = []  # empty list to store DataFrames for each sentence
 
     # read the CoNLL-U file line by line
     with open(file_path, "r", encoding="utf-8") as file:
@@ -51,7 +53,8 @@ def parse_file(file_path):
 
 
 def most_frequent_element(lang_tags):
-    # find the L1 by counting the most frequent lang tag in a sentence
+    """find the L1 by counting the most frequent lang tag in a sentence
+    used to determine the matrix language"""
     most_frequent = max(set(lang_tags), key=lang_tags.count)
 
     return most_frequent
@@ -86,6 +89,8 @@ def tag_spa_sent(model_spa, corpus, sent_idx):
 
 
 def extract_results(sent_df, doc):
+    """extract the NER results by spaCy
+    format results in a dictionary and pass to a tagging function"""
     # extract all pre-processed tokens to a list
     gold_tokens = list(sent_df["word"])
     # regularize gold NER tags, save to list
@@ -125,6 +130,9 @@ def extract_results(sent_df, doc):
 
 
 def l2_as_fne(ner_results):
+    """How many inserted normal non-NE L2 words are falsely tagged as named entities?
+    calculate the error porpotion and print out the results inside this function once called
+    no value returned to the function for analyses' calling"""
     # target_word_idxs: list of indices of inserted L2 tokens that are not NEs in each sentence
     target_word_idxs = []
     for result in ner_results:
@@ -157,13 +165,18 @@ def l2_as_fne(ner_results):
 
     all_cs_count = sum(t[0] for t in cs_fauxne)
     all_cs_as_ne_count = sum(t[1] for t in cs_fauxne)
-
-    print(all_cs_as_ne_count / all_cs_count)
+    cs_as_ne_porpo = (all_cs_as_ne_count / all_cs_count) * 100
+    # print out results with comments
+    print(f"=> non-NE L2 tokens tagged as NE: {cs_as_ne_porpo}%")
 
     return True
 
 
 def fne_is_l2(ner_results):
+    """How many falsely tagged tokens are actually just normal inserted non-NE L2 words?
+    namely: How many errors are caused by code-switching?
+    calculate the error porpotion and print out the results inside this function once called
+    no value returned to the function for analyses' calling"""
     # target_word_idxs: list of indices of falsely tagged tokens by spaCy
     target_word_idxs = []
     for result in ner_results:
@@ -196,13 +209,17 @@ def fne_is_l2(ner_results):
 
     all_fauxne_count = sum(t[0] for t in fauxne_at_cs)
     all_fauxne_at_cs_count = sum(t[1] for t in fauxne_at_cs)
-
-    print(all_fauxne_at_cs_count / all_fauxne_count)
+    fauxne_at_cs_porpo = (all_fauxne_at_cs_count / all_fauxne_count) * 100
+    # print out results with comments
+    print(f"=> falsely tagged NEs are just inserted L2 token: {fauxne_at_cs_porpo}%")
 
     return True
 
 
 def l2ne_as_ne(ner_results):
+    """How many inserted L2 tokens that are actually NEs are correctly identified as NE by L1 spaCy model?
+    calculate the error porpotion and print out the results inside this function once called
+    no value returned to the function for analyses' calling"""
     # target_word_idxs: list of indices of inserted L2 words that are NEs by gold standard
     target_word_idxs = []
     for result in ner_results:
@@ -236,15 +253,20 @@ def l2ne_as_ne(ner_results):
             )
 
             csne_as_ne.append((l2ne_count, l2ne_as_ne_count))
+
     all_l2ne_count = sum(t[0] for t in csne_as_ne)
     all_l2ne_as_ne_count = sum(t[1] for t in csne_as_ne)
-
-    print(all_l2ne_as_ne_count / all_l2ne_count)
+    l2ne_as_ne_porpo = (all_l2ne_as_ne_count / all_l2ne_count) * 100
+    # print out results with comments
+    print(f"=> L2 tokens that are NEs and also tagged as NEs: {l2ne_as_ne_porpo}%")
 
     return True
 
 
 def select_error_an(ner_results):
+    """show available error analyses, wait for selection
+    return True/False to main function after running one round
+    True/False entails instruction whether to break while loop in main"""
     function_selection = input(
         """\nRun an error analysis by number, "all" to run all, ">>" to quit:
 1. How many inserted normal non-NE L2 words are falsely tagged as named entities? 
@@ -253,7 +275,7 @@ def select_error_an(ner_results):
 Run: """
     )
     if function_selection not in ">>>>>" and function_selection[0].lower() != "a":
-        try:
+        try:  # input validity check
             function_selection = int(function_selection)
             # only three analyses are avaiable
             if function_selection < 4 and function_selection > 0:
@@ -264,7 +286,7 @@ Run: """
                 elif int(function_selection) == 3:
                     l2ne_as_ne(ner_results=ner_results)
             else:
-                print("Input out of range!")
+                print("Selection out of range!")
         except ValueError:
             print("Invalid input!")
         return False
@@ -274,9 +296,8 @@ Run: """
         fne_is_l2(ner_results=ner_results)
         l2ne_as_ne(ner_results=ner_results)
         return False
-    else:
-        # stop script if has >> as input
-        return True
+    else:  # if >> is input
+        return True  # semantic: stop while-loop == True
 
 
 if __name__ == "__main__":
@@ -293,8 +314,8 @@ if __name__ == "__main__":
     # run spaCy model depending on the L1 to extract NEs
     ner_results = []
     print("starting named entity extraction ...")
+    # for i in tqdm(range(1000), desc="Processing"):  # small test loop
     for i in tqdm(range(len(corpus)), desc="Processing"):
-    # for i in tqdm(range(1000), desc="Processing"):
         lang_tags = list(corpus[i]["lang"])
         # make sure the sentence is code-mixed
         if "lang1" in lang_tags and "lang2" in lang_tags:
@@ -309,8 +330,8 @@ if __name__ == "__main__":
                     tag_spa_sent(model_spa=model_spa, corpus=corpus, sent_idx=i)
                 )
 
-    # choose an error analysis function
+    # call up error analysis selection function
     while True:
         to_stop = select_error_an(ner_results=ner_results)
-        if to_stop == True:
+        if to_stop == True:  # get instrction after one loop
             break

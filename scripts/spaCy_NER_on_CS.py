@@ -167,7 +167,7 @@ def l2_as_fne(ner_results):
     all_cs_as_ne_count = sum(t[1] for t in cs_fauxne)
     cs_as_ne_porpo = (all_cs_as_ne_count / all_cs_count) * 100
     # print out results with comments
-    print(f"=> non-NE L2 tokens tagged as NE: {cs_as_ne_porpo}%")
+    print(f"=> non-NE L2 tokens tagged as NE: {cs_as_ne_porpo} %")
 
     return True
 
@@ -211,7 +211,7 @@ def fne_is_l2(ner_results):
     all_fauxne_at_cs_count = sum(t[1] for t in fauxne_at_cs)
     fauxne_at_cs_porpo = (all_fauxne_at_cs_count / all_fauxne_count) * 100
     # print out results with comments
-    print(f"=> falsely tagged NEs are just inserted L2 token: {fauxne_at_cs_porpo}%")
+    print(f"=> falsely tagged NEs are just inserted L2 token: {fauxne_at_cs_porpo} %")
 
     return True
 
@@ -258,7 +258,7 @@ def l2ne_as_ne(ner_results):
     all_l2ne_as_ne_count = sum(t[1] for t in csne_as_ne)
     l2ne_as_ne_porpo = (all_l2ne_as_ne_count / all_l2ne_count) * 100
     # print out results with comments
-    print(f"=> L2 tokens that are NEs and also tagged as NEs: {l2ne_as_ne_porpo}%")
+    print(f"=> L2 tokens that are NEs and also tagged as NEs: {l2ne_as_ne_porpo} %")
 
     return True
 

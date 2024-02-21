@@ -3,6 +3,10 @@ data/train.conll
 data/dev.conll
 data/test.conll
 
+# ignore large size data
+data/toxicity_annotated_comments.tsv
+data/toxicity_annotations.tsv
+
 # ignore all files in text_compose folder
 text_compose/*/.*
 text_compose/*/*

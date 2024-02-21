@@ -8,7 +8,7 @@ Running process:
     - type >> to end the script
 
 Usage:
-   python spaCy_NER_on_CS.py
+   python spaCyNEROnCS.py
 """
 
 import pandas as pd

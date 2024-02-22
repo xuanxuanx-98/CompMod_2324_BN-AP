@@ -21,7 +21,7 @@ def transform_to_dialect(dialect, dfc, dialect_name):
 
     print(f"working on {dialect_name} ...")
     # for i in tqdm(range(len(dfc)), desc="Processing"):  # run all 159,686 sentences
-    for i in tqdm(range(500), desc="Processing"):  # sample size defined in range()
+    for i in tqdm(range(1000), desc="Processing"):  # sample size defined in range()
         wiki_sent = dfc["comment"][i]  # load original sentece
 
         sent_dict = {}

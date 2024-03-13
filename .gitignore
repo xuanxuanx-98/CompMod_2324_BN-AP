@@ -1,11 +1,14 @@
 # ignore unpublic data source
-data/train.conll
-data/dev.conll
-data/test.conll
+data/BN-CS_NER/train.conll
+data/BN-CS_NER/dev.conll
+data/BN-CS_NER/test.conll
 
-# ignore large size data
-data/toxicity_annotated_comments.tsv
-data/toxicity_annotations.tsv
+# ignore all original large datesets
+data/davidson/original_davidson.csv
+data/hatexplain/original_hatexplain.csv
+data/wiki-detox/original_detox.tsv
+data/wiki-detox/toxicity_annotations.tsv
+
 
 # ignore all files in text_compose folder
 text_compose/*/.*

@@ -1,0 +1,1000 @@
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["possessives_for_pre", "progressives", "clefting", "uninflect"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "em_subj_pronoun", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he does have", "rules": ["do_tense_marker", "clefting", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "progressives"]}
+{"text": "i amnt thinking im getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["shadow_pronouns", "uninflect", "possessives_for_pre", "progressives", "no_gender_distinction"]}
+{"text": "i amnt thinking im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "shadow_pronouns", "possessives_for_pre"]}
+{"text": "i amnt thinking im getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "progressives", "em_subj_pronoun"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "zero_plural"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "progressives", "shadow_pronouns", "zero_plural"]}
+{"text": "i amnt thinking im getting my baby them white 9 she have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "progressives", "no_gender_distinction"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 em have two white j and nikes not even touch", "rules": ["uninflect", "progressives", "em_subj_pronoun", "bare_perfect"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nike not even touched them", "rules": ["em_subj_pronoun", "shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 she does have two white j and nikes not even touched", "rules": ["no_gender_distinction", "do_tense_marker"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touch", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "uninflect", "bare_perfect", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 she have two white j and nikes not even touch", "rules": ["uninflect", "zero_plural_after_quantifier", "no_gender_distinction", "bare_perfect"]}
+{"text": "i doesnt think ims getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "possessives_for_pre", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "zero_plural"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 she does have two white j and nikes not even touched them", "rules": ["no_gender_distinction", "shadow_pronouns", "do_tense_marker", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touch", "rules": ["uninflect", "em_subj_pronoun", "bare_perfect"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting for me baby them white 9 he have two white j and nike not even touched", "rules": ["uninflect", "progressives", "possessives_for_pre", "zero_plural"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 he does have two white j and nikes not even touched them", "rules": ["shadow_pronouns", "do_tense_marker"]}
+{"text": "i nt think im getting for me baby them white 9 she does have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "do_tense_marker", "drop_aux_yn", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nike not even touched", "rules": ["uninflect", "em_subj_pronoun", "zero_plural"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "no_gender_distinction", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nike not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns", "zero_plural"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "shadow_pronouns", "zero_plural_after_quantifier"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "progressives"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touch", "rules": ["uninflect", "bare_perfect", "em_subj_pronoun", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i dont think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i amnt thinking im getting for me baby them white 9 em have two white j and nikes not even touch", "rules": ["em_subj_pronoun", "uninflect", "bare_perfect", "possessives_for_pre", "progressives"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i amnt thinking im getting for me baby them white 9 em have two white j and nikes not even touched them", "rules": ["em_subj_pronoun", "shadow_pronouns", "uninflect", "possessives_for_pre", "progressives"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i dont think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns"]}
+{"text": "i amnt thinking im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "possessives_for_pre", "clefting"]}
+{"text": "i doesnt think ims getting for me baby them white 9 she have two white j and nikes not even touch", "rules": ["uninflect", "bare_perfect", "generalized_third_person_s", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "possessives_for_pre"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i doesnt think ims getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "possessives_for_pre", "clefting"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i amnt thinking im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "possessives_for_pre", "clefting"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "uninflect", "zero_plural_after_quantifier", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "clefting"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touch", "rules": ["generalized_third_person_s", "zero_plural_after_quantifier", "uninflect", "bare_perfect"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "progressives"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "no_gender_distinction", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nike not even touched", "rules": ["uninflect", "no_gender_distinction", "zero_plural", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting for me baby them white 9 em have two white j and nikes not even touch", "rules": ["em_subj_pronoun", "uninflect", "bare_perfect", "generalized_third_person_s", "possessives_for_pre"]}
+{"text": "i doesnt think ims getting for me baby them white 9 he have two white j and nikes not even touched", "rules": ["generalized_third_person_s", "uninflect", "zero_plural_after_quantifier", "possessives_for_pre"]}
+{"text": "i doesnt think ims getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "generalized_third_person_s", "possessives_for_pre"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["possessives_for_pre", "zero_plural_after_quantifier", "shadow_pronouns", "uninflect"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["possessives_for_pre", "shadow_pronouns", "uninflect"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nike not even touched", "rules": ["uninflect", "zero_plural"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nike not even touch", "rules": ["zero_plural", "uninflect", "bare_perfect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "shadow_pronouns", "zero_plural", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting for me baby them white 9 em have two white j and nikes not even touched them", "rules": ["em_subj_pronoun", "shadow_pronouns", "uninflect", "generalized_third_person_s", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "possessives_for_pre", "shadow_pronouns"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nike not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "possessives_for_pre", "zero_plural"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 she have two white j and nike not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "zero_plural"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nikes not even touch", "rules": ["em_subj_pronoun", "uninflect", "drop_aux_yn", "bare_perfect", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nike not even touch", "rules": ["generalized_third_person_s", "uninflect", "zero_plural", "bare_perfect"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched", "rules": ["uninflect", "no_gender_distinction", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "uninflect", "possessives_for_pre", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touch", "rules": ["uninflect", "possessives_for_pre", "drop_aux_yn", "bare_perfect"]}
+{"text": "i amnt thinking im getting for me baby them white 9 em have two white j and nikes not even touch", "rules": ["em_subj_pronoun", "uninflect", "bare_perfect", "possessives_for_pre", "progressives"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nike not even touched", "rules": ["uninflect", "possessives_for_pre", "zero_plural", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 em does have two white j and nikes not even touched them", "rules": ["em_subj_pronoun", "shadow_pronouns", "do_tense_marker", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 she have two white j and nikes not even touch", "rules": ["uninflect", "progressives", "no_gender_distinction", "bare_perfect"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nikes not even touched them", "rules": ["em_subj_pronoun", "shadow_pronouns", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "shadow_pronouns", "uninflect"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "zero_plural_after_quantifier", "shadow_pronouns", "uninflect"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nike not even touched", "rules": ["uninflect", "em_subj_pronoun", "zero_plural", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "shadow_pronouns", "uninflect"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nike not even touched", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "zero_plural", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i doesnt think ims getting my baby them white 9 em does have two white j and nikes not even touch", "rules": ["generalized_third_person_s", "em_subj_pronoun", "do_tense_marker", "bare_perfect"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i dont think im getting my baby them white 9 he does have two white j and nike not even touched them", "rules": ["shadow_pronouns", "do_tense_marker", "zero_plural"]}
+{"text": "i dont think im getting for me baby them white 9 em have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns", "uninflect", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 she does have two white j and nikes not even touched", "rules": ["no_gender_distinction", "do_tense_marker", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "shadow_pronouns", "zero_plural"]}
+{"text": "i amnt thinking im getting my baby them white 9 em have two white j and nike not even touched them", "rules": ["em_subj_pronoun", "shadow_pronouns", "zero_plural", "uninflect", "progressives"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "zero_plural"]}
+{"text": "i dont think im getting for me baby them white 9 em have two white j and nikes not even touch", "rules": ["uninflect", "em_subj_pronoun", "possessives_for_pre", "bare_perfect"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "progressives"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touch", "rules": ["zero_plural_after_quantifier", "uninflect", "drop_aux_yn", "bare_perfect", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 she have two white j and nike not even touch", "rules": ["uninflect", "no_gender_distinction", "zero_plural", "bare_perfect"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting for me baby them white 9 em have two white j and nike not even touched them", "rules": ["em_subj_pronoun", "shadow_pronouns", "zero_plural", "uninflect", "possessives_for_pre", "progressives"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i nt think im getting for me baby them white 9 em does have two white j and nikes not even touched", "rules": ["possessives_for_pre", "em_subj_pronoun", "do_tense_marker", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nike not even touched", "rules": ["uninflect", "progressives", "zero_plural"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i doesnt think ims getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "possessives_for_pre", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "shadow_pronouns"]}
+{"text": "i nt think im getting for me baby them white 9 she have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touch", "rules": ["uninflect", "bare_perfect", "zero_plural_after_quantifier", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "possessives_for_pre", "uninflect", "clefting"]}
+{"text": "i doesnt think ims getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["shadow_pronouns", "uninflect", "generalized_third_person_s", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i nt think im getting for me baby them white 9 he does have two white j and nikes not even touched them", "rules": ["possessives_for_pre", "shadow_pronouns", "do_tense_marker", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting for me baby them white 9 she have two white j and nikes not even touched", "rules": ["generalized_third_person_s", "no_gender_distinction", "possessives_for_pre", "uninflect"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i dont think im getting for me baby them white 9 she does have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "do_tense_marker", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touch", "rules": ["uninflect", "no_gender_distinction", "drop_aux_yn", "bare_perfect"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched", "rules": ["generalized_third_person_s", "uninflect"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "uninflect", "zero_plural_after_quantifier", "shadow_pronouns"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touch", "rules": ["uninflect", "zero_plural_after_quantifier", "bare_perfect"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["generalized_third_person_s", "shadow_pronouns", "uninflect", "zero_plural"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "clefting"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "possessives_for_pre", "shadow_pronouns"]}
+{"text": "i nt think im getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "drop_aux_yn", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "em_subj_pronoun", "drop_aux_yn"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["possessives_for_pre", "shadow_pronouns", "uninflect"]}
+{"text": "i nt think im getting for me baby them white 9 she have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 she have two white j and nike not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "zero_plural"]}
+{"text": "i nt think im getting my baby them white 9 em does have two white j and nikes not even touched", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "do_tense_marker", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting for me baby them white 9 he have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "generalized_third_person_s", "possessives_for_pre"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he does have", "rules": ["generalized_third_person_s", "do_tense_marker", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "shadow_pronouns", "zero_plural"]}
+{"text": "i doesnt think ims getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "uninflect", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i doesnt think ims getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "uninflect", "no_gender_distinction", "shadow_pronouns"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "shadow_pronouns"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 she have two white j and nike not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "zero_plural"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nike not even touched them", "rules": ["em_subj_pronoun", "shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i nt think im getting for me baby them white 9 he does have two white j and nikes not even touched them", "rules": ["possessives_for_pre", "shadow_pronouns", "do_tense_marker", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting for me baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "progressives", "em_subj_pronoun", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nike not even touched", "rules": ["uninflect", "em_subj_pronoun", "zero_plural", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched", "rules": ["uninflect", "zero_plural", "drop_aux_yn"]}
+{"text": "i dont think im getting for me baby them white 9 em have two white j and nikes not even touch", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "uninflect", "bare_perfect", "possessives_for_pre"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "em_subj_pronoun"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "em_subj_pronoun", "possessives_for_pre", "drop_aux_yn"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nikes not even touch", "rules": ["possessives_for_pre", "zero_plural_after_quantifier", "uninflect", "bare_perfect"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nikes not even touch", "rules": ["possessives_for_pre", "zero_plural_after_quantifier", "uninflect", "bare_perfect"]}
+{"text": "i dont think im getting for me baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "possessives_for_pre", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she does have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "do_tense_marker", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 she does have two white j and nike not even touch", "rules": ["zero_plural_after_quantifier", "zero_plural", "do_tense_marker", "drop_aux_yn", "bare_perfect", "no_gender_distinction"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nike not even touch", "rules": ["uninflect", "possessives_for_pre", "zero_plural", "bare_perfect"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "em_subj_pronoun"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "uninflect", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns", "uninflect", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touch", "rules": ["drop_aux_yn", "em_subj_pronoun", "uninflect", "bare_perfect"]}
+{"text": "i amnt thinking im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "progressives", "no_gender_distinction"]}
+{"text": "i amnt thinking im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "shadow_pronouns", "possessives_for_pre"]}
+{"text": "i doesnt think ims getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "generalized_third_person_s", "possessives_for_pre"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "possessives_for_pre", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns"]}
+{"text": "i amnt thinking im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns", "uninflect", "progressives"]}
+{"text": "i nt think im getting for me baby them white 9 she have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "em_subj_pronoun", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i dont think im getting my baby them white 9 she does have two white j and nikes not even touched them", "rules": ["no_gender_distinction", "zero_plural_after_quantifier", "shadow_pronouns", "do_tense_marker"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nike not even touch", "rules": ["generalized_third_person_s", "uninflect", "zero_plural", "bare_perfect"]}
+{"text": "i amnt thinking im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "possessives_for_pre", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nike not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns", "zero_plural"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "zero_plural_after_quantifier"]}
+{"text": "i amnt thinking im getting my baby them white 9 em have two white j and nikes not even touch", "rules": ["uninflect", "progressives", "em_subj_pronoun", "bare_perfect"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "shadow_pronouns"]}
+{"text": "i doesnt think ims getting my baby them white 9 she have two white j and nikes not even touched", "rules": ["generalized_third_person_s", "uninflect", "no_gender_distinction"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["possessives_for_pre", "shadow_pronouns", "uninflect", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting for me baby them white 9 she have two white j and nike not even touch", "rules": ["zero_plural", "uninflect", "bare_perfect", "generalized_third_person_s", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "shadow_pronouns", "zero_plural", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns", "uninflect", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "no_gender_distinction", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "no_gender_distinction", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nike not even touch", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "zero_plural", "uninflect", "drop_aux_yn", "bare_perfect", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting for me baby them white 9 he have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "possessives_for_pre", "progressives"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nike not even touched", "rules": ["zero_plural_after_quantifier", "zero_plural", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting", "drop_aux_yn"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["possessives_for_pre", "shadow_pronouns", "uninflect"]}
+{"text": "i doesnt think ims getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["generalized_third_person_s", "em_subj_pronoun", "uninflect"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched", "rules": ["uninflect", "no_gender_distinction", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she does have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "do_tense_marker", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "progressives"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nike not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "em_subj_pronoun", "zero_plural"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nike not even touched", "rules": ["generalized_third_person_s", "uninflect", "zero_plural"]}
+{"text": "i dont think im getting my baby them white 9 he does have two white j and nikes not even touched them", "rules": ["shadow_pronouns", "do_tense_marker"]}
+{"text": "i doesnt think ims getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "possessives_for_pre", "clefting"]}
+{"text": "i amnt thinking im getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "possessives_for_pre", "progressives", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he does have two white j and nike not even touch", "rules": ["zero_plural_after_quantifier", "zero_plural", "do_tense_marker", "drop_aux_yn", "bare_perfect"]}
+{"text": "i doesnt think ims getting my baby them white 9 em have two white j and nike not even touched", "rules": ["generalized_third_person_s", "uninflect", "em_subj_pronoun", "zero_plural"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "clefting"]}
+{"text": "i doesnt think ims getting for me baby them white 9 he have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "generalized_third_person_s", "possessives_for_pre"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nikes not even touched", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "shadow_pronouns"]}
+{"text": "i doesnt think ims getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["generalized_third_person_s", "uninflect", "em_subj_pronoun"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nike not even touched them", "rules": ["em_subj_pronoun", "shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i doesnt think ims getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "possessives_for_pre", "uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touch", "rules": ["generalized_third_person_s", "uninflect", "bare_perfect"]}
+{"text": "i nt think im getting my baby them white 9 he does have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "do_tense_marker", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 she have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "generalized_third_person_s", "no_gender_distinction"]}
+{"text": "i doesnt think ims getting my baby them white 9 she does have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "do_tense_marker", "generalized_third_person_s", "no_gender_distinction"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "em_subj_pronoun", "possessives_for_pre", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "progressives", "shadow_pronouns", "zero_plural"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "zero_plural", "drop_aux_yn"]}
+{"text": "i dont think im getting for me baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "possessives_for_pre", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "progressives", "shadow_pronouns", "zero_plural"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "possessives_for_pre", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "em_subj_pronoun"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nike not even touched", "rules": ["em_subj_pronoun", "zero_plural", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting for me baby them white 9 em have two white j and nikes not even touched them", "rules": ["em_subj_pronoun", "shadow_pronouns", "uninflect", "generalized_third_person_s", "possessives_for_pre"]}
+{"text": "i dont think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting"]}
+{"text": "i doesnt think ims getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns", "uninflect", "generalized_third_person_s"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i doesnt think ims getting for me baby them white 9 he have two white j and nike not even touch", "rules": ["zero_plural", "uninflect", "bare_perfect", "generalized_third_person_s", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nike not even touched", "rules": ["uninflect", "em_subj_pronoun", "zero_plural", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nike not even touched", "rules": ["uninflect", "em_subj_pronoun", "zero_plural", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns", "uninflect", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i amnt thinking im getting for me baby them white 9 she have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "possessives_for_pre", "progressives", "no_gender_distinction"]}
+{"text": "i amnt thinking im getting my baby them white 9 em have two white j and nikes not even touch", "rules": ["uninflect", "progressives", "em_subj_pronoun", "bare_perfect"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "shadow_pronouns"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "possessives_for_pre", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns"]}
+{"text": "i amnt thinking im getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "possessives_for_pre", "progressives", "no_gender_distinction"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nikes not even touched", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touch", "rules": ["uninflect", "zero_plural_after_quantifier", "drop_aux_yn", "bare_perfect"]}
+{"text": "i nt think im getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["shadow_pronouns", "uninflect", "drop_aux_yn", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i amnt thinking im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "possessives_for_pre", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nike not even touch", "rules": ["em_subj_pronoun", "zero_plural", "uninflect", "drop_aux_yn", "bare_perfect"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nike not even touch", "rules": ["uninflect", "zero_plural", "bare_perfect"]}
+{"text": "i amnt thinking im getting for me baby them white 9 em have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns", "zero_plural", "uninflect", "possessives_for_pre", "progressives"]}
+{"text": "i doesnt think ims getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "generalized_third_person_s", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["possessives_for_pre", "shadow_pronouns", "uninflect", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "possessives_for_pre", "clefting"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nike not even touch", "rules": ["em_subj_pronoun", "zero_plural", "uninflect", "drop_aux_yn", "bare_perfect", "possessives_for_pre"]}
+{"text": "i doesnt think ims getting for me baby them white 9 he have two white j and nike not even touched", "rules": ["zero_plural_after_quantifier", "zero_plural", "uninflect", "generalized_third_person_s", "possessives_for_pre"]}
+{"text": "i doesnt think ims getting for me baby them white 9 he have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "generalized_third_person_s", "possessives_for_pre"]}
+{"text": "i amnt thinking im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "progressives", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touch", "rules": ["uninflect", "bare_perfect", "drop_aux_yn"]}
+{"text": "i dont think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["possessives_for_pre", "uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["generalized_third_person_s", "uninflect", "zero_plural_after_quantifier", "em_subj_pronoun"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "shadow_pronouns", "zero_plural", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "em_subj_pronoun"]}
+{"text": "i amnt thinking im getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "possessives_for_pre", "progressives", "no_gender_distinction"]}
+{"text": "i dont think im getting my baby them white 9 she have two white j and nike not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "zero_plural"]}
+{"text": "i dont think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["possessives_for_pre", "uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "shadow_pronouns", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i nt think im getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["shadow_pronouns", "uninflect", "drop_aux_yn", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "shadow_pronouns", "uninflect"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 she have two white j and nike not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "zero_plural"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect"]}
+{"text": "i doesnt think ims getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "no_gender_distinction", "shadow_pronouns", "uninflect"]}
+{"text": "i nt think im getting my baby them white 9 em does have two white j and nike not even touch", "rules": ["em_subj_pronoun", "zero_plural", "do_tense_marker", "drop_aux_yn", "bare_perfect"]}
+{"text": "i nt think im getting my baby them white 9 he does have two white j and nikes not even touched them", "rules": ["shadow_pronouns", "do_tense_marker", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "possessives_for_pre", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["shadow_pronouns", "uninflect", "drop_aux_yn", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "em_subj_pronoun", "possessives_for_pre", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "progressives", "shadow_pronouns", "zero_plural"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nike not even touch", "rules": ["zero_plural_after_quantifier", "zero_plural", "uninflect", "bare_perfect", "possessives_for_pre"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["shadow_pronouns", "uninflect", "drop_aux_yn", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nike not even touched", "rules": ["generalized_third_person_s", "uninflect", "zero_plural"]}
+{"text": "i nt think im getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["shadow_pronouns", "uninflect", "drop_aux_yn", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touch", "rules": ["generalized_third_person_s", "uninflect", "zero_plural_after_quantifier", "bare_perfect"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns"]}
+{"text": "i amnt thinking im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "progressives"]}
+{"text": "i doesnt think ims getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "em_subj_pronoun", "shadow_pronouns", "uninflect"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "shadow_pronouns", "uninflect"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "uninflect", "shadow_pronouns", "no_gender_distinction"]}
+{"text": "i amnt thinking im getting for me baby them white 9 he have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "possessives_for_pre", "progressives"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "shadow_pronouns", "zero_plural_after_quantifier"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched", "rules": ["uninflect", "zero_plural", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "shadow_pronouns", "zero_plural", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "uninflect", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i dont think im getting my baby them white 9 she have two white j and nike not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "zero_plural"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "zero_plural", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i dont think im getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "possessives_for_pre"]}
+{"text": "i dont think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns"]}
+{"text": "i nt think im getting for me baby them white 9 she have two white j and nike not even touched", "rules": ["zero_plural", "uninflect", "drop_aux_yn", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "clefting"]}
+{"text": "i dont think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i dont think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he does have", "rules": ["do_tense_marker", "clefting"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "possessives_for_pre", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 em have two white j and nikes not even touch", "rules": ["uninflect", "progressives", "em_subj_pronoun", "bare_perfect"]}
+{"text": "i amnt thinking im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i doesnt think ims getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["shadow_pronouns", "uninflect", "generalized_third_person_s", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nikes not even touched them", "rules": ["em_subj_pronoun", "shadow_pronouns", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i amnt thinking im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "possessives_for_pre", "clefting"]}
+{"text": "i doesnt think ims getting for me baby them white 9 he have two white j and nikes not even touched", "rules": ["generalized_third_person_s", "uninflect", "zero_plural_after_quantifier", "possessives_for_pre"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "em_subj_pronoun", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nikes not even touched", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "possessives_for_pre", "progressives", "no_gender_distinction"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns"]}
+{"text": "i amnt thinking im getting for me baby them white 9 she have two white j and nikes not even touched", "rules": ["uninflect", "progressives", "no_gender_distinction", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touch", "rules": ["uninflect", "possessives_for_pre", "drop_aux_yn", "bare_perfect"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i amnt thinking im getting for me baby them white 9 em have two white j and nikes not even touched them", "rules": ["em_subj_pronoun", "shadow_pronouns", "uninflect", "possessives_for_pre", "progressives"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "clefting"]}
+{"text": "i amnt thinking im getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "progressives", "em_subj_pronoun"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "zero_plural"]}
+{"text": "i dont think im getting for me baby them white 9 she have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he does have", "rules": ["do_tense_marker", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting for me baby them white 9 em have two white j and nikes not even touched them", "rules": ["em_subj_pronoun", "shadow_pronouns", "uninflect", "possessives_for_pre", "progressives"]}
+{"text": "i nt think im getting my baby them white 9 he does have two white j and nikes not even touch", "rules": ["bare_perfect", "do_tense_marker", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "em_subj_pronoun", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touch", "rules": ["uninflect", "drop_aux_yn", "bare_perfect"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "no_gender_distinction", "progressives"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touch", "rules": ["uninflect", "bare_perfect", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "shadow_pronouns", "zero_plural", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 he does have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "do_tense_marker", "drop_aux_yn"]}
+{"text": "i dont think im getting for me baby them white 9 she does have two white j and nike not even touch", "rules": ["zero_plural", "do_tense_marker", "bare_perfect", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i nt think im getting for me baby them white 9 he does have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "do_tense_marker", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i dont think im getting for me baby them white 9 em have two white j and nike not even touch", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "zero_plural", "uninflect", "bare_perfect", "possessives_for_pre"]}
+{"text": "i amnt thinking im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "possessives_for_pre", "clefting"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "em_subj_pronoun"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["shadow_pronouns", "uninflect", "drop_aux_yn", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "em_subj_pronoun", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "progressives"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touch", "rules": ["uninflect", "em_subj_pronoun", "drop_aux_yn", "bare_perfect"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i doesnt think ims getting my baby them white 9 she does have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "no_gender_distinction", "shadow_pronouns", "do_tense_marker"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 she have two white j and nikes not even touched", "rules": ["generalized_third_person_s", "no_gender_distinction", "uninflect"]}
+{"text": "i amnt thinking im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "possessives_for_pre", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "zero_plural", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "no_gender_distinction", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nike not even touch", "rules": ["zero_plural", "uninflect", "drop_aux_yn", "bare_perfect", "no_gender_distinction"]}
+{"text": "i dont think im getting my baby them white 9 she have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "no_gender_distinction"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "clefting"]}
+{"text": "i dont think im getting for me baby them white 9 em have two white j and nike not even touch", "rules": ["em_subj_pronoun", "zero_plural", "uninflect", "bare_perfect", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "shadow_pronouns", "uninflect"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 em have two white j and nike not even touched them", "rules": ["em_subj_pronoun", "shadow_pronouns", "zero_plural", "uninflect", "progressives"]}
+{"text": "i amnt thinking im getting for me baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "possessives_for_pre", "progressives"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i amnt thinking im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touch", "rules": ["uninflect", "bare_perfect", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "shadow_pronouns"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touch", "rules": ["zero_plural_after_quantifier", "uninflect", "drop_aux_yn", "bare_perfect", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "no_gender_distinction", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "em_subj_pronoun"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "progressives"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i nt think im getting for me baby them white 9 she have two white j and nikes not even touched", "rules": ["uninflect", "no_gender_distinction", "possessives_for_pre", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 he does have two white j and nike not even touched them", "rules": ["shadow_pronouns", "do_tense_marker", "zero_plural"]}
+{"text": "i dont think im getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["no_gender_distinction", "uninflect", "possessives_for_pre", "shadow_pronouns"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "shadow_pronouns", "uninflect"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["possessives_for_pre", "uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 she have two white j and nikes not even touch", "rules": ["uninflect", "drop_aux_yn", "bare_perfect", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nike not even touched", "rules": ["generalized_third_person_s", "uninflect", "zero_plural_after_quantifier", "zero_plural"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "shadow_pronouns", "zero_plural", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "uninflect", "shadow_pronouns"]}
+{"text": "i doesnt think ims getting for me baby them white 9 he does have two white j and nikes not even touched", "rules": ["generalized_third_person_s", "possessives_for_pre", "do_tense_marker"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["generalized_third_person_s", "shadow_pronouns", "uninflect", "zero_plural"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "em_subj_pronoun", "possessives_for_pre", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she does have two white j and nike not even touch", "rules": ["zero_plural_after_quantifier", "zero_plural", "do_tense_marker", "bare_perfect", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nike not even touched", "rules": ["zero_plural_after_quantifier", "zero_plural", "uninflect", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "shadow_pronouns", "uninflect"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "possessives_for_pre", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns"]}
+{"text": "i dont think im getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["possessives_for_pre", "shadow_pronouns", "no_gender_distinction", "uninflect"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 she have two white j and nikes not even touched", "rules": ["uninflect", "no_gender_distinction", "possessives_for_pre", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "uninflect", "shadow_pronouns"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "possessives_for_pre", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting for me baby them white 9 he have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "generalized_third_person_s", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "clefting"]}
+{"text": "i amnt thinking im getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "possessives_for_pre", "progressives", "no_gender_distinction"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touch", "rules": ["uninflect", "bare_perfect", "zero_plural_after_quantifier", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touch", "rules": ["zero_plural_after_quantifier", "uninflect", "bare_perfect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i nt think im getting for me baby them white 9 she have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i doesnt think ims getting for me baby them white 9 he have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "generalized_third_person_s", "possessives_for_pre"]}
+{"text": "i doesnt think ims getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "uninflect", "possessives_for_pre", "shadow_pronouns"]}
+{"text": "i doesnt think ims getting my baby them white 9 she have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "generalized_third_person_s", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "possessives_for_pre", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nike not even touch", "rules": ["uninflect", "progressives", "zero_plural", "bare_perfect"]}
+{"text": "i dont think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touch", "rules": ["generalized_third_person_s", "uninflect", "bare_perfect"]}
+{"text": "i nt think im getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "drop_aux_yn", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i doesnt think ims getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "possessives_for_pre", "clefting"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touch", "rules": ["uninflect", "bare_perfect", "possessives_for_pre", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i doesnt think ims getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "possessives_for_pre", "clefting"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "progressives"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "possessives_for_pre", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 she have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns"]}
+{"text": "i amnt thinking im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "zero_plural"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touch", "rules": ["uninflect", "em_subj_pronoun", "drop_aux_yn", "bare_perfect"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "shadow_pronouns", "zero_plural_after_quantifier"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "possessives_for_pre", "shadow_pronouns", "zero_plural"]}
+{"text": "i amnt thinking im getting my baby them white 9 em have two white j and nike not even touched them", "rules": ["em_subj_pronoun", "shadow_pronouns", "zero_plural", "uninflect", "progressives"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched", "rules": ["uninflect", "zero_plural", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting for me baby them white 9 em have two white j and nikes not even touch", "rules": ["em_subj_pronoun", "uninflect", "bare_perfect", "possessives_for_pre", "progressives"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touch", "rules": ["uninflect", "bare_perfect", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nike not even touched", "rules": ["zero_plural_after_quantifier", "zero_plural", "uninflect", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "possessives_for_pre", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 em have two white j and nikes not even touch", "rules": ["uninflect", "progressives", "em_subj_pronoun", "bare_perfect"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touch", "rules": ["uninflect", "bare_perfect"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "shadow_pronouns", "zero_plural", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "shadow_pronouns", "uninflect"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touch", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "uninflect", "bare_perfect", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "uninflect", "zero_plural_after_quantifier", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nike not even touched", "rules": ["zero_plural_after_quantifier", "zero_plural", "uninflect", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he does have", "rules": ["drop_aux_yn", "do_tense_marker", "clefting"]}
+{"text": "i nt think im getting for me baby them white 9 she have two white j and nikes not even touched", "rules": ["uninflect", "possessives_for_pre", "no_gender_distinction", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 she have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "progressives", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched", "rules": ["uninflect", "no_gender_distinction", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nikes not even touch", "rules": ["uninflect", "zero_plural_after_quantifier", "progressives", "bare_perfect"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i doesnt think ims getting my baby them white 9 she have two white j and nikes not even touch", "rules": ["generalized_third_person_s", "uninflect", "no_gender_distinction", "bare_perfect"]}
+{"text": "i dont think im getting my baby them white 9 he does have two white j and nike not even touched them", "rules": ["shadow_pronouns", "do_tense_marker", "zero_plural"]}
+{"text": "i amnt thinking im getting for me baby them white 9 em have two white j and nikes not even touched", "rules": ["possessives_for_pre", "progressives", "em_subj_pronoun", "uninflect"]}
+{"text": "i dont think im getting my baby them white 9 em does have two white j and nikes not even touched", "rules": ["em_subj_pronoun", "do_tense_marker"]}
+{"text": "i doesnt think ims getting my baby them white 9 she have two white j and nikes not even touched", "rules": ["generalized_third_person_s", "no_gender_distinction", "uninflect"]}
+{"text": "i dont think im getting for me baby them white 9 em have two white j and nikes not even touch", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "uninflect", "bare_perfect", "possessives_for_pre"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nikes not even touch", "rules": ["em_subj_pronoun", "uninflect", "drop_aux_yn", "bare_perfect", "possessives_for_pre"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns", "uninflect", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i dont think im getting for me baby them white 9 she have two white j and nikes not even touch", "rules": ["possessives_for_pre", "no_gender_distinction", "uninflect", "bare_perfect"]}
+{"text": "i doesnt think ims getting for me baby them white 9 he have two white j and nikes not even touched", "rules": ["generalized_third_person_s", "zero_plural_after_quantifier", "possessives_for_pre", "uninflect"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nike not even touched", "rules": ["zero_plural_after_quantifier", "zero_plural", "uninflect", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i doesnt think ims getting my baby them white 9 she have two white j and nikes not even touch", "rules": ["generalized_third_person_s", "no_gender_distinction", "uninflect", "bare_perfect"]}
+{"text": "i doesnt think ims getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "possessives_for_pre", "uninflect", "clefting"]}
+{"text": "i doesnt think ims getting my baby them white 9 she have two white j and nike not even touched", "rules": ["zero_plural_after_quantifier", "zero_plural", "uninflect", "generalized_third_person_s", "no_gender_distinction"]}
+{"text": "i dont think im getting my baby them white 9 she have two white j and nikes not even touched", "rules": ["uninflect", "no_gender_distinction"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched", "rules": ["generalized_third_person_s", "uninflect"]}
+{"text": "i amnt thinking im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "possessives_for_pre", "progressives"]}
+{"text": "i doesnt think ims getting for me baby them white 9 she have two white j and nike not even touched", "rules": ["zero_plural_after_quantifier", "zero_plural", "uninflect", "generalized_third_person_s", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i dont think im getting my baby them white 9 she have two white j and nike not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "zero_plural"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "no_gender_distinction", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nikes not even touch", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "uninflect", "drop_aux_yn", "bare_perfect", "possessives_for_pre"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "shadow_pronouns", "uninflect"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting for me baby them white 9 he does have two white j and nikes not even touched", "rules": ["possessives_for_pre", "progressives", "do_tense_marker"]}
+{"text": "i amnt thinking im getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "progressives", "em_subj_pronoun", "zero_plural_after_quantifier"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nikes not even touched", "rules": ["possessives_for_pre", "em_subj_pronoun", "uninflect", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "possessives_for_pre", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nike not even touched", "rules": ["generalized_third_person_s", "uninflect", "zero_plural"]}
+{"text": "i amnt thinking im getting my baby them white 9 she does have two white j and nike not even touch", "rules": ["zero_plural_after_quantifier", "zero_plural", "do_tense_marker", "bare_perfect", "progressives", "no_gender_distinction"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "clefting"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting", "drop_aux_yn"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "possessives_for_pre", "shadow_pronouns", "zero_plural_after_quantifier"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "no_gender_distinction", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he does have two white j and nike not even touched them", "rules": ["shadow_pronouns", "do_tense_marker", "zero_plural", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nike not even touch", "rules": ["em_subj_pronoun", "zero_plural", "uninflect", "bare_perfect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "no_gender_distinction", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["possessives_for_pre", "clefting", "uninflect", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "uninflect", "shadow_pronouns", "possessives_for_pre"]}
+{"text": "i doesnt think ims getting my baby them white 9 she have two white j and nikes not even touched", "rules": ["generalized_third_person_s", "uninflect", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he does have", "rules": ["possessives_for_pre", "clefting", "do_tense_marker", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nike not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "progressives", "zero_plural"]}
+{"text": "i doesnt think ims getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "shadow_pronouns", "possessives_for_pre", "uninflect"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 she have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "progressives", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "em_subj_pronoun", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched", "rules": ["uninflect", "no_gender_distinction", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "uninflect", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nike not even touch", "rules": ["uninflect", "progressives", "zero_plural", "bare_perfect"]}
+{"text": "i amnt thinking im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "shadow_pronouns", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nike not even touch", "rules": ["zero_plural", "uninflect", "drop_aux_yn", "bare_perfect", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touch", "rules": ["uninflect", "bare_perfect", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touch", "rules": ["uninflect", "bare_perfect", "zero_plural", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i amnt thinking im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "possessives_for_pre", "progressives"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "possessives_for_pre"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["possessives_for_pre", "uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "generalized_third_person_s", "possessives_for_pre"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touch", "rules": ["generalized_third_person_s", "uninflect", "zero_plural_after_quantifier", "bare_perfect"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nike not even touched", "rules": ["em_subj_pronoun", "zero_plural", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "shadow_pronouns", "zero_plural", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touch", "rules": ["uninflect", "bare_perfect", "no_gender_distinction", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting for me baby them white 9 she have two white j and nikes not even touched", "rules": ["zero_plural_after_quantifier", "uninflect", "generalized_third_person_s", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nike not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns", "zero_plural"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "zero_plural"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i doesnt think ims getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "possessives_for_pre", "shadow_pronouns", "uninflect"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nike not even touched", "rules": ["uninflect", "no_gender_distinction", "zero_plural", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "em_subj_pronoun", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nike not even touch", "rules": ["generalized_third_person_s", "uninflect", "zero_plural", "bare_perfect"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nike not even touched", "rules": ["uninflect", "no_gender_distinction", "zero_plural", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "zero_plural", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting for me baby them white 9 she have two white j and nikes not even touch", "rules": ["uninflect", "bare_perfect", "generalized_third_person_s", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting for me baby them white 9 em have two white j and nikes not even touched them", "rules": ["em_subj_pronoun", "shadow_pronouns", "uninflect", "generalized_third_person_s", "possessives_for_pre"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "uninflect", "shadow_pronouns"]}
+{"text": "i amnt thinking im getting for me baby them white 9 em have two white j and nike not even touched", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "zero_plural", "uninflect", "possessives_for_pre", "progressives"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "possessives_for_pre", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 she have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "no_gender_distinction"]}
+{"text": "i dont think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nike not even touch", "rules": ["em_subj_pronoun", "zero_plural", "uninflect", "drop_aux_yn", "bare_perfect"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "em_subj_pronoun", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting for me baby them white 9 em have two white j and nike not even touch", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "zero_plural", "uninflect", "bare_perfect", "possessives_for_pre", "progressives"]}
+{"text": "i doesnt think ims getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "possessives_for_pre", "clefting"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i doesnt think ims getting for me baby them white 9 it is two white j and nikes not even touched that he does have", "rules": ["generalized_third_person_s", "possessives_for_pre", "do_tense_marker", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "zero_plural", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nike not even touched", "rules": ["uninflect", "em_subj_pronoun", "zero_plural", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "generalized_third_person_s", "no_gender_distinction"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "shadow_pronouns", "zero_plural"]}
+{"text": "i amnt thinking im getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["shadow_pronouns", "uninflect", "possessives_for_pre", "progressives", "no_gender_distinction"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touch", "rules": ["zero_plural_after_quantifier", "uninflect", "bare_perfect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i doesnt think ims getting for me baby them white 9 she have two white j and nikes not even touched", "rules": ["generalized_third_person_s", "uninflect", "no_gender_distinction", "possessives_for_pre"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "uninflect", "zero_plural_after_quantifier", "shadow_pronouns"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he does have", "rules": ["do_tense_marker", "clefting"]}
+{"text": "i doesnt think ims getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "uninflect", "no_gender_distinction", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "shadow_pronouns", "zero_plural", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he does have", "rules": ["progressives", "do_tense_marker", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "possessives_for_pre", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting", "drop_aux_yn"]}
+{"text": "i dont think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["possessives_for_pre", "uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "clefting"]}
+{"text": "i dont think im getting for me baby them white 9 she have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touch", "rules": ["uninflect", "bare_perfect", "em_subj_pronoun", "drop_aux_yn"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["possessives_for_pre", "zero_plural_after_quantifier", "shadow_pronouns", "uninflect"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched", "rules": ["uninflect", "no_gender_distinction", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touch", "rules": ["zero_plural_after_quantifier", "uninflect", "drop_aux_yn", "bare_perfect", "possessives_for_pre"]}
+{"text": "i doesnt think ims getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "possessives_for_pre", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touch", "rules": ["uninflect", "bare_perfect", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "shadow_pronouns", "zero_plural", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "em_subj_pronoun"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touch", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "uninflect", "bare_perfect", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["possessives_for_pre", "uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "no_gender_distinction", "shadow_pronouns"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nikes not even touched", "rules": ["possessives_for_pre", "em_subj_pronoun", "uninflect", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "possessives_for_pre", "clefting"]}
+{"text": "i amnt thinking im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "progressives"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns", "uninflect", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "uninflect", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i dont think im getting for me baby them white 9 em have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns", "uninflect", "possessives_for_pre"]}
+{"text": "i amnt thinking im getting my baby them white 9 she have two white j and nikes not even touched", "rules": ["uninflect", "progressives", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nike not even touched them", "rules": ["em_subj_pronoun", "shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 he does have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "zero_plural_after_quantifier", "shadow_pronouns", "do_tense_marker"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 she have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touch", "rules": ["uninflect", "zero_plural_after_quantifier", "bare_perfect"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns", "uninflect", "drop_aux_yn"]}
+{"text": "i dont think im getting for me baby them white 9 she have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "em_subj_pronoun", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nike not even touched", "rules": ["uninflect", "progressives", "zero_plural_after_quantifier", "zero_plural"]}
+{"text": "i dont think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["no_gender_distinction", "uninflect", "zero_plural_after_quantifier", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "drop_aux_yn"]}
+{"text": "i dont think im getting for me baby them white 9 he does have two white j and nike not even touched", "rules": ["possessives_for_pre", "do_tense_marker", "zero_plural"]}
+{"text": "i amnt thinking im getting my baby them white 9 em have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns", "zero_plural", "uninflect", "progressives"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he does have", "rules": ["do_tense_marker", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nike not even touched", "rules": ["generalized_third_person_s", "uninflect", "zero_plural"]}
+{"text": "i amnt thinking im getting my baby them white 9 em have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns", "zero_plural", "uninflect", "progressives"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nike not even touched", "rules": ["uninflect", "possessives_for_pre", "zero_plural"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nikes not even touch", "rules": ["uninflect", "progressives", "bare_perfect"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i dont think im getting for me baby them white 9 she have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he does have", "rules": ["do_tense_marker", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nike not even touched", "rules": ["uninflect", "possessives_for_pre", "zero_plural", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touch", "rules": ["uninflect", "bare_perfect", "possessives_for_pre", "drop_aux_yn"]}
+{"text": "i dont think im getting for me baby them white 9 she have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["possessives_for_pre", "drop_aux_yn", "uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touch", "rules": ["uninflect", "bare_perfect", "em_subj_pronoun", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touch", "rules": ["uninflect", "bare_perfect", "possessives_for_pre", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "uninflect", "zero_plural_after_quantifier", "shadow_pronouns"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "uninflect", "shadow_pronouns"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn"]}
+{"text": "i dont think im getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "possessives_for_pre", "no_gender_distinction", "shadow_pronouns"]}
+{"text": "i doesnt think ims getting my baby them white 9 em have two white j and nike not even touched them", "rules": ["em_subj_pronoun", "shadow_pronouns", "zero_plural", "uninflect", "generalized_third_person_s"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "no_gender_distinction", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "possessives_for_pre", "clefting"]}
+{"text": "i amnt thinking im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "possessives_for_pre", "clefting"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nikes not even touch", "rules": ["possessives_for_pre", "uninflect", "bare_perfect"]}
+{"text": "i doesnt think ims getting my baby them white 9 she have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "generalized_third_person_s", "no_gender_distinction"]}
+{"text": "i amnt thinking im getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["shadow_pronouns", "uninflect", "possessives_for_pre", "progressives", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i dont think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["possessives_for_pre", "uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i doesnt think ims getting my baby them white 9 em have two white j and nikes not even touch", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "uninflect", "bare_perfect", "generalized_third_person_s"]}
+{"text": "i amnt thinking im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["no_gender_distinction", "uninflect", "progressives", "shadow_pronouns"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "no_gender_distinction", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "shadow_pronouns", "no_gender_distinction", "uninflect"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["possessives_for_pre", "zero_plural_after_quantifier", "shadow_pronouns", "uninflect"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touch", "rules": ["uninflect", "em_subj_pronoun", "bare_perfect"]}
+{"text": "i doesnt think ims getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["shadow_pronouns", "uninflect", "generalized_third_person_s", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i doesnt think ims getting for me baby them white 9 she have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "generalized_third_person_s", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i dont think im getting for me baby them white 9 she have two white j and nike not even touched", "rules": ["uninflect", "possessives_for_pre", "no_gender_distinction", "zero_plural"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nike not even touched", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "zero_plural", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he does have", "rules": ["do_tense_marker", "clefting", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 she have two white j and nikes not even touched", "rules": ["generalized_third_person_s", "uninflect", "zero_plural_after_quantifier", "no_gender_distinction"]}
+{"text": "i amnt thinking im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["progressives", "possessives_for_pre", "uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 he does have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "do_tense_marker", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "possessives_for_pre", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "em_subj_pronoun", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "possessives_for_pre", "progressives", "no_gender_distinction"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nike not even touched", "rules": ["uninflect", "possessives_for_pre", "zero_plural", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 he does have two white j and nikes not even touched", "rules": ["do_tense_marker", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nike not even touched", "rules": ["uninflect", "no_gender_distinction", "zero_plural", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting for me baby them white 9 em have two white j and nike not even touched", "rules": ["em_subj_pronoun", "zero_plural", "uninflect", "possessives_for_pre", "progressives"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i amnt thinking im getting for me baby them white 9 em have two white j and nikes not even touched them", "rules": ["em_subj_pronoun", "shadow_pronouns", "uninflect", "possessives_for_pre", "progressives"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touch", "rules": ["uninflect", "drop_aux_yn", "zero_plural", "bare_perfect"]}
+{"text": "i amnt thinking im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "possessives_for_pre", "clefting"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nike not even touched them", "rules": ["em_subj_pronoun", "shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "em_subj_pronoun", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touch", "rules": ["generalized_third_person_s", "uninflect", "zero_plural_after_quantifier", "bare_perfect"]}
+{"text": "i dont think im getting for me baby them white 9 she have two white j and nike not even touched", "rules": ["uninflect", "no_gender_distinction", "possessives_for_pre", "zero_plural"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nikes not even touched them", "rules": ["em_subj_pronoun", "shadow_pronouns", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i amnt thinking im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "possessives_for_pre", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns"]}
+{"text": "i nt think im getting for me baby them white 9 he does have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "do_tense_marker", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i amnt thinking im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "possessives_for_pre", "clefting"]}
+{"text": "i nt think im getting for me baby them white 9 she have two white j and nikes not even touch", "rules": ["zero_plural_after_quantifier", "uninflect", "bare_perfect", "drop_aux_yn", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "possessives_for_pre"]}
+{"text": "i amnt thinking im getting for me baby them white 9 she have two white j and nikes not even touched them", "rules": ["shadow_pronouns", "uninflect", "possessives_for_pre", "progressives", "no_gender_distinction"]}
+{"text": "i amnt thinking im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i amnt thinking im getting for me baby them white 9 em have two white j and nikes not even touched them", "rules": ["em_subj_pronoun", "shadow_pronouns", "uninflect", "possessives_for_pre", "progressives"]}
+{"text": "i dont think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting"]}
+{"text": "i amnt thinking im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["no_gender_distinction", "uninflect", "progressives", "shadow_pronouns"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touch", "rules": ["zero_plural_after_quantifier", "uninflect", "drop_aux_yn", "bare_perfect", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "progressives"]}
+{"text": "i doesnt think ims getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns", "uninflect", "generalized_third_person_s"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i dont think im getting my baby them white 9 she have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "zero_plural_after_quantifier"]}
+{"text": "i doesnt think ims getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "no_gender_distinction", "shadow_pronouns", "uninflect"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "possessives_for_pre", "clefting", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns"]}
+{"text": "i doesnt think ims getting for me baby them white 9 she have two white j and nike not even touched", "rules": ["zero_plural", "uninflect", "generalized_third_person_s", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i doesnt think ims getting for me baby them white 9 em have two white j and nike not even touched", "rules": ["em_subj_pronoun", "zero_plural", "uninflect", "generalized_third_person_s", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touch", "rules": ["uninflect", "em_subj_pronoun", "bare_perfect"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "uninflect", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 he does have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "do_tense_marker", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["possessives_for_pre", "uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 she have two white j and nikes not even touched", "rules": ["zero_plural_after_quantifier", "uninflect", "drop_aux_yn", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "possessives_for_pre", "shadow_pronouns"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nike not even touch", "rules": ["uninflect", "progressives", "zero_plural", "bare_perfect"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "no_gender_distinction", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "possessives_for_pre", "clefting"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nike not even touched", "rules": ["uninflect", "possessives_for_pre", "zero_plural"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touch", "rules": ["bare_perfect", "uninflect", "zero_plural_after_quantifier", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touch", "rules": ["uninflect", "bare_perfect"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he does have", "rules": ["do_tense_marker", "clefting", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting for me baby them white 9 he have two white j and nikes not even touched", "rules": ["generalized_third_person_s", "uninflect", "possessives_for_pre"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "no_gender_distinction", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he does have two white j and nike not even touched", "rules": ["do_tense_marker", "zero_plural", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i doesnt think ims getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "uninflect", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he does have", "rules": ["generalized_third_person_s", "do_tense_marker", "clefting"]}
+{"text": "i amnt thinking im getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "possessives_for_pre", "clefting"]}
+{"text": "i nt think im getting for me baby them white 9 she have two white j and nikes not even touch", "rules": ["uninflect", "drop_aux_yn", "bare_perfect", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touched", "rules": ["uninflect", "possessives_for_pre", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "shadow_pronouns", "zero_plural"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "shadow_pronouns", "uninflect"]}
+{"text": "i amnt thinking im getting my baby them white 9 em have two white j and nike not even touched", "rules": ["uninflect", "progressives", "em_subj_pronoun", "zero_plural"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "uninflect", "shadow_pronouns"]}
+{"text": "i doesnt think ims getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "possessives_for_pre", "clefting"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nike not even touch", "rules": ["em_subj_pronoun", "zero_plural", "uninflect", "drop_aux_yn", "bare_perfect", "possessives_for_pre"]}
+{"text": "i nt think im getting for me baby them white 9 em have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "clefting"]}
+{"text": "i amnt thinking im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nike not even touch", "rules": ["uninflect", "progressives", "zero_plural", "bare_perfect"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i amnt thinking im getting for me baby them white 9 em have two white j and nikes not even touched them", "rules": ["em_subj_pronoun", "shadow_pronouns", "uninflect", "possessives_for_pre", "progressives"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 she have two white j and nikes not even touch", "rules": ["zero_plural_after_quantifier", "uninflect", "bare_perfect", "drop_aux_yn", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nike not even touch", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "zero_plural", "uninflect", "drop_aux_yn", "bare_perfect"]}
+{"text": "i amnt thinking im getting my baby them white 9 em have two white j and nike not even touched them", "rules": ["em_subj_pronoun", "shadow_pronouns", "zero_plural", "uninflect", "progressives"]}
+{"text": "i doesnt think ims getting for me baby them white 9 she have two white j and nikes not even touch", "rules": ["uninflect", "bare_perfect", "generalized_third_person_s", "possessives_for_pre", "no_gender_distinction"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched", "rules": ["uninflect", "no_gender_distinction", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["generalized_third_person_s", "uninflect", "shadow_pronouns", "zero_plural"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touch", "rules": ["uninflect", "bare_perfect", "no_gender_distinction", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 she have two white j and nike not even touched them", "rules": ["uninflect", "shadow_pronouns", "no_gender_distinction", "zero_plural"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nike not even touched them", "rules": ["shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn", "no_gender_distinction"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touch", "rules": ["uninflect", "bare_perfect", "em_subj_pronoun", "drop_aux_yn"]}
+{"text": "i nt think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "uninflect", "drop_aux_yn", "possessives_for_pre"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i dont think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns"]}
+{"text": "i amnt thinking im getting for me baby them white 9 he have two white j and nikes not even touch", "rules": ["uninflect", "progressives", "possessives_for_pre", "bare_perfect"]}
+{"text": "i doesnt think ims getting my baby them white 9 she does have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "no_gender_distinction", "shadow_pronouns", "do_tense_marker"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touch", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "uninflect", "drop_aux_yn", "bare_perfect"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nike not even touched", "rules": ["uninflect", "no_gender_distinction", "zero_plural", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "shadow_pronouns", "zero_plural"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 she have two white j and nikes not even touched them", "rules": ["uninflect", "no_gender_distinction", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["uninflect", "shadow_pronouns", "zero_plural", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting for me baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["generalized_third_person_s", "uninflect", "possessives_for_pre", "clefting"]}
+{"text": "i amnt thinking im getting for me baby them white 9 she have two white j and nike not even touch", "rules": ["zero_plural", "uninflect", "bare_perfect", "possessives_for_pre", "progressives", "no_gender_distinction"]}
+{"text": "i dont think im getting my baby them white 9 em have two white j and nikes not even touched", "rules": ["uninflect", "zero_plural_after_quantifier", "em_subj_pronoun"]}
+{"text": "i doesnt think ims getting my baby them white 9 she have two white j and nikes not even touch", "rules": ["generalized_third_person_s", "no_gender_distinction", "uninflect", "bare_perfect"]}
+{"text": "i doesnt think ims getting my baby them white 9 she have two white j and nikes not even touch", "rules": ["zero_plural_after_quantifier", "uninflect", "bare_perfect", "generalized_third_person_s", "no_gender_distinction"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nike not even touched", "rules": ["uninflect", "zero_plural"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "shadow_pronouns", "zero_plural", "uninflect", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns"]}
+{"text": "i dont think im getting my baby them white 9 she have two white j and nikes not even touched", "rules": ["uninflect", "no_gender_distinction"]}
+{"text": "i dont think im getting my baby them white 9 he have two white j and nike not even touched", "rules": ["uninflect", "zero_plural"]}
+{"text": "i amnt thinking im getting my baby them white 9 he have two white j and nike not even touched", "rules": ["uninflect", "progressives", "zero_plural"]}
+{"text": "i doesnt think ims getting my baby them white 9 it is two white j and nikes not even touched that he does have", "rules": ["generalized_third_person_s", "do_tense_marker", "clefting"]}
+{"text": "i doesnt think ims getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["generalized_third_person_s", "uninflect", "possessives_for_pre", "shadow_pronouns"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 em does have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns", "do_tense_marker"]}
+{"text": "i doesnt think ims getting my baby them white 9 he have two white j and nikes not even touched", "rules": ["generalized_third_person_s", "uninflect", "zero_plural_after_quantifier"]}
+{"text": "i amnt thinking im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "progressives", "em_subj_pronoun", "shadow_pronouns"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns", "uninflect", "drop_aux_yn"]}
+{"text": "i dont think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting"]}
+{"text": "i dont think im getting for me baby them white 9 em have two white j and nike not even touched them", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns", "zero_plural", "uninflect", "possessives_for_pre"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "possessives_for_pre", "zero_plural_after_quantifier"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["zero_plural_after_quantifier", "em_subj_pronoun", "shadow_pronouns", "uninflect", "drop_aux_yn"]}
+{"text": "i doesnt think ims getting for me baby them white 9 she have two white j and nikes not even touched", "rules": ["generalized_third_person_s", "no_gender_distinction", "possessives_for_pre", "uninflect"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nike not even touch", "rules": ["em_subj_pronoun", "zero_plural", "uninflect", "bare_perfect", "drop_aux_yn"]}
+{"text": "i dont think im getting for me baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "zero_plural_after_quantifier", "shadow_pronouns", "possessives_for_pre"]}
+{"text": "i amnt thinking im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "progressives", "clefting"]}
+{"text": "i nt think im getting my baby them white 9 he have two white j and nikes not even touched them", "rules": ["uninflect", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 em have two white j and nikes not even touched them", "rules": ["uninflect", "em_subj_pronoun", "shadow_pronouns", "drop_aux_yn"]}
+{"text": "i nt think im getting my baby them white 9 it is two white j and nikes not even touched that he have", "rules": ["uninflect", "clefting", "drop_aux_yn"]}

@@ -302,7 +302,7 @@ Run: """
 
 if __name__ == "__main__":
     # read in file, parse as a list of dataframe
-    file_path = "../data/train.conll"
+    file_path = "../data/BN-CS_NER/train.conll"
     print(f"reading in file: {file_path}")
     corpus = parse_file(file_path=file_path)
     # each sentence cann now be called by corpus[idx]

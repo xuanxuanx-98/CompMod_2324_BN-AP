@@ -1,7 +1,0 @@
-The data used in this research is accessible on the Linguistic Code-switching Evaluation (LinCE) website:
-
-https://ritual.uh.edu/lince/datasets
-
-You need to download "Spanish - English (SPA - ENG)" data under "Named Entity Recognition (NER)" section.
-
-Before downloading you need to first log in.

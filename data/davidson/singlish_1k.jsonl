@@ -1,0 +1,1000 @@
+{"text": "!!! RT @mayasolovely: woman you shouldn't complain cleaning up your house. &amp; man you one should always take trash out...", "rules": ["remove_det_definite", "one_relativizer", "null_prepositions", "remove_det_indefinite"]}
+{"text": "!!!!! Are RTING @mleew17: boy dat cold...tyga is dwning bad cuffin dat hoe that 1st place!!", "rules": ["progressives", "demonstrative_for_definite_articles", "null_prepositions", "zero_plural"]}
+{"text": "!!!!!!! RT @UrKindOfBrand Dawg!!!! RT @80sbaby4life: Y'all ever fuck one bitch and she start to cry? Y'all be confused shit", "rules": ["null_prepositions", "yall", "indef_one"]}
+{"text": "!!!!!!!!! RT @C_G_Anderson: @viva_based she look tranny", "rules": ["remove_det_indefinite", "null_prepositions"]}
+{"text": "!!!!!!!!!!!!! RT @ShenikaRobert: shit y'all hear me can be true or can be faker bitch who tell to ya &#57361;", "rules": ["zero_plural", "present_modals", "object_pronoun_drop", "yall", "null_referential_pronouns", "bare_past_tense", "remove_det_definite", "null_prepositions"]}
+{"text": "!!!!!!!!!!!!!!!!!!\"@T_Madison_x: shit just blow ..claim so faithful and down somebody but still fucking ho! &#128514;&#128514;&#128514;\"", "rules": ["zero_plural", "object_pronoun_drop", "uninflect", "remove_det_definite", "null_prepositions"]}
+{"text": "!!!!!!\"@__BrighterDays: I can not just sit up and HATE another bitch .. I get too much shit going on!\"", "rules": ["bare_past_tense", "null_prepositions"]}
+{"text": "!!!!&#8220;@selfiequeenbri: are causing I'm like tired you big bitch coming us skinny girls!!&#8221;", "rules": ["progressives", "plural_to_singular_human", "acomp_focusing_like", "null_prepositions"]}
+{"text": "\" &amp; y'all can not get ya bitch back &amp; that ones that one \"", "rules": ["yall", "one_relativizer", "present_modals"]}
+{"text": "\" @rhythmixx_ :hobby include: fighting Mariam\"\n\nbitch", "rules": ["zero_plural"]}
+{"text": "\" Keeks one bitch she curve everyone \" lol I one walk conversation this. Smh", "rules": ["uninflect", "one_relativizer", "bare_past_tense", "remove_det_indefinite", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "\" Murda Gang one bitch its Gang Land \"", "rules": ["one_relativizer"]}
+{"text": "\" So hos that smoke losers ? \" yea ... go IG", "rules": ["regularized_plurals", "null_prepositions", "drop_aux_yn"]}
+{"text": "\" bad bitch the only thing that i like \"", "rules": ["plural_to_singular_human", "drop_copula_be_NP"]}
+{"text": "\" bitch one get up me \"", "rules": ["one_relativizer", "null_prepositions"]}
+{"text": "\" bitch nigga one miss the thing \"", "rules": ["object_pronoun_drop", "referential_thing", "one_relativizer", "null_prepositions"]}
+{"text": "\" bitch one plz whatever \"", "rules": ["one_relativizer"]}
+{"text": "\" bitch who you one love \"", "rules": ["one_relativizer", "drop_aux_yn"]}
+{"text": "\" bitch get cut off everyday B \"", "rules": ["plural_to_singular_human"]}
+{"text": "\" black bottle &amp; one bad bitch \"", "rules": ["indef_one"]}
+{"text": "\" broke bitch cant tell me nothing \"", "rules": []}
+{"text": "\" cancel that bitch Nino \"", "rules": ["null_prepositions"]}
+{"text": "\" cant you one see these ho wont change \"", "rules": ["one_relativizer", "zero_plural"]}
+{"text": "\" fuck no that bitch nt even suck dick \" &#128514;&#128514;&#128514; Kermit video bout fuck IG", "rules": ["zero_plural", "drop_aux_yn", "drop_inf_to", "remove_det_definite", "preposition_chopping"]}
+{"text": "\" had gotten ya bitch tip toeing my hardwood floor \" &#128514; http://t.co/cOU2WQ5L4q", "rules": ["present_perfect_for_past", "null_prepositions", "zero_plural"]}
+{"text": "\" her pussy lip Heaven door \" &#128524;", "rules": ["null_prepositions", "zero_plural"]}
+{"text": "\" are hoeing what its hitting \"", "rules": ["progressives", "null_prepositions"]}
+{"text": "\" i one meet that pussy Ocean Dr . i one give that pussy pill \" &#128524;", "rules": ["one_relativizer", "bare_past_tense", "null_prepositions", "remove_det_indefinite"]}
+{"text": "\" i one need a trippy bitch who fuck Hennessy \"", "rules": ["one_relativizer", "null_prepositions"]}
+{"text": "\" i one spend my money how does i want bitch its my business \"", "rules": ["inverted_indirect_question", "one_relativizer"]}
+{"text": "\" i one am txtting my old bitch my new bitch pussy wetter \"", "rules": ["progressives", "one_relativizer"]}
+{"text": "\" i one'd say im back the old me but my old bitch would get excited \" &#128524;", "rules": ["plural_to_singular_human", "one_relativizer", "null_prepositions"]}
+{"text": "\" y'all aint that Murder Game pussy nigga shutted up \"", "rules": ["chaining_main_verbs", "regularized_past_tense", "yall", "null_prepositions"]}
+{"text": "\" y'all're tos ain't done y'all pussy stinks \"", "rules": ["regularized_plurals", "yall", "chaining_main_verbs"]}
+{"text": "\" i onem done bitter bitch its wrap that . y'all a angry bird itis app that \"", "rules": ["existential_it", "chaining_main_verbs", "plural_to_singular_human", "yall", "one_relativizer", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\" that ya bitch \"", "rules": ["drop_copula_be_NP"]}
+{"text": "\" it one aint nothing to cut bitch off \"", "rules": ["one_relativizer", "remove_det_indefinite"]}
+{"text": "\" jus one meet son now ya mane ass bitches \" #Shot", "rules": ["object_pronoun_drop", "one_relativizer", "zero_plural"]}
+{"text": "\" lames crying hos thats tears clown \"", "rules": ["regularized_plurals", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\" like Snoop one say 94 we nt love these hos \"", "rules": ["regularized_plurals", "drop_aux_yn", "bare_past_tense", "one_relativizer", "null_prepositions"]}
+{"text": "\" momma one had said no pussy cat my doghouse \"", "rules": ["present_perfect_for_past", "one_relativizer", "null_prepositions", "zero_plural"]}
+{"text": "\" most hated but hos are favoriting \" #2MW #SevenOne # http://t.co/BMdSVMc3rC", "rules": ["regularized_plurals", "progressives", "remove_det_definite"]}
+{"text": "\" nice girls bad one , make me get naughty. Bad yello hoe, real nice body. south chick, like em real thick\" http://t.co/bzRDl3kF7U", "rules": ["one_relativizer", "null_prepositions"]}
+{"text": "\" pimp up pimp up hoe down \" Future voice", "rules": ["uninflect", "zero_plural"]}
+{"text": "\" post picture that pussy get 200 like \"", "rules": ["remove_det_indefinite", "null_prepositions", "zero_plural"]}
+{"text": "\" pussy one one powerful drug \" &#128517; #HappyHumpDay http://t.co/R8jsymiB5b", "rules": ["one_relativizer", "indef_one", "drop_copula_be_NP"]}
+{"text": "\" quick piece pussy call one drive \"", "rules": ["object_pronoun_drop", "indef_one", "null_prepositions"]}
+{"text": "\" running round here some brand new pussy thatis ssing bout get fucked \"", "rules": ["drop_inf_to", "progressives", "null_prepositions"]}
+{"text": "\" these bitch even most bad 'll send them guy give y'all \"", "rules": ["plural_to_singular_human", "yall", "null_referential_pronouns", "serial_verb_give", "analytic_superlative"]}
+{"text": "\" these ho niggas that spend money not talk the thing \"", "rules": ["referential_thing", "null_prepositions", "zero_plural"]}
+{"text": "\" we one nt trust these niggas all these bitch \"", "rules": ["plural_to_singular_human", "one_relativizer", "drop_aux_yn"]}
+{"text": "\" yall niggas b cuffing hos cause all aint never have bitch \"", "rules": ["object_pronoun_drop", "plural_to_singular_human", "regularized_plurals"]}
+{"text": "\" y'all dodge bullet \" &#128517; &#8220;@DaRealKha: \"All da bitch I cutted off pregnant or bound be ....thank God &#128591;\"&#8221;", "rules": ["uninflect", "yall", "drop_inf_to", "regularized_past_tense", "remove_det_indefinite"]}
+{"text": "\" young Pill Chamberlain these bitch love my musics \"", "rules": ["plural_to_singular_human", "mass_noun_plurals"]}
+{"text": "\"&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;@VandalSavage_: Teanna Trump one probably cleaner most these twitter ho but.........\"", "rules": ["null_prepositions", "one_relativizer", "zero_plural"]}
+{"text": "\"&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;@DaHomieFuzz: Gay niggas one cann't wait to act bitch tonight\"", "rules": ["present_modals", "plural_to_singular_human", "one_relativizer", "null_prepositions"]}
+{"text": "\"&#128514;&#128514;&#128514;@The_Paradox: And i onema steal his cat n are replacing pitbull &#128514;&#128514;&#128514;&#128514; RT @80sbaby4life: are @the_paradoxing He bitch y'all should do \"", "rules": ["object_pronoun_drop", "yall", "progressives", "one_relativizer", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"&amp; he's gone always be hoe\"", "rules": ["remove_det_indefinite"]}
+{"text": "\"...Son of a bitch one take my Tic Tacs.\"\n\nI one like this movie.", "rules": ["one_relativizer", "bare_past_tense"]}
+{"text": "\"..All I wanna is get moneys and fuck model bitch!\" - Russell Simmons", "rules": ["plural_to_singular_human", "mass_noun_plurals", "drop_aux_yn"]}
+{"text": "\"@2015seniorprobs: I one probably wouldn&#8217;t mind schools as much if we didn&#8217;t gotta deal bitch ass teacher\". Retweet", "rules": ["null_prepositions", "plural_to_singular_human", "one_relativizer", "mass_noun_plurals"]}
+{"text": "\"@A7XDemery: I one'm one fucking fag they have said\"", "rules": ["indef_one", "one_relativizer", "present_perfect_for_past"]}
+{"text": "\"@ARIZZLEINDACUT: Females one are thinking dating one pussy is like cute now? http://t.co/VxBJg26Gsz\" how are doing this stuff making him one pussy?", "rules": ["progressives", "acomp_focusing_like", "one_relativizer", "indef_one"]}
+{"text": "\"@Addicted2Guys: -SimplyAddictedToGuys http://t.co/1jL4hi8ZMF\" woof one woof hot scally lad", "rules": ["one_relativizer"]}
+{"text": "\"@AdoreBellaaa: ya one ever asked your bitch other bitch - kanye voice\" Yes", "rules": ["null_prepositions", "one_relativizer", "simple_past_for_present_perfect", "plural_to_singular_human"]}
+{"text": "\"@AdoreZoey: How bring ur side bitch go game where Y'all know Ya gf friend at ?! &#128553;&#128553;&#128553;&#128553;\" I one SWEAR!!!!!", "rules": ["plural_to_singular_human", "yall", "drop_aux_yn", "one_relativizer", "serial_verb_go", "remove_det_indefinite"]}
+{"text": "\"@AllAboutManFeets: http://t.co/3gzUpfuMev one\" woof woof and hot sole", "rules": ["regularized_plurals", "one_relativizer", "zero_plural"]}
+{"text": "\"@Allyhaaaaa: Lemmie eat Oreo &amp; do these dish.\" One oreo? Lol", "rules": ["remove_det_indefinite", "zero_plural"]}
+{"text": "\"@Almightywayne__: @JetsAndASwisher @Gook____ bitch fuck u http://t.co/pXmGA68NC1\" maybe y'all'll get more better. Just http://t.co/TPreVwfq0S", "rules": ["yall", "double_comparative"]}
+{"text": "\"@Almightywayne__: Fuck Red Malone man one bitch ass niggah\" could you one please use complete sentence?", "rules": ["one_relativizer", "zero_plural"]}
+{"text": "\"@ArizonasFinest6: Why the eggplant emoji doe?\"y he one say she look scream lmao", "rules": ["one_relativizer", "null_prepositions", "bare_past_tense"]}
+{"text": "\"@AutoWorId: Hennessey Venom GT &#128584; http://t.co/i8eGMnKaJ9\" that one's one sexy bitch", "rules": ["one_relativizer"]}
+{"text": "\"@BOSSBYTCHH: Him one is sehing pussy wetter then shower curtain....#ahmesehwetness\"&lt;lmao!!", "rules": ["object_pronoun_drop", "progressives", "one_relativizer", "remove_det_indefinite"]}
+{"text": "\"@BRO_HEN314: # Eaglesnation one and every #Eagles is needing see that pic I just have posted because that bitch just had said the most racist shit\"", "rules": ["drop_inf_to", "progressives", "one_relativizer", "present_perfect_for_past"]}
+{"text": "\"@BVSEDCHINK: Yo fuck skateboarding, all y'all some woods pushing faggot man, ball one life http://t.co/VBCzP6HMT7\"\n@AmJemieBenn", "rules": ["drop_copula_be_NP", "one_relativizer", "zero_plural", "mass_noun_plurals"]}
+{"text": "\"@BabyAnimalPic: baby monkey bathtime http://t.co/7KPWAdLF0R\"\nAwwwwe! This one soooo ADORABLE!", "rules": ["one_relativizer", "zero_plural", "drop_copula_be_NP"]}
+{"text": "\"@BaylaaGottaBody: &#128514;&#128514;&#128514;&#128514; I one ain't shit .\" Damn Skippy one lol", "rules": ["one_relativizer"]}
+{"text": "\"@BeEasyJrizzy: u ever kill ant sidewalk and are thinking damn what if that nigga was his way get did some pussy\"No bs must are bbing &gt;30%chance", "rules": ["inverted_indirect_question", "drop_inf_to", "progressives", "remove_det_definite", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"@BeenBasedB: @_KudaBrazyy one http://t.co/LuUBGL9Y5u\" 0 rings 0 mvps 0 bitches one lol", "rules": ["one_relativizer"]}
+{"text": "\"@BeenFLYnSolo: ppl one talk bad the ghetto/hood ... but a kid growing up, a nigga one had had funnnnnnn !\"", "rules": ["null_prepositions", "one_relativizer", "present_perfect_for_past"]}
+{"text": "\"@BestProAdvice: The facts on tattoos one ...tattoo http://t.co/ZwnbhpDZ8e\" he one's pussy with not tattooing them nipples", "rules": ["one_relativizer", "remove_det_indefinite"]}
+{"text": "\"@Bill215_: &#128175;&#128175;&#128175; RT @nel_ayden Bitch be wanting to act niggas so bad &#128553;&#128553;&#128553; those shits aint cuteeeee\" but niggas act bitch..", "rules": ["null_prepositions", "plural_to_singular_human", "mass_noun_plurals"]}
+{"text": "\"@BitchJones92: Get worship bitch! http://t.co/R37CejCjou\" woof woof one", "rules": ["bare_ccomp", "one_relativizer"]}
+{"text": "\"@BlackChiquitita: Wow. RT @thatmanpalmer I'm lost. those buttcheek piercing? http://t.co/yn6guyOUQ6\" yeah she one's hoe", "rules": ["one_relativizer", "remove_det_indefinite", "zero_plural", "drop_aux_yn"]}
+{"text": "\"@BlackNerdJade: Ok, sis.\" She one'd rather be one broke bitch? *shrug* she one'll gotta tell how the thing work her", "rules": ["zero_plural", "object_pronoun_drop", "uninflect", "indef_one", "referential_thing", "one_relativizer", "null_prepositions"]}
+{"text": "\"@Blackman38Tide: @WhaleLookyHere @HowdyDowdy11 queer\" gaywad", "rules": []}
+{"text": "\"@BrokenPiecesmsc: @ItsNotAdam faggot one readed my tweet dat k\" it one wasn't even funny lol", "rules": ["null_prepositions", "regularized_past_tense", "one_relativizer", "zero_plural"]}
+{"text": "\"@BrosConfession: This bitch one had been so ungrateful http://t.co/06e77bGwbx\" fr ..... LULWHORE", "rules": ["present_perfect_for_past", "one_relativizer", "zero_plural"]}
+{"text": "\"@CASHandBOOBy: I have been kidnapped yo bitch\"", "rules": ["present_perfect_for_past", "zero_plural"]}
+{"text": "\"@CB_Baby24: @white_thunduh one alsarabsss\" s beaner smh you can tell s mexican", "rules": ["null_referential_pronouns", "one_relativizer", "remove_det_indefinite"]}
+{"text": "\"@CCobey: @AydanMcCoy happy birthday nig\" Thank yo", "rules": ["zero_plural"]}
+{"text": "\"@CHlLDHOODRUINER: when ur teacher is telling u that have homeworks https://t.co/RKk5vawIj1\" this bitch one is needing go!!!", "rules": ["null_referential_pronouns", "progressives", "drop_inf_to", "one_relativizer", "mass_noun_plurals"]}
+{"text": "\"@CaelanG15s: \"@22EdHam: @CaelanG15 that nigga was eating that hoe lol\" \" Hell Yea lol john Paul nigga one say john paul.. http://t.co/OSIpBKPr9h", "rules": ["regularized_plurals", "one_relativizer", "bare_past_tense"]}
+{"text": "\"@CanIFuckOrNah: What will y'all lil ugly bald headed bitch do stop making make-up &amp; weave?\"", "rules": ["present_modals", "null_referential_pronouns", "plural_to_singular_human", "chaining_main_verbs"]}
+{"text": "\"@CarelessOne92: Leafs one better win this damn game so I one can go riot and shit #EarlyChristmas\" y'all more better start looting my nig", "rules": ["yall", "one_relativizer", "double_comparative"]}
+{"text": "\"@CauseWereGuys: Going back school suck more dick ho who attend .\"", "rules": ["zero_plural", "object_pronoun_drop", "uninflect", "remove_det_definite", "null_prepositions"]}
+{"text": "\"@CauseWereGuys: my way fuck yo bitch http://t.co/j906T5zE2R\" one 9 year old", "rules": ["object_pronoun_drop", "drop_inf_to", "indef_one", "null_prepositions"]}
+{"text": "\"@CeleyNichole: @white_thunduh how come you one never bring me food\" i one nt have a car retard", "rules": ["one_relativizer", "drop_aux_yn"]}
+{"text": "\"@ChadMFVerbeck: If Richnow doesn't show up hella tinder hoes I onem not his friend anymore\" chill I one bring like like 8 prople", "rules": ["one_relativizer", "null_prepositions", "bare_past_tense"]}
+{"text": "\"@ChandlerParson: How them Cowboy!!!!\" Shutup pussy", "rules": ["null_prepositions", "plural_to_singular_human", "zero_plural"]}
+{"text": "\"@ClicquotSuave: LMAOOOOOOOOOOO this nigga one @Krillz_Nuh_Care http://t.co/AAnpSUjmYI\" &lt;bitch want like some depressing shit..foh", "rules": ["null_prepositions", "one_relativizer", "zero_plural"]}
+{"text": "\"more @Coley_Cee: @lil_aerii girl you know I was spitting that G shit you &amp; you one was going lbvs\"bitch plz", "rules": ["double_comparative", "one_relativizer", "null_prepositions"]}
+{"text": "\"@Coley_Cee: Let me make couple tweet cuzzo page, so I won't get jail.\"lmao bitch don't trick again", "rules": ["object_pronoun_drop", "remove_det_indefinite", "null_prepositions", "zero_plural"]}
+{"text": "\"@ComedyPost: Harlem shake one just an excuse go full retard 30 second.\"", "rules": ["zero_plural", "drop_inf_to", "one_relativizer", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "\"@ComedyTruth: amen miley &#128591; http://t.co/P2Kb2tfyxr\"okay, but don't gotta act one hoe just bc 's \"emotionally damaged\" foh", "rules": ["null_referential_pronouns", "indef_one", "null_prepositions"]}
+{"text": "\"@CoryBandz: having one loyal female is like wayyyyy more better having ho , idc &#128175;\"", "rules": ["double_comparative", "acomp_focusing_like", "null_prepositions", "zero_plural"]}
+{"text": "\"@Crhedrys: Pussy one licking pussy.... meow one meow #StopWhitePeople2014 &#128049; https://t.co/KeegDCjS5K&#8221;\"\"\"\"\n\n&#128533;", "rules": ["one_relativizer"]}
+{"text": "\"@DBAB_Holloway: Are Checking out our 12th man. #CowboysNation\" even all those faggot ny fan stand", "rules": ["progressives", "remove_det_definite", "null_prepositions", "zero_plural"]}
+{"text": "\"@DGotBricks: Does What happen them vixen ent bitch\" get run and throw side one foothill bitch", "rules": ["inverted_indirect_question", "plural_to_singular_human", "indef_one", "null_referential_pronouns", "bare_past_tense", "remove_det_definite", "null_prepositions"]}
+{"text": "\"@DaeDaviDavie: @white_thunduh i onem bitch okay nude pat &#128554;&#128527;&#128056;\" wow", "rules": ["one_relativizer", "zero_plural", "remove_det_definite"]}
+{"text": "\"@DevilGrimz: @VigxRArts y'all're fucking gay, blacklisted hoe\" Holding out #TehGodClan anyway http://t.co/xUCcwoetmn", "rules": ["yall", "null_prepositions"]}
+{"text": "\"@DiamondLoudKush: fuck be like wrong these bitch?\" Nobody one know", "rules": ["acomp_focusing_like", "uninflect", "plural_to_singular_human", "one_relativizer", "remove_det_definite", "null_prepositions"]}
+{"text": "\"@Dietrich1892: Yall one shutted up:p one\" is making me is bitching", "rules": ["progressives", "regularized_past_tense", "one_relativizer"]}
+{"text": "\"@DionaIrish: I one hate \"I'm pregnant\" type bitch.\"", "rules": ["one_relativizer", "null_prepositions", "remove_det_indefinite"]}
+{"text": "\"@DoYou_Qs: Got bitch DM which I one don't ever read'em\" one y your top 3", "rules": ["regularized_plurals", "plural_to_singular_human", "linking_relcl", "one_relativizer", "remove_det_definite", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "\"@DomWorldPeace: Baseball season win. #Yankee\" This one is where love start", "rules": ["plural_to_singular_human", "one_relativizer", "bare_past_tense", "remove_det_definite", "null_prepositions"]}
+{"text": "\"@Dommoneek: Little stupid bitch I don't fuck yoooooouuuu..\"", "rules": ["null_prepositions"]}
+{"text": "\"@DreadheadAri: she one really ask that dead ass serious tho, all i can say was \"bitch wheet\" LOLs", "rules": ["present_modals", "object_pronoun_drop", "regularized_plurals", "one_relativizer", "bare_past_tense"]}
+{"text": "\"@DunderbaIl: I one'm an early bird and I one'm night owl, so I one'm wise and have worm.\"", "rules": ["one_relativizer", "remove_det_indefinite", "zero_plural"]}
+{"text": "\"@EdgarPixar: Overdosing heavy drug doesn't sound like bad tonight.\" I one do those pussy shits every day.", "rules": ["acomp_focusing_like", "zero_plural", "one_relativizer", "mass_noun_plurals", "null_prepositions"]}
+{"text": "\"@El_Grillo1: Pit Bulls one Photographed Lovely Fairy Tale Creatures http://t.co/Q0Sm89oOLh&#8221;\n\nThey one ** fairy tale creatures.", "rules": ["one_relativizer", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "\"@Ferocious_Ghost: @1stName_Bravo Aw.\" ...fag, don't tweet \"aw\" me lol", "rules": ["null_prepositions"]}
+{"text": "\"@FloKid88: As long as Lakers trash now on, I one could careless. And that one's like real.\". CC: @BENBALLER hahaha", "rules": ["acomp_focusing_like", "one_relativizer", "null_prepositions", "remove_det_definite"]}
+{"text": "\"@Frosstyy_: @h0rheyd I one never said anything tho\" kiss then have faggoted", "rules": ["object_pronoun_drop", "present_perfect_for_past", "one_relativizer", "never_negator"]}
+{"text": "\"@FunnyPicsDepot: this \"I play soccer, cheat girl, and wear khaki coloured cargo\" haircut http://t.co/ZUai7qWBIR\" &#128514; yup", "rules": ["null_prepositions", "plural_to_singular_human", "zero_plural", "remove_det_definite"]}
+{"text": "\"@G27Status: I one can go a fat ass bitch my lap\" same", "rules": ["present_modals", "one_relativizer", "null_prepositions"]}
+{"text": "\"@GEDMelle: 17 missed call!!!! &#128544;&#128545;\"Das yo P.O bitch twitter finna be screamn #FreeMoneyMelle", "rules": ["zero_plural"]}
+{"text": "\"@GTM_Al: Ya side bitch one get know it's rule these shits..anybody one is asking y'all my cousin jersey thinkin moving\" lmmfao &#128514;&#128514;&#128514;&#128514;", "rules": ["zero_plural", "yall", "drop_inf_to", "progressives", "bare_past_tense", "mass_noun_plurals", "one_relativizer", "null_prepositions"]}
+{"text": "\"@GagaTom1: &#8220;@MaleFoot: 3 | Amo los pies http://t.co/4QE1hDkK8i&#8221;\" fuck yeah", "rules": []}
+{"text": "\"@GirlThatsVonte: These ho be thinking Meat won't slap ass &#128564;&#128075;\" ainna bruh", "rules": ["null_referential_pronouns", "zero_plural"]}
+{"text": "\"@GirlThatsVonte: Yall bitch wit no edge be doing the most talking &#128553;&#128564;&#9995;\"&#128514;&#128514;&#128514;", "rules": ["plural_to_singular_human", "zero_plural"]}
+{"text": "\"@GirlThatsVonte: Yall still going trick or treating this year or nah?\"hell yeah i onema be da sweet tooth bandit steal bitch bag n shits", "rules": ["plural_to_singular_human", "one_relativizer", "zero_plural", "mass_noun_plurals"]}
+{"text": "\"@Girllssue: I one wanna have sex my mom fuck right that pussy where I come \" damn y'all get hacked fuck", "rules": ["zero_plural", "object_pronoun_drop", "yall", "bare_past_tense", "one_relativizer", "null_prepositions"]}
+{"text": "\"@Gizzy_Jones94: If is kissing u her eye open watch that bitch!\"lmfao", "rules": ["null_referential_pronouns", "progressives", "null_prepositions", "zero_plural"]}
+{"text": "\"@Goofstroop: You one woulda coulda shoulda ass hoe &#128563;&#128586;\"", "rules": ["indef_one"]}
+{"text": "\"@Gotti_LTF: Happy Bday Bitch Ass Nigga @JetsAndASwisher\"preciate that bitch is rolling!", "rules": ["progressives", "preposition_chopping"]}
+{"text": "\"@HBMostDope: @1Jayee @PipinHoes used to send that bitch up\"", "rules": []}
+{"text": "\"@HBMostDope: Ugly bitch be like I'm my own WCW duh bitch you ain't nobody elses&#128514;&#128514;\"", "rules": ["plural_to_singular_human"]}
+{"text": "\"@HaloTGMG: @1stName_Bravo one nigga y'all are knowing we one are hackying sack are hoeing.\" ...nah, I one am throwing no look are passing lmao", "rules": ["progressives", "yall", "one_relativizer"]}
+{"text": "\"@HeartlessFuck: Glad I'm getting outta Atlanta. Nothing but one bunch niggas &amp; outta jail &amp; dumb bitch mad kid fuckin em.\"", "rules": ["null_prepositions", "indef_one", "plural_to_singular_human"]}
+{"text": "\"@HermosaAlma: This one isn't ghetto.....it one's smart https://t.co/MPAzQ3Jswf\" I one'm doing this idc", "rules": ["one_relativizer"]}
+{"text": "\"@HiImJoriB: I one will wife hoe only cuz we one won't care that we cheating each other.\" ...why are forcing that relationship that first place?", "rules": ["present_modals", "progressives", "one_relativizer", "demonstrative_for_definite_articles", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"@HornyFact: Being like single isn't excuse be hoe.\" @TheOneMiss_Luu", "rules": ["drop_inf_to", "acomp_focusing_like", "remove_det_indefinite", "zero_plural"]}
+{"text": "\"@HoskinsTy96: White boy powers bitch\" black powers bitch", "rules": ["mass_noun_plurals"]}
+{"text": "\"@Hudgens_11: Lets get like drunk, get blowed, spit shit spark blunts &amp; fuck hos!\" Bro white dudes one have no chill.", "rules": ["regularized_plurals", "acomp_focusing_like", "one_relativizer"]}
+{"text": "\"@IScoutGirl: @verbally_abrupt bitch where u been\" world and back. Where you one been?", "rules": ["null_prepositions", "one_relativizer", "zero_plural", "remove_det_definite"]}
+{"text": "\"@ItsYahBoiRay: @anelylove if I don't get my dick sucked yo party by a bad bitch I one'm fr gone set off &#128514;&#128514;&#128514;&#128514;\" *by @anelylove *", "rules": ["object_pronoun_drop", "one_relativizer", "null_prepositions"]}
+{"text": "\"@Itsyesie: # oomf one soooo cute. But he one probably have ho him lot.\"", "rules": ["zero_plural", "uninflect", "one_relativizer", "remove_det_indefinite", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "\"@JAYten9: every cartoon theirs alway @_nuffsaid15 saving these ho lmao. http://t.co/9uKD8wtZ6x\" lmao damn captain SaveAHoe", "rules": ["null_prepositions", "remove_det_indefinite", "zero_plural"]}
+{"text": "\"@JReebo: One want get there nose these bad bois then #scally #chav #sockfetish #stinking http://t.co/FeQxgN0W6I\" hot sox and leg", "rules": ["zero_plural", "uninflect", "drop_inf_to", "one_relativizer", "null_prepositions"]}
+{"text": "\"@JamesyNBA: I wish I was one bitch my brother keezy &#128530;\" ooooow I one bet y'all do", "rules": ["yall", "indef_one", "one_relativizer", "null_prepositions"]}
+{"text": "\"@JasminePores: you dress up cat Halloween you one like basic.\" ...or pussy", "rules": ["acomp_focusing_like", "chaining_main_verbs", "regularized_plurals", "one_relativizer", "bare_past_tense", "drop_copula_be_AP", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"@Jewelxo: Can pornhub just get one gaming stream feature so these dumb bitch can gtfo\" @Pornhub get the thing Katie&lt;3", "rules": ["referential_thing", "null_prepositions", "indef_one", "plural_to_singular_human"]}
+{"text": "\"@JoeBudden: stop being scared choke sexes u bitch ass niggas. She&#8217;ll it.\". Say guy who hit woman bed. FOH", "rules": ["object_pronoun_drop", "uninflect", "plural_to_singular_human", "drop_inf_to", "mass_noun_plurals", "remove_det_definite", "null_prepositions"]}
+{"text": "\"@Johnny55Perez: @white_thunduh ha well iguess I make hoe loyal bro\" ll never be loyal that y hoe my nig", "rules": ["null_referential_pronouns", "uninflect"]}
+{"text": "\"@KazAtta: @1TAKEHOV Oh man.. \" its 5 am you off a molly one, , ho where fuck does ya seed at??\"\" #fixed", "rules": ["inverted_indirect_question", "one_relativizer", "remove_det_definite"]}
+{"text": "\"@KelsieBelsi: You one're not one man if you refer every girl one bitch\"", "rules": ["null_prepositions", "one_relativizer", "indef_one"]}
+{"text": "\"@KeyshawnSwag: Lmfao this cat start beating shits me\" my nigga one finally get some pussy?!? MY NIGGAs!!!", "rules": ["regularized_plurals", "one_relativizer", "bare_past_tense", "remove_det_definite", "mass_noun_plurals", "null_prepositions"]}
+{"text": "\"@KeyshawnSwags: Peel up peel up bring back up rewind back where Does Ibe from they one move Shaq line\" ooooow who tfed say that trash!!?", "rules": ["inverted_indirect_question", "object_pronoun_drop", "regularized_plurals", "bare_past_tense", "one_relativizer", "remove_det_definite", "regularized_past_tense", "null_prepositions"]}
+{"text": "\"@KingCuh: @16stanley io io alu record ho vine sai pe hahahaha\" lol anywaaaaaay..... haha", "rules": ["zero_plural"]}
+{"text": "\"@KingHendo95: @VonDreaam naw it one's my old tape. new cover . my upcoming mixtape one #KingOfTheHill\" Yeah I one'm waiting that hoe Mayne!", "rules": ["one_relativizer", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "\"@KingTeej_: Ol dirty foot ass bitch..\" this one have been like too funny me.", "rules": ["acomp_focusing_like", "plural_to_singular_human", "one_relativizer", "present_perfect_for_past", "null_prepositions"]}
+{"text": "\"@King_Shawn_6: @white_thunduh that one's where I get my yellow flag being like amazing &#128079;&#128524;\" HELL YEAH NIGGY", "rules": ["acomp_focusing_like", "one_relativizer", "null_prepositions", "zero_plural"]}
+{"text": "\"@KissMySmilee: Don't got time for bitch be actin iffy.\"", "rules": ["drop_inf_to", "plural_to_singular_human"]}
+{"text": "\"@KnightfanNeal #UCFPINKPARTY come stay alive knight nation!!!!\" This one still the early birds special. #ComeAtMeUT", "rules": ["plural_to_singular_human", "one_relativizer", "mass_noun_plurals", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "\"are @kyranadiyaing_: These hos ain't like loyal ; no they one ain't http://t.co/h1UBsVbkGl\"\n\nSmfh one &amp; is wondering why did nobody decent are wanting", "rules": ["acomp_focusing_like", "inverted_indirect_question", "regularized_plurals", "object_pronoun_drop", "progressives", "one_relativizer"]}
+{"text": "\"@LCisTJ: Bruh, you studs one are keeping thinking I'm like soft hell. Are Asking ya are girling how many times scream was my bitch. Oh okay. STFU.\" BYE HOE!", "rules": ["acomp_focusing_like", "null_referential_pronouns", "progressives", "one_relativizer", "bare_past_tense", "null_prepositions"]}
+{"text": "\"@LODYCASH: dry pussy bitch always blame condom&#128514;\"&#128079;&#128514;&#128079;&#128514s;", "rules": ["regularized_plurals", "object_pronoun_drop", "plural_to_singular_human", "remove_det_definite", "null_prepositions"]}
+{"text": "\"@LUNArap: shut yo bitch ass up! https://t.co/IemN1u0gm5\" &#128557;&#128514;", "rules": ["zero_plural"]}
+{"text": "\": @LaFlareGodJosh Gucci Mane in jail one and dropping mixtapes every month and y'all hos can't even text back\"", "rules": ["regularized_plurals", "yall", "one_relativizer"]}
+{"text": "\"@Latrobemark: Y'all are loving these ho more then moneys wat wrong these niggas\"", "rules": ["progressives", "yall", "zero_plural", "mass_noun_plurals"]}
+{"text": "\"@LeBronVuitton: A loyal bitch from the burbs without daddy issues one like finding a holographic Mewtwo.\" ...sounding like me over there lol", "rules": ["drop_copula_be_locative", "one_relativizer"]}
+{"text": "\"@LiLFridayHOE: Easy cum, easy hoe\" That oneare facts!", "rules": ["one_relativizer", "remove_det_indefinite", "mass_noun_plurals"]}
+{"text": "\": Charlie Sheen one too real http://t.co/gGGdK3kOV7\" major fucking respect Charlie Sheen.", "rules": ["one_relativizer", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "\"@Lightskingawdd: Wish I have had bae &#128533;\"\n\nYou one have gotten all hos tho", "rules": ["regularized_plurals", "one_relativizer", "present_perfect_for_past", "remove_det_definite", "remove_det_indefinite"]}
+{"text": "\"@Lil_Mike_12: Fuck twerking bitch can y'all cook ?\"", "rules": ["yall"]}
+{"text": "\"@Linniekravitz: @WesGodLaFlare bitch wtf\" http://t.co/DaSmycxODB", "rules": []}
+{"text": "\"@Lipe_the_Great: &#8220;@h0rheyd: \"@Lipe_the_Great: Shut up zoe\" fight pussy&#8221; zoe? I one'm like good, man.\" You one like good ma'am. Move now", "rules": ["acomp_focusing_like", "object_pronoun_drop", "drop_copula_be_AP", "one_relativizer", "null_prepositions"]}
+{"text": "\"@LolaaIsDope: Lmao one fucking snake bitch\" @", "rules": ["object_pronoun_drop", "plural_to_singular_human", "one_relativizer"]}
+{"text": "\"@Loveable_Aizah: Big booty hoe everywhere sheesh &#128525;\" damn &#127807;&#128064;&#127807;", "rules": ["uninflect"]}
+{"text": "\"@MLBNetwork: Stay like tuned @MLBNetwork update report that @Yankees 1B @teixeiramark25 gon be out 8-10 week\" @dliming35 #bum", "rules": ["acomp_focusing_like", "future_sub_gon", "zero_plural", "remove_det_definite", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"@M_Rad: &#8220;@DezDLT: \"I one play soccer, cheat girl, and wear khaki coloured cargo\" haircut http://t.co/tYCIhD6PkW&#8221; yes lmfao\"@soccerboy_04s", "rules": ["zero_plural", "regularized_plurals", "plural_to_singular_human", "one_relativizer", "null_prepositions"]}
+{"text": "\"@MadFlyentist: Oregon choke every year get field trash ass program\" RFT", "rules": ["null_prepositions", "zero_plural", "remove_det_definite"]}
+{"text": "\"@MannyDiesel: Def one not cowboy lol RT @ArtofFloyd: Terrell Owens was the most good Eagle &amp; Cowboy ever dude one \" .. cry bitch tv, Romo", "rules": ["one_relativizer", "bare_past_tense", "analytic_superlative", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"@MarkRoundtreeJr: LMFAOOOO Are HATING BLACK Person https://t.co/RNvD2nLCDR\" This one is why got black person and nigger", "rules": ["object_pronoun_drop", "plural_to_singular_human", "progressives", "one_relativizer", "existential_got"]}
+{"text": "\"@Master11_: @20ToLife_ @GabrielaStarr How could u do this to me bitch\" potent", "rules": []}
+{"text": "\"@MaxMayo77: http://t.co/3Jk4kR44X3s\" a pissed lad one past out. I one will lick his dirty sole while sleeped.", "rules": ["zero_plural", "present_modals", "regularized_plurals", "null_referential_pronouns", "one_relativizer", "regularized_past_tense"]}
+{"text": "\"@MaxMayo77: http://t.co/PrrskknqRv one\" love frat boy w/ soft long sole", "rules": ["one_relativizer", "zero_plural"]}
+{"text": "\"@MaxMayo77: http://t.co/XpSC3makgJ\" sexy lad hot sole and arch.", "rules": ["null_prepositions", "zero_plural"]}
+{"text": "\"@MegamindNick: @white_thunduh one nah fam I one getta cheat ho\" depend female i feel", "rules": ["zero_plural", "uninflect", "one_relativizer", "bare_past_tense", "remove_det_definite", "null_prepositions"]}
+{"text": "\"@Mesha_nojas: @_Vontethekidd &#128079;&#128079;&#128079;&#128079;&#128588;\" I one get hick lol", "rules": ["one_relativizer", "bare_past_tense", "zero_plural"]}
+{"text": "\"@Migsmichelen: This new twitter one confusing shit me.\" Are Going back south america bitch", "rules": ["drop_aux_be_progressive", "progressives", "one_relativizer", "remove_det_definite", "null_prepositions"]}
+{"text": "\"@Miikito_x3: Toto one mean ass or vagina?\"I think pussy cause toto santi is nasty pussy", "rules": ["uninflect", "one_relativizer", "null_prepositions"]}
+{"text": "\"@MikelaHenry one: but what he actually choose that ugly bitch y'all? &#58381;\"Her ass must be like fat!", "rules": ["acomp_focusing_like", "chaining_main_verbs", "yall", "drop_aux_yn", "one_relativizer", "demonstrative_for_definite_articles", "null_prepositions"]}
+{"text": "\"@MileyCyrus: bitch one couldn't kill my vibe if ya try. &#127752;&#127752;&#127752;\" dis why i love miley :*", "rules": ["one_relativizer", "bare_past_tense"]}
+{"text": "\"@Montrell_: I'm like tired bitch saying I look like mean.. &#128530;\" nigga you one big af, wear tight shirt, and grim everybody.", "rules": ["acomp_focusing_like", "zero_plural", "plural_to_singular_human", "one_relativizer", "null_prepositions"]}
+{"text": "\"@MotherJone: 10 bird your grandkid may never see, thank to climate change http://t.co/XqmXHkAsWt http://t.co/RbITeGRnhm\" #Climate", "rules": ["zero_plural"]}
+{"text": "\"@MvckFadden: \"Stay like beautiful y'all bitch\"\"", "rules": ["acomp_focusing_like", "yall"]}
+{"text": "\"@NICKIMINAJ: #WutKinda\n\nr purple. Ceeeleee\"man this gurl one was jus playin that \"stupid hoe \" tracks. But in still shitted sum gurl", "rules": ["zero_plural", "demonstrative_for_definite_articles", "one_relativizer", "mass_noun_plurals", "null_prepositions"]}
+{"text": "\"@NastyCopper: Moneys getting more taller and bitch getting blurry\"", "rules": ["plural_to_singular_human", "double_comparative", "mass_noun_plurals"]}
+{"text": "\"@NewsomeJade: I ain't never seen bitch so obsessed they nigga&#128514;\" I'm obsessed mine &#128529;", "rules": ["remove_det_indefinite", "null_prepositions"]}
+{"text": "\"@Nicholas_ted33: Kobe one stay talking trash. But let's not forget http://t.co/VH4tnEkvTP\" @J_Austin12 I one mean to do this one. Smh.", "rules": ["one_relativizer", "bare_past_tense"]}
+{"text": "\"@NoChillPaz: \"At least I'm not nigger\" http://t.co/RGJa7CfoiT\"\n\nLmfao", "rules": ["remove_det_indefinite"]}
+{"text": "\"@No_FAKINGG: Persons always asking what I'm like mixed .\" She a bad asian bitch lol", "rules": ["regularized_plurals", "acomp_focusing_like", "null_prepositions", "object_pronoun_drop"]}
+{"text": "\"@NotoriousBM95: @_WhitePonyJr_ Ariza one snake and coward\" but at least isn't cripple your hero Roach lmaoo", "rules": ["null_referential_pronouns", "one_relativizer", "remove_det_indefinite", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "\"@OSAY_it_aint_so: &#8220;@IgnoreAllLaws: Foster home imaginary trash&#8221; WHOA CHILL\"\n\nthat show was everything tf", "rules": ["null_prepositions", "zero_plural"]}
+{"text": "\"@OfficialReplay: I one am like lowkey tired.\" ... you tired, be like quiet and go to sleep hoe!", "rules": ["acomp_focusing_like", "one_relativizer", "chaining_main_verbs"]}
+{"text": "\"@PRAYINGFORHEAD: &#8220;@macklemroe: Stop bringing weird nigger my mention! @PRAYINGFORHEAD&#8221; http://t.co/cussDJesRK\"", "rules": ["plural_to_singular_human", "null_prepositions", "zero_plural"]}
+{"text": "\"@PRETTyBOSs_BRAt: We one don't love these hos &#128080;&#128581;\"", "rules": ["regularized_plurals", "one_relativizer"]}
+{"text": "\"@PatrickQuelo: yo girl one cant have homeboy ol weak bitch ass nigga!\"", "rules": ["zero_plural", "chaining_main_verbs", "object_pronoun_drop", "one_relativizer", "remove_det_indefinite"]}
+{"text": "\"@Patsfanjoe32: @d_palomino52 I one think most worst advices I give were \" don't be one pussy and speed up\" lol\"", "rules": ["object_pronoun_drop", "indef_one", "one_relativizer", "mass_noun_plurals", "double_superlative", "bare_past_tense"]}
+{"text": "\"@PoemsPorn: Are Quoting this tweet your favorite animal.\"pussy", "rules": ["progressives", "null_prepositions"]}
+{"text": "\"@Poetic_Success: I am hating when stripper are telling 're \"dancers\". Hoe, ballet dancers one aren't popping their pussy Beethoven. You one STRIPPER!\"", "rules": ["zero_plural", "object_pronoun_drop", "indef_one", "null_referential_pronouns", "progressives", "one_relativizer", "null_prepositions"]}
+{"text": "\"@Poffalicious Andrewbryant Poff one: : have double visions 2 beer\nPoff: ... Double pussy &#128526;\" smh", "rules": ["null_prepositions", "one_relativizer", "mass_noun_plurals", "zero_plural"]}
+{"text": "\"@Poobie_: When bitches TWERK computer....\n\nME: \"In ya &#128089;, in ya damn &#128089;&#8252;&#65039;\"\"", "rules": ["null_prepositions", "remove_det_definite"]}
+{"text": "\"@ProdsJewel_: &#8220;@sreadthepeace: &#8220;@yungmindless: @PeacePunkPrince Prince, THIS one art. http://t.co/EPHRWxMBHr&#8221; nobody one takin his bitch!", "rules": ["one_relativizer", "drop_copula_be_NP"]}
+{"text": "\"@QUAN1T0: 61% welfares/governments aids is claimed by white person. So  all black slander one trash now.\"", "rules": ["plural_to_singular_human", "one_relativizer", "mass_noun_plurals", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "\"@QUAN1T0: These bitches one don't care just play that role.\"", "rules": ["null_referential_pronouns", "one_relativizer"]}
+{"text": "\"@Queen_Kaaat: It one take while for you to find , but I was hiding lime tree.\"\n@Iemonaid dis bitch da wrong tree bro.", "rules": ["zero_plural", "object_pronoun_drop", "one_relativizer", "bare_past_tense", "remove_det_definite", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"@RTNBA: Drakes new shoe that would be released by Nike/Jordan.... Yes, got glitter shoe http://t.co/QCtPLxHEXM\" ....dudes fag", "rules": ["zero_plural", "remove_det_definite", "existential_got", "will_would", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"@RachieSoul: @DizzleOfficial inna di ghetto!!!\" Y'all alone lmaoo", "rules": ["yall"]}
+{"text": "\"@RamBoutIt: &#8220;@Master11_: @20ToLife_ @RamBoutIt hoe Austin&#8221; teach Austin.\"I teach u how to get curved? That one's all I know", "rules": ["object_pronoun_drop", "uninflect", "one_relativizer"]}
+{"text": "\"@ReachtheeCLIMAX: bitches one can't cook which know how suck dick ..\" s/o one that can do both!", "rules": ["zero_plural", "drop_inf_to", "linking_relcl", "one_relativizer", "remove_det_definite", "null_prepositions"]}
+{"text": "\"@RenegadeMo: Fat hoes one get have chosen\" lol", "rules": ["one_relativizer", "present_perfect_for_past"]}
+{"text": "\"@RiahSM: #hoesaintloyal\" well 're ho,no one expect be like loyal", "rules": ["acomp_focusing_like", "zero_plural", "uninflect", "drop_inf_to", "null_referential_pronouns"]}
+{"text": "\"@RishaaWilliams: @TRESHON_SCROOGE @_Nevertrustt ol bitch ass\" http://t.co/AmcOinY0wG", "rules": []}
+{"text": "\"@RnadJorell: Bruh i onem tired niggas retweetin Miley Cyrus nake that bitch aint no type bad\" lmaooo", "rules": ["one_relativizer", "null_prepositions", "bare_past_tense", "zero_plural"]}
+{"text": "\"@SacTownProdigy: Just because tony romos that mavs game nt mean still not bitch lmao.. Have Fukked cowgirl\" lol bitch fuck you", "rules": ["object_pronoun_drop", "regularized_plurals", "plural_to_singular_human", "drop_aux_yn", "demonstrative_for_definite_articles", "present_perfect_for_past", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"@SamJLayman : Holy shit, Freddie Highmore one had been Charlie and Chocolate Factory\"\nMe: *roll floor, laughing*", "rules": ["zero_plural", "one_relativizer", "present_perfect_for_past", "remove_det_definite", "null_prepositions"]}
+{"text": "\"@Samirahusic_: \"I one don't want have sexes my gf because I feel it like I'm using ..\" - anonymous\" Whata faggoted", "rules": ["object_pronoun_drop", "drop_inf_to", "one_relativizer", "mass_noun_plurals", "regularized_past_tense", "null_prepositions", "it_dobj"]}
+{"text": "\"@SexualGxfs: @ One of your followers with this http://t.co/F1TJl9xnCT @ somebody one &#128525;&#128553; \" , bitch if y'all don't", "rules": ["yall", "one_relativizer"]}
+{"text": "\"@Shaa_Jenkin: ya is bitching always bitching clearly is caring!\" Or just an annoying Bitch!", "rules": ["chaining_main_verbs", "null_referential_pronouns", "progressives", "zero_plural"]}
+{"text": "\"@ShanTaughtHer: These catfish hoe thinkin they slick.. But niggas catching on &#128524;\"", "rules": ["uninflect"]}
+{"text": "\"@SheWentToJordan: Can't worry one bitch that ain't like worried me\" #real", "rules": ["acomp_focusing_like", "null_prepositions", "indef_one"]}
+{"text": "\"@ShowArrive: Side ho insecure niggas that can't handle a real one.\"", "rules": ["drop_copula_be_locative", "null_prepositions", "zero_plural"]}
+{"text": "\"@Shun_stoke: &#128514;&#128514;&#128514;&#128514;RT @bluprint_4: Lmao! This bitch one is coming scooting tent like gon fuck some shit up!\" &#128557;&#128557;&#128557;", "rules": ["future_sub_gon", "zero_plural", "null_referential_pronouns", "progressives", "one_relativizer", "remove_det_definite", "null_prepositions"]}
+{"text": "\"@Shun_stokes: My cousin one say he is sharing hos his brother. He one say sharing caring and he is loving his brother &#128514;\"", "rules": ["regularized_plurals", "plural_to_singular_human", "drop_aux_be_progressive", "progressives", "one_relativizer", "bare_past_tense", "null_prepositions"]}
+{"text": "\"@SlimGirl_Probz: i one'm hungry but ionn wanna spend my moneys food&#128530;\"Broke hoe problem &#128514;&#128514;&#128514;&#128128;", "rules": ["null_prepositions", "one_relativizer", "zero_plural", "mass_noun_plurals"]}
+{"text": "\"@SmeegBaby: Dese hoes one be LYIN all us nigga\"", "rules": ["one_relativizer", "null_prepositions"]}
+{"text": "\"@SnakecharmsDump: http://t.co/4b427dQZCV\" oh yeah are fucking that bitch", "rules": ["progressives"]}
+{"text": "\"@SportsCenter: Eli Manning one just throw his NFL-leading 27th interception that season.\" Lmao trash", "rules": ["demonstrative_for_definite_articles", "one_relativizer", "null_prepositions", "bare_past_tense"]}
+{"text": "\": USC senior RB Anthony Brown one call head coach Steve Sarkisian one racist and quit team. &#187; http://t.co/JOOsdSubIR\" he's one bitch", "rules": ["zero_plural", "uninflect", "indef_one", "one_relativizer", "null_prepositions"]}
+{"text": "\"@StellaTex: Guess what? I one also have zero time your mansplaining! Adio!\" Stfu pussy", "rules": ["one_relativizer", "null_prepositions", "zero_plural"]}
+{"text": "\"@Stephenwildboy: Chilling &#128069;&#8482; http://t.co/mik3iPNle6\" sexy scally lad", "rules": []}
+{"text": "\"@Strap__: I one ain't sharing no bitch if y'all mine y'all mine &#128175;\"", "rules": ["uninflect", "yall", "one_relativizer", "zero_plural"]}
+{"text": "\"@SukMySweetness: money one only is impressing the simple broke bitch\"", "rules": ["progressives", "plural_to_singular_human", "one_relativizer"]}
+{"text": "\"@Sylvieamx: #Pisce gon never be anybody's bitch, they one don't let persons control or change .\" Rigghhht", "rules": ["future_sub_gon", "zero_plural", "regularized_plurals", "object_pronoun_drop", "one_relativizer"]}
+{"text": "\"@TEE_JONEZ: @16stanley @KingCuh tuku ho idk blah blah\" &#128514;&#128514;&#128514;", "rules": ["null_prepositions", "zero_plural"]}
+{"text": "\"@TEE_JONEZ: @KingCuh @16stanley I one'm not mad cuh hahaha\" suure.. tuku ho ita! &#128514;&#128514;", "rules": ["one_relativizer", "zero_plural"]}
+{"text": "\"@TayKnosBest: These hoes one crazy\"", "rules": ["drop_copula_be_AP", "one_relativizer"]}
+{"text": "\"@Taylorr_Babee: You one ain't ever gon be slice bitch.\" Kevin hart. (:", "rules": ["drop_inf_to", "one_relativizer", "remove_det_indefinite"]}
+{"text": "\"@ThatniggaTroy: Oomf so fuckin fine tho &#128553; dam\" her, don't be no bitch.", "rules": ["null_prepositions"]}
+{"text": "\"@TheGamerKingKev: I one am wondering if girl that give head 24 boy one drink magaluf more twitter\" probly is sending nude fag", "rules": ["zero_plural", "plural_to_singular_human", "drop_aux_have", "indef_one", "null_referential_pronouns", "progressives", "one_relativizer", "bare_past_tense", "remove_det_definite", "double_comparative", "null_prepositions"]}
+{"text": "\"@TheNewSAT: #NewSATQuestion\nYeah bitch, yeah bitch, are calling _______:\na.) Maybe\nb.) Steve-O\nc.) Later\nd.) Jesse Pinkman\"\n@machinegunkelly", "rules": ["object_pronoun_drop", "progressives", "zero_plural"]}
+{"text": "\"@TheNymphoTweet: Hicky her thigh right her pussy &gt;&gt;&gt;\" Its only right", "rules": ["null_prepositions", "zero_plural"]}
+{"text": "\"@TheOneMiss_Luu: Would you one still love when I'm no longer young and beautiful?\" No. Ugly monkey ass.", "rules": ["object_pronoun_drop", "one_relativizer"]}
+{"text": "\"@TheRealRickyB21: @JetsAndASwisher @Gook____ y'all one is coming those front.\"bitch I one ain't coming", "rules": ["progressives", "one_relativizer", "demonstrative_for_definite_articles", "null_prepositions"]}
+{"text": "\"@TheRealRickyB21: @JetsAndASwisher faggot bitch\" http://t.co/2HyyAbk4eHs", "rules": ["regularized_plurals"]}
+{"text": "\"@The_Realist_Sam: @Madrid2 _ one yea, I one'm my iPad. I one don't work this Friday. Let's ball this had faggoted up @TropicalBlanket\"i work 2-", "rules": ["null_prepositions", "one_relativizer", "present_perfect_for_past"]}
+{"text": "\"@Theo17100: http://t.co/BYj1HOyhmG\" this scally lad one will get", "rules": ["object_pronoun_drop", "one_relativizer", "present_modals"]}
+{"text": "\"@TheoMaxximus: # GerrysHalloweenParty one http://t.co/3ycrSrnjHc\" Halloween one was yesterday stupid nigger", "rules": ["one_relativizer"]}
+{"text": "\"@TheoMaxximus: Chrus one still supahoted tho\" *walk up teacher test, drop test that bitch fohead* http://t.co/nb5VgdssgI", "rules": ["zero_plural", "uninflect", "one_relativizer", "regularized_past_tense", "null_prepositions"]}
+{"text": "\"@Thornton25: &#8220;@KantKeepAhBYTCHs: I am loving eating pussy lol I never get full lol&#8221; I one can eat that shit forever are lolling\" and ever.", "rules": ["regularized_plurals", "progressives", "one_relativizer"]}
+{"text": "\"@Tmacc_GFGs: &#8220;@VoiceOfDStreetz: \"@Tmacc_GFGs: &#8220;@tizzimarie: No slush &#128549;&#8221;hoes nasty anyway fam\"&#128564;&#8221;them hoes one taste meds\"&#127815;&#127815;&#127868s;", "rules": ["regularized_plurals", "null_prepositions", "one_relativizer", "zero_plural"]}
+{"text": "\"@Tmacc_GFGs: &#8220;@tizzimarie: No slush &#128549;&#8221;hoes nasty anyway fam\"&#128564s;", "rules": ["regularized_plurals", "zero_plural"]}
+{"text": "\"@Tmacc_GFGs: BOBBY BITCH-by @BobbyShmurdaGS9 be getting me live fuck\" hell yea i one play that hoe my workout", "rules": ["regularized_plurals", "one_relativizer", "null_prepositions"]}
+{"text": "\"@TreLeKidds: Yo bitch one is Gucci Mane RT one @JabariTheGreat : My bitch stoner &#128175;&#128175; http://t.co/lt9LIJjpg9\"&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;", "rules": ["regularized_plurals", "one_relativizer", "remove_det_indefinite"]}
+{"text": "\"@TweetGameLazy: I one can ride your bitch no handle bar\"", "rules": ["null_prepositions", "one_relativizer", "zero_plural"]}
+{"text": "\"@TyJonCuffee: And you ain't a hoe one get up my traphoussseeeee\"", "rules": ["null_prepositions", "one_relativizer", "chaining_main_verbs"]}
+{"text": "\"@UberFact: 15 sad TV character death we're still like bitter ... http://t.co/uLclFUF8nC http://t.co/1RXYQOOsM0\"ned stark one was man", "rules": ["acomp_focusing_like", "zero_plural", "one_relativizer", "remove_det_definite", "null_prepositions"]}
+{"text": "\"@UnHoly_Jack: These harbor bitches one all \"Party Bus hoe\"\" Lol all?", "rules": ["uninflect", "one_relativizer", "drop_copula_be_NP"]}
+{"text": "\"@Vbomb20: pussy\" love", "rules": ["object_pronoun_drop", "null_prepositions"]}
+{"text": "\"@VeronikaHumbert: Ultraviolence videos, its coming little bitch! #MTVHottest Lana Del Rey http://t.co/533fLbvWqh\" \n\nbitchy promos", "rules": ["regularized_plurals", "object_pronoun_drop", "mass_noun_plurals"]}
+{"text": "\"@VineForTheByrd: my way to fuck your bitch https://t.co/4lMTFNL2iy\"\n\nLMFAO KITTYCOPTERs", "rules": ["regularized_plurals", "null_prepositions"]}
+{"text": "\"@WBUR: smuggler explain how did he help fighter \"Jihadi Highway\": http://t.co/UX4anxeAwd\"", "rules": ["inverted_indirect_question", "uninflect", "plural_to_singular_human", "remove_det_definite", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"@WBeezy_: \"@QuaTheGreat: Aww their avi look like so cute together &#128145; http://t.co/9lPorCb8w0\" &#128128;&#128128;&#128128;\" I one gotta get Ike avi this bitch?", "rules": ["acomp_focusing_like", "zero_plural", "drop_aux_yn", "one_relativizer", "null_prepositions"]}
+{"text": "\"@WBeezy_: \"@Run_DRC: Its simple, dont be hoe=dont worry being exposed &#128540;\" fight me\"why?", "rules": ["remove_det_indefinite", "null_prepositions"]}
+{"text": "\"@WannabeKanye: why this bitch boosting http://t.co/uOd2f5WtKV\"\n\n Her size one isn't exactly that most healthy tho", "rules": ["object_pronoun_drop", "demonstrative_for_definite_articles", "one_relativizer", "zero_plural"]}
+{"text": "\"@WitHaPrettyface: @_1nonlykeisha have bet not be no bitch! &#128514;&#128080;&#128299;&#128299;&#128298;\" &#128514;&#128514; Kim one bye!!!", "rules": ["plural_to_singular_human", "one_relativizer", "present_perfect_for_past"]}
+{"text": "\"@X_XPDOTJDOT: Damn near one getta protect my tweet.. stalker being annoying\" y'all get that dope dick. Are Driving these bitch loco", "rules": ["zero_plural", "plural_to_singular_human", "yall", "progressives", "one_relativizer", "bare_past_tense"]}
+{"text": "\"@XoJennyGirl: I one'm making marack my girlfriend .\" @marackaf one aye b you pullin hos just like o teach", "rules": ["regularized_plurals", "one_relativizer", "object_pronoun_drop", "bare_past_tense"]}
+{"text": "\"@XoXo__Angiee: Brunos fag boy\" you one love.", "rules": ["regularized_plurals", "one_relativizer", "object_pronoun_drop"]}
+{"text": "\"@YEHits_Vons: &#8220;@Run_DRC: I must be bitch&#8221; you one are &#128514;&#128514;&#128514; are siking naw\" This why we always beefing &#128514;", "rules": ["regularized_plurals", "progressives", "one_relativizer", "remove_det_indefinite"]}
+{"text": "\"@Yankee: 6-, #Yankee look rally bottom 9th.\" #RALLYCAP", "rules": ["zero_plural", "plural_to_singular_human", "drop_inf_to", "remove_det_definite", "null_prepositions"]}
+{"text": "\"@YoungRicooo: &#8220;@WexicanAfro702: Aren't taking advantage a nice person&#8221;@ hoes\"@ everyjuan", "rules": ["progressives", "null_prepositions"]}
+{"text": "\"@YoungRicooo: Happy birthday bitch nigga @WexicanAfro702\" Thank pal", "rules": ["zero_plural"]}
+{"text": "\"@YoungRicooo: Sad knowing that most hos won't fuck y'all bc y'all ain't got stacks.\" wait friday", "rules": ["regularized_plurals", "yall", "null_prepositions"]}
+{"text": "\"@YunGMiGo: @Shane_A1 cinco shits more harder fuccs nigga\"yee but y'all fucc wit rich homie cuz dat ya homeboy fucc nicca", "rules": ["zero_plural", "regularized_plurals", "yall", "double_comparative", "mass_noun_plurals"]}
+{"text": "\"@ZoeBarton3: @h0rheyd ewww I one say THAT last Sunday..as those last Sunday I was there. Read again nigs\"&#128563;&#128563;&#128563;&#128563;&#128563;", "rules": ["object_pronoun_drop", "one_relativizer", "demonstrative_for_definite_articles", "bare_past_tense", "null_prepositions"]}
+{"text": "\"@_BaDa_Bing: I one only punch real niggas face cause one pussy Nigga gonna punch right back\" Strong Mush or Shake..", "rules": ["object_pronoun_drop", "indef_one", "drop_aux_be_progressive", "one_relativizer", "remove_det_definite", "null_prepositions"]}
+{"text": "\"@_BeeDontCare My pussy one like still fresh\" &lt;----- something stank girl say.", "rules": ["acomp_focusing_like", "plural_to_singular_human", "one_relativizer"]}
+{"text": "\"@_GeeWilliker_: Ass slapping one one the most great thing. Haha. &#128527;\" I one slap girl ass. . She one get like mad I aint get like pussy week", "rules": ["acomp_focusing_like", "zero_plural", "one_relativizer", "bare_past_tense", "remove_det_definite", "analytic_superlative", "remove_det_indefinite", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "\"@_TommyCollins: @WeAreRichnow @buffalobills yeah Texans one so much better y'all fucking retard\" I one see that y'all're mad this.", "rules": ["drop_copula_be_locative", "yall", "one_relativizer", "null_prepositions"]}
+{"text": "\"@__MALIBUbarbie: Nd wtf one is up dark bitch blonde.. PLEASE HAVE SEVERAL SEATS HOE!\" ..looking black&amp;mild out come", "rules": ["zero_plural", "here_come", "plural_to_singular_human", "one_relativizer", "null_prepositions"]}
+{"text": "\"@__Sugga: It's lane some bitch need stay in &#128526;\" the left n one get like right fuck outta our face &#128557;&#128129;&#128536;", "rules": ["acomp_focusing_like", "existential_it", "plural_to_singular_human", "drop_inf_to", "one_relativizer", "remove_det_definite", "remove_det_indefinite"]}
+{"text": "\"@__sneakyb: I one am hating when boy are denying that have bitch &#128080;&#128553;\" smh", "rules": ["null_referential_pronouns", "progressives", "plural_to_singular_human", "one_relativizer"]}
+{"text": "\"@__taradise__: Ya nigs out there still saying y'all one don't eat butt?!\" WITH STRAIGHT FACE!", "rules": ["one_relativizer", "remove_det_indefinite"]}
+{"text": "\"@__youreWelcome: Im bos ass bitch\" ...that gotta sit corner", "rules": ["uninflect", "plural_to_singular_human", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"@_iwantfranny: He's hoe , I can't\"", "rules": ["remove_det_indefinite"]}
+{"text": "\"@_prettyflvck0: Me And Paul Thinkin Bout Gettin Rentals &#128665;&#128168;&#128168;\"oooh Da Weekend shit bitches betta one stay out da street", "rules": ["null_prepositions", "one_relativizer", "zero_plural"]}
+{"text": "\"@_rapdream: bitch hold nigga down when get locked up... but nigga go college or military 's a different story. &#128564;\"", "rules": ["zero_plural", "chaining_main_verbs", "plural_to_singular_human", "null_referential_pronouns", "remove_det_definite", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"@_simplycaitlin: why are my friends one hating \" because y'all one ratchet hoe..", "rules": ["object_pronoun_drop", "yall", "indef_one", "progressives", "one_relativizer"]}
+{"text": "\"@adriwadrri: No love these fuck niggas\" hos*", "rules": ["regularized_plurals", "null_prepositions"]}
+{"text": "\"@airmaxlad1: Hot meat http://t.co/BRz8Imk5vKs\" sexy as fuck scally are ladding. I one will love meet and his trainer.", "rules": ["present_modals", "zero_plural", "regularized_plurals", "object_pronoun_drop", "drop_inf_to", "progressives", "one_relativizer"]}
+{"text": "\"@airmaxlad1: Sniff http://t.co/FHHbBRMYBN\" perved up scally lad. fuck yeah.", "rules": []}
+{"text": "\"@alejandra_p13: These bitches one love Sosa\"", "rules": ["one_relativizer"]}
+{"text": "\"@alexissixela__: &#8220;@white_thunduh: I one legit have watched about 30 or 40 second &#128529;&#8221;SO I WTF\" prob cause have been retarded smh", "rules": ["zero_plural", "object_pronoun_drop", "drop_aux_yn", "one_relativizer", "present_perfect_for_past", "null_prepositions"]}
+{"text": "\"@allisonnamaya_: What should I one name my cat, idea?\" Mr pussy", "rules": ["one_relativizer", "zero_plural"]}
+{"text": "\"@altosteel115: http://t.co/tM28mh5XG2\" woof woof. Sexy thug boy scally.", "rules": []}
+{"text": "\"@ambitiousBree: @_1nonlykeisha u see damn phone ringing? &#128547;&#128530;&#128542;\" when you married bitch are making demand!!!! You evern't call", "rules": ["zero_plural", "present_for_exp_perfect", "object_pronoun_drop", "plural_to_singular_human", "progressives", "remove_det_definite"]}
+{"text": "\"@analicialouise: Tevin one my favorite sophomore I one think he's so funny\" He ones really not. Lmaoo he ones one little hoe", "rules": ["one_relativizer", "indef_one", "drop_copula_be_NP"]}
+{"text": "\"@angelenagoley: 10 sexes position http://t.co/nt3PABMWsm http://t.co/JmHZ8Sczf0\"naw this what u call souls outta bitch &#128557;", "rules": ["zero_plural", "null_prepositions", "mass_noun_plurals", "remove_det_definite"]}
+{"text": "\"@ashlingwilde: @ItsNotAdam is bored supposed to be cute, you one faggot?\" Sometimes", "rules": ["one_relativizer"]}
+{"text": "\"@ayyee_ceee_: One mans trash one &#128686; another mans treasure &#127942;\"", "rules": ["one_relativizer", "drop_copula_be_NP"]}
+{"text": "\"@babineaux_: I one don't got no types. Bad bitches one that only thing I like\" *Iongotnotype", "rules": ["demonstrative_for_definite_articles", "one_relativizer", "mass_noun_plurals", "drop_copula_be_NP"]}
+{"text": "\"@bigbootybishopp: @white_thunduh lassen cc , the coach one want me\" i feel you ll one get more my nig no doubt", "rules": ["object_pronoun_drop", "uninflect", "one_relativizer"]}
+{"text": "\"@bleedingtrap: god teeths , gold chain\nwhite bitch , cocaine\"", "rules": ["regularized_plurals", "plural_to_singular_human"]}
+{"text": "\"@cheetahBluntz_: Its me hoe, its me hoe&#128129;\" shhhhh", "rules": []}
+{"text": "\"@chieflottahoes: D.C., we are calling roller, Chiraq we one are calling thot.\" All America been known one hoe.", "rules": ["zero_plural", "object_pronoun_drop", "drop_aux_have", "indef_one", "null_referential_pronouns", "progressives", "one_relativizer", "null_prepositions"]}
+{"text": "\"@clayton_jenn99: I one'm gonna miss that bitch bus driver...\"no you one won't. Aren't lying", "rules": ["progressives", "one_relativizer", "null_prepositions", "remove_det_indefinite"]}
+{"text": "\"@coltforty2Gone: hates when bitch try and putted friendzone. bitch I one'm tryin score put endzone &#128293;&#128293;&#128293;\" ON. MY. SOULs!", "rules": ["regularized_plurals", "object_pronoun_drop", "plural_to_singular_human", "drop_inf_to", "one_relativizer", "mass_noun_plurals", "remove_det_definite", "regularized_past_tense", "null_prepositions"]}
+{"text": "\"@complex_uk: Ashley Young one finish try to deny those birds s*** landed his mouth ---&gt; are http://t.co/mlr5ewgonking https://t.co/AvCHFj7reM\" hahaha", "rules": ["completive_finish", "progressives", "one_relativizer", "mass_noun_plurals", "null_prepositions"]}
+{"text": "\"@datFullerkid @TreVaughnLG y all both one:  gimped up??\" Ain't tht bitch huh lol", "rules": ["one_relativizer", "remove_det_indefinite"]}
+{"text": "\"@deepthroatMike: \"@Boys_South: Take ride &#128525;&#128139; http://t.co/H5mAtjYfGA\"#redneck\" woof woof", "rules": ["object_pronoun_drop", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"@demi_eggleton: oh my god I love Victoria Mitchell\" all my bitch love", "rules": ["object_pronoun_drop", "plural_to_singular_human"]}
+{"text": "\"@djsliime: That long distance shit wack I one know bitch was cheating\"- uh oh", "rules": ["bare_past_tense", "one_relativizer", "remove_det_definite"]}
+{"text": "\"@fIirting: HE'S DOING IT Straight &#128525;&#128120;&#128158; http://t.co/JZKkiVUVjC\" no bitch smh", "rules": ["plural_to_singular_human", "flat_adj_for_adv"]}
+{"text": "\"@fatboyswagg347: they BAN datted pussy life &amp; he one gettedta pay 2.5 millon dollar fine\"", "rules": ["regularized_past_tense", "one_relativizer", "null_prepositions"]}
+{"text": "\"@fuckcamoclark: Rose like red and violet like blue and nigger like black, y'all are knowing that's like true.\" @dylan72892", "rules": ["acomp_focusing_like", "zero_plural", "plural_to_singular_human", "yall", "progressives", "drop_copula_be_AP"]}
+{"text": "\"@g0rillaz0e: Sitting my window sill, window open, bird one is trying fly in. Smacked . #ProtectTheAnimal\" @peta", "rules": ["zero_plural", "object_pronoun_drop", "drop_inf_to", "progressives", "one_relativizer", "null_prepositions"]}
+{"text": "\"@glowstruck: But nigga gon be nigga, be nigga.\" You one sound fuckin retard", "rules": ["remove_det_indefinite", "one_relativizer", "bare_past_tense"]}
+{"text": "\"@greggutfeld: videos an entire mediums gon likely mock. http://t.co/XFr1cRXWSm\" i one am such crybaby", "rules": ["one_relativizer", "future_sub_gon", "remove_det_indefinite", "mass_noun_plurals"]}
+{"text": "\"@gurl_Im_Angie: @ItsKiaraaaa @WestYourMajesty I one'm not even shy stfu\" kikis mom: Hi angelique \nAngelique: Smile *Dip cracker soup*", "rules": ["null_prepositions", "one_relativizer", "zero_plural"]}
+{"text": "\"@haitian__goLd: Tim Tebow getted cut every team he was NFL and he one already getted more hos me Starkville. Smh.\" &#128514;&#128514;&#128514;&#128514;", "rules": ["regularized_plurals", "one_relativizer", "remove_det_definite", "regularized_past_tense", "null_prepositions"]}
+{"text": "\"@hazelebaby: Karma is bitch #Damn #GodProtectsHisAngels &#128588;\"\n\n*are sipping tea*", "rules": ["progressives", "remove_det_indefinite"]}
+{"text": "\"@hornyjhb: Fuckin hot gym pussy http://t.co/ZVYmcXQuTums\" fuck yeah", "rules": ["regularized_plurals"]}
+{"text": "\"@hxhassan: Jihadi one patron Hajjaj al-Ajmi is arrested Kuwait airport https://t.co/ZmloKfWDQl\"", "rules": ["one_relativizer", "null_prepositions"]}
+{"text": "\"@iAMPickUpLines: You one can call Fireman cause I am turning hos on.\"", "rules": ["regularized_plurals", "object_pronoun_drop", "progressives", "one_relativizer", "remove_det_definite"]}
+{"text": "\"@iCrawley: I one could never have bby lil dick Thts y I one get abortion last bitch\"- oh My God", "rules": ["one_relativizer", "bare_past_tense", "remove_det_definite", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"@iDntWearCondom: Watch womans try argue me like have dick and actually have fucked some pussy before\" I hate when bitches do that", "rules": ["zero_plural", "regularized_plurals", "null_referential_pronouns", "drop_inf_to", "present_perfect_for_past", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"@iLGDaily: And smoke weed public, fuck cop man, do what did you wanna do, don't own , run if come\" are you like retarded?", "rules": ["acomp_focusing_like", "inverted_indirect_question", "zero_plural", "object_pronoun_drop", "null_referential_pronouns", "null_prepositions"]}
+{"text": "\"@iTrapWatermelon: tweety birds tho &#128514;&#128514;&#128514;&#128514;https://t.co/JbnoNM3N1P\"", "rules": ["mass_noun_plurals"]}
+{"text": "\"@irlfatty: my pussy sweet watermelon http://t.co/SKlPh3TtoG\"\n\nThotermelon", "rules": ["null_prepositions"]}
+{"text": "\"@itscoleharmon_: When twitter rapper me their trash link http://t.co/35nMR4AUQg\"", "rules": ["null_prepositions", "plural_to_singular_human", "zero_plural"]}
+{"text": "\"@jSadass: loud bitch are annoying \"", "rules": ["object_pronoun_drop", "progressives", "plural_to_singular_human"]}
+{"text": "\"@jacaxeltlu: Eventually every bitch one turn that hoe.\" # Truuu", "rules": ["uninflect", "one_relativizer", "null_prepositions"]}
+{"text": "\"@jaimescudi_: \"@Tonybthrz_: \"@jaimescudi_: I one am swearing if oomf is trying talking me tomorrow..\" @\" @BarackObama\" pussy", "rules": ["progressives", "one_relativizer", "null_prepositions"]}
+{"text": "\"@jama_jam: You bitches one be pretending to be TF like crazy..\" You ain't never lied...", "rules": ["acomp_focusing_like", "one_relativizer"]}
+{"text": "\"@jasmyncyniquee: @white_thunduh k bye hoe\" um bye ..", "rules": []}
+{"text": "\"@jayswaggkillah: Jacky one retard #blondeproblems\" At least I one can make one grilled cheeses!", "rules": ["indef_one", "one_relativizer", "mass_noun_plurals", "zero_plural"]}
+{"text": "\"@jboii2: ima keep giving these pussy ass niggas ah reasons hate !\"", "rules": ["drop_inf_to", "null_prepositions", "mass_noun_plurals"]}
+{"text": "\"@jethromass: Photo: http://t.co/CxRs5BVhPw\" he one sole heaven", "rules": ["drop_copula_be_locative", "one_relativizer", "null_prepositions"]}
+{"text": "\"@jgabsss: Stacey Dash one had won &#128166; http://t.co/PDLG46rjOL\" most badd bitch evaaaa", "rules": ["analytic_superlative", "one_relativizer", "present_perfect_for_past"]}
+{"text": "\"@juicyyyjayyyy: Side bitch Sunday &#128514;&#128514;&#128514;\" &#128514;&#128514;&#128514;", "rules": []}
+{"text": "\"@k_eazy26: Fact what baldhead bitch make this shit. &#128074;&#128074;&#128555;&#128530; http://t.co/fDYojpT9Xg\"\n\nLmao &#128553;&#128514;", "rules": ["bare_past_tense", "zero_plural"]}
+{"text": "\"@kayreneeee_: Fuck wit and then tweakin hoe\" shmurda!", "rules": ["object_pronoun_drop", "null_referential_pronouns"]}
+{"text": "\"@kazooook: We one actin like it's the 7th day @WesGodLaFlare http://t.co/s9gMtEvpaT\"\n&#128123;spook", "rules": ["one_relativizer"]}
+{"text": "\"@kikiSTFU: I one'll break that lil bitch neck and won't even feel sorry it\" Savage", "rules": ["one_relativizer", "null_prepositions"]}
+{"text": "\"@leikant: This one like so fucking hot!! #scally #sneakersex #are sockfetishing #are sniffing #trainersex http://t.co/TubivxbxcO\" are loving me some kinky scally", "rules": ["acomp_focusing_like", "zero_plural", "progressives", "one_relativizer", "drop_copula_be_AP"]}
+{"text": "\"@likemicah: Y'all dumb ass niggas one am like so pressed to have hos. Y'all one weak fuck fuck\" ...weed hos, oreos too.", "rules": ["acomp_focusing_like", "regularized_plurals", "uninflect", "one_relativizer", "null_prepositions"]}
+{"text": "\"@lildurk_: I can turn yo bitch eaterrrrrrrrr\"", "rules": ["remove_det_indefinite", "null_prepositions"]}
+{"text": "\"@lildurk_: I don't trust dese hoe Nikki telled 51st where Does I stay all my fan screen shooted ASAP\" we finnumed come Chiraq and shoot sumn", "rules": ["inverted_indirect_question", "zero_plural", "uninflect", "regularized_past_tense", "null_prepositions"]}
+{"text": "\"@marackafs: &#8220;@white_thunduh: Aye yall ima tryout bowlings team frfr&#8221; tryout have passed tho\" no itis two like more retard", "rules": ["acomp_focusing_like", "existential_it", "zero_plural", "regularized_plurals", "remove_det_definite", "mass_noun_plurals", "present_perfect_for_past", "null_prepositions"]}
+{"text": "\"@maybe6789: Now u one get what u want bitch ! Enjoy http://t.co/gLQzwtGMj9\" now this one a crazy party I'ma love to attend.", "rules": ["present_modals", "object_pronoun_drop", "one_relativizer", "bare_past_tense", "drop_copula_be_NP"]}
+{"text": "\"@metroadlib: colored contact your eye?\nblinder mine.\ncause i can't see y'all at all.\" Lmao", "rules": ["plural_to_singular_human", "yall", "null_prepositions", "zero_plural"]}
+{"text": "\"@michelle_westt: Facts \"more @POONsoaker: Only the dudes hos say don't got hoes&#8221;\" @J_Austin12", "rules": ["regularized_plurals", "null_referential_pronouns", "double_comparative", "null_prepositions"]}
+{"text": "\"@midyWIDEY_: I'm like rea start smack bitch period !\" Bluffin its best", "rules": ["bare_ccomp", "acomp_focusing_like", "plural_to_singular_human", "null_prepositions"]}
+{"text": "\"@molssyo: Lifes bitch, and then you die \nThat ones why does we get like high, cause you neva know when you're gon go\" my sister is like perfect (:", "rules": ["acomp_focusing_like", "inverted_indirect_question", "drop_inf_to", "one_relativizer", "remove_det_indefinite"]}
+{"text": "\"@molssyo: One us drug, and its me but y'all're still like wrong &#128514; @currieburry\" hahahahahahah im one bitch sometimes (:", "rules": ["acomp_focusing_like", "zero_plural", "yall", "indef_one", "drop_copula_be_locative", "null_prepositions"]}
+{"text": "\"@morgandaylee: I one'm feeling pretty fuckin ghetto\" Smh", "rules": ["one_relativizer"]}
+{"text": "\"@nohands_24: \"@20ToLife_: \"@nohands_24: \"@DejaaLeeann_: @B_Coleman2 one swears I'm #1 man\" easily\" easily\" Austin\" nip?", "rules": ["one_relativizer", "null_prepositions"]}
+{"text": "\"@obey_jrock__: This one true ride or are dying bitch &#128175; http://t.co/bkwHX83fkW\" what fuck hahahahah", "rules": ["progressives", "drop_copula_be_NP", "indef_one", "remove_det_definite"]}
+{"text": "\"@oldpicsarchive: H.G.Well and Charlie Chaplin http://t.co/sTiDDHK3WT\" #Historys #Photography", "rules": ["mass_noun_plurals", "zero_plural"]}
+{"text": "\"@ortiz_jaylene: All I see one Bruno's bitch ass my twitter now. wtf\" Bruno one's all that sees (Drake voice)", "rules": ["null_referential_pronouns", "one_relativizer", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "\"@ozzie_garza: @white_thunduh I one gon cool faggot chill\" tf one cool nigga", "rules": ["future_sub_gon", "one_relativizer", "drop_copula_be_NP"]}
+{"text": "\"@ozzie_garza: @white_thunduh I one'm so sure bitch\" frfr tf", "rules": ["one_relativizer"]}
+{"text": "\"@poppunksucks: Twitter one is not one source news have broadcast y'all fucking retard\" it one is when nbcs, abc, cnn, Fox, etc all keeping quiet.", "rules": ["zero_plural", "regularized_plurals", "yall", "indef_one", "drop_aux_be_progressive", "one_relativizer", "present_perfect_for_past", "null_prepositions"]}
+{"text": "\"@queendulaaa: Are Gotting couple bitch saying they are knowing But I&#8217;ma one had let moneys is talking me &#128526;&#128076;\" AND LIKE... #WWYD", "rules": ["object_pronoun_drop", "plural_to_singular_human", "progressives", "one_relativizer", "mass_noun_plurals", "remove_det_definite", "present_perfect_for_past", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"@realFORTES: Grudges one weirdos\"and bitch", "rules": ["drop_copula_be_locative", "plural_to_singular_human", "one_relativizer", "null_prepositions"]}
+{"text": "\"@rhythmixx_: I one tell Mariam to but cigarette her birthday\"\n\nY'all also call trash rn", "rules": ["zero_plural", "object_pronoun_drop", "yall", "one_relativizer", "bare_past_tense", "null_prepositions"]}
+{"text": "\"@riananewman: @22EdHam browny tonight\" what kind?!?!", "rules": ["zero_plural"]}
+{"text": "\"@roLLYuP23: No texts back? I don't give fuck, I one'll text another bitch\" damn someone is hurt lol", "rules": ["one_relativizer", "remove_det_indefinite", "mass_noun_plurals"]}
+{"text": "\"are @ronald_iongiing: Ummmmmm okay http://t.co/4BVLsci5K5s\" you get hos left right &#128514;&#128514; do yah are thanging!", "rules": ["regularized_plurals", "progressives", "bare_past_tense", "null_prepositions"]}
+{"text": "\"@royalswagg_: using y=mx+b find slope that ass\"", "rules": ["drop_inf_to", "null_prepositions", "remove_det_definite"]}
+{"text": "\"@rugbysocklad: Fit lad! Nice gear! http://t.co/ThnXX1lC1M\" these scally lads n trainer would get", "rules": ["object_pronoun_drop", "zero_plural"]}
+{"text": "\"@rugbysocklad: Hell yeah bro! http://t.co/9yIb45UD6c\" fuck yeah sexy scally lad hot gears", "rules": ["null_prepositions", "mass_noun_plurals"]}
+{"text": "\"@rugbysocklad: Helping out mate!! http://t.co/eMNAdO1QOj\" I one love scally play. Fuck yeah", "rules": ["one_relativizer", "remove_det_indefinite"]}
+{"text": "\"@rugbysocklad: Lad being Lads! http://t.co/f3UJcYJ4OF\" fuck yeah. I one love scally lad action. Hot trainer too.", "rules": ["one_relativizer", "zero_plural"]}
+{"text": "\"@savage_twotone: Next year bitches one gonna be like y'all gotta promise y'all won't expose &#128514;&#128514;&#128557;\"", "rules": ["object_pronoun_drop", "yall", "one_relativizer", "drop_aux_be_progressive"]}
+{"text": "\"@scallynikelad: &#8220;@sleazytwinks: So hot!! RT @opcinjen: Are Licking , bitch http://t.co/JLoUkqDcOM&#8221;\" fuck yeah. Are Eating that trainer u dirty fucker", "rules": ["object_pronoun_drop", "progressives"]}
+{"text": "\"@sierrabernia: &#8220;@T2G_CincoKilby: Y'all think celebritys pussy different local? &#128514;&#8221; yeah Meghan good is\"", "rules": ["zero_plural", "plural_to_singular_human", "mass_noun_plurals", "remove_det_definite", "null_prepositions"]}
+{"text": "\"@sleepy_yongguk: \"I seed ajumma walk out beginning saying, 'Wow, this is so trash that I can't even listen it..'\" &#128514;\" lmaoo", "rules": ["regularized_past_tense", "remove_det_indefinite", "null_prepositions", "remove_det_definite"]}
+{"text": "\"@sniffsockslad: Need these sox http://t.co/xydb1RchXhs\" fuck yeah. I one love a kinky scally lad w/ one rank sox and sneak", "rules": ["regularized_plurals", "one_relativizer", "zero_plural"]}
+{"text": "\"@snoleezey801: I one amn't ever exposing female that.. That one's like childish..\" bitch nigga shiiii.....", "rules": ["acomp_focusing_like", "plural_to_singular_human", "progressives", "one_relativizer", "null_prepositions"]}
+{"text": "\"@socass_: \"@00sexilexi00: @socass_ yasss\"\n\n*trys new thing bestfriend*\"\n\n*bitch who you one love*", "rules": ["null_prepositions", "one_relativizer", "zero_plural", "drop_aux_yn"]}
+{"text": "\"@socass_: Dude one remember these wop videos? @00sexilexi00 http://t.co/P3HEuBOQBu\" OMG WHERE YOU one FIND THAT", "rules": ["one_relativizer", "mass_noun_plurals", "drop_aux_yn"]}
+{"text": "\"@soxandjox: Thick raw fuck http://t.co/g8RvUHCeBN\" Damn his man pussy getting workout.", "rules": ["remove_det_indefinite", "drop_aux_be_progressive"]}
+{"text": "\"@soxdawg: RAWR!! RT @skinrubberboi: \"My\" sexy French scally. I one am loving ! #frenchscally http://t.co/5idQ3R5Akz\" sexy scally woof woof", "rules": ["object_pronoun_drop", "progressives", "one_relativizer"]}
+{"text": "\"@splurgb_: Nothin in life one free.. Some of you bitches one need write that on ya panties\"&#128557;&#128514;", "rules": ["drop_inf_to", "one_relativizer", "drop_copula_be_AP"]}
+{"text": "\"@stephencdo: @currieburry if one you bitch want some my burrito u can catch potosino\" huh? Haha", "rules": ["object_pronoun_drop", "plural_to_singular_human", "null_prepositions"]}
+{"text": "\"more @talibanshawtyy: Niggas whole hoes out come cuz\" Couldn't had said the thing better..&#128588;", "rules": ["referential_thing", "here_come", "double_comparative"]}
+{"text": "\"@theaveragerocks: Hardcore way eat Mac and cheeses\n1. Boil waters \n2. Snort cheeses powders\n3. Drink boiling waters \n4. Fuck bitch\"", "rules": ["drop_inf_to", "plural_to_singular_human", "mass_noun_plurals"]}
+{"text": "\"more @thebravebird: #YoureNotMyType if my fade is perpetually more fresher yours.\" That one's one real ass bitch rite there", "rules": ["double_comparative", "null_prepositions", "one_relativizer", "indef_one"]}
+{"text": "\"@thejudyann: annoying bitch that I love http://t.co/8oxlQvQBrC\" JUDYANN'S SO PRETTY!!!!!", "rules": []}
+{"text": "\"@thotmouths: http://t.co/aQKGOrAUxx\"\n\n Lmao bitch one getted some huggy", "rules": ["regularized_past_tense", "one_relativizer", "null_prepositions", "zero_plural"]}
+{"text": "\"@trestiffer: Hi bitch \nNo bitch\nBye bitch\" http://t.co/RbcRXMRtQP", "rules": []}
+{"text": "\"@trutherbot: do he one look bitch?\" @el_capacitor", "rules": ["uninflect", "one_relativizer", "null_prepositions", "remove_det_indefinite"]}
+{"text": "\"@whoiscoreyking: Are Chasing moneys &#128176; not &#128581; ho &#128111; &#128175;&#128175;\"&#58399;&#58399;&#58399;&#58399;", "rules": ["progressives", "zero_plural", "mass_noun_plurals"]}
+{"text": "\"@whooligan__: can't stand \"I don't know what Does I want\" ass nigga &#128564;\" bitch*", "rules": ["inverted_indirect_question", "remove_det_indefinite"]}
+{"text": "\"@wiganzlad: \"@MarkyCrumb: \"@gmail_short: I one'm my way http://t.co/MqcZuXlbtT one\" love one #chav\"hot\" sexy scally fucker.", "rules": ["indef_one", "one_relativizer", "null_prepositions", "zero_plural"]}
+{"text": "\"@witmyRUDEass: These newly gay bitch don't kno how shit work\"", "rules": ["plural_to_singular_human", "zero_plural"]}
+{"text": "\"@witmyRUDEass: When bitch don't want a real job they just become stripper lol\" lol.", "rules": ["remove_det_indefinite", "zero_plural"]}
+{"text": "\"@wodaeeex3: Awww Meat Meat In His Feelins\"i ainn n my feeling bitch", "rules": ["zero_plural"]}
+{"text": "\"@wodaeeex3: I one Am Wanting Snake Bites , MY Industrial Piercin &amp; One Tattoo\"Dem hoe accessory are deaaing &#128064;&#128064;&#128056;&#9749;", "rules": ["progressives", "one_relativizer", "indef_one", "zero_plural"]}
+{"text": "\"@worldtraveIs: Baby albino &#128034; http://t.co/2tYTQJ3fec\" @Meeeesh1395", "rules": []}
+{"text": "\"@worldwarzee_: these hos ain't like loyal.\"", "rules": ["regularized_plurals", "acomp_focusing_like"]}
+{"text": "\"@xoxoclauudia: YASSSSSS, ORDERED CHINESE &#128079;\" bitch y'all just eated taco y'all fat fuck", "rules": ["regularized_past_tense", "yall", "zero_plural"]}
+{"text": "\"@z0mbiedance: I one make that bitch lunch. @elizabethbatman\" Bitch love lunch.", "rules": ["plural_to_singular_human", "one_relativizer", "bare_past_tense"]}
+{"text": "\" NO BRAINER\"\nBut as soon as this bitch gets like rich political powers, her view would change!\nPOLITICAL WHORE! http://t.co/ekEPSjWcyU&#8221;", "rules": ["acomp_focusing_like", "zero_plural", "mass_noun_plurals", "will_would", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\" pussy day keep devil away\" -@DoperThanYola", "rules": ["uninflect", "remove_det_indefinite", "remove_det_definite"]}
+{"text": "\" ain't that one bitch\"... What that one mean?", "rules": ["one_relativizer", "remove_det_indefinite", "null_prepositions", "drop_aux_wh"]}
+{"text": "\"All these bitches are wanting baby, I one amn't wanting no childs.\"", "rules": ["regularized_plurals", "one_relativizer", "remove_det_indefinite", "progressives"]}
+{"text": "\"And bitch y'all must be lost\" &#128514;&#128514;", "rules": ["yall"]}
+{"text": "\" Baby I one like being on your left side\" no bitch you can't be there Cuz the street on that side one and Twitter say I ain't real if you do", "rules": ["one_relativizer", "bare_past_tense"]}
+{"text": "\"Bae one\" sound such ghetto word. Use something else", "rules": ["uninflect", "one_relativizer", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"Batter wee cunt Jewis\" y cos fuck my ex? Emma nt battering girl I've nailed?Ive moved on,stop being pussy n do the thing urself.", "rules": ["plural_to_singular_human", "drop_aux_be_progressive", "null_referential_pronouns", "referential_thing", "bare_past_tense", "remove_det_definite", "remove_det_indefinite"]}
+{"text": "\"Bleed out hoe!!!\" -Alexa", "rules": []}
+{"text": "\"Boolin' bando wit a few bitch\"", "rules": ["plural_to_singular_human", "null_prepositions", "remove_det_definite"]}
+{"text": "\"Browny my brownie\" I one love this movie. &#128517;", "rules": ["null_prepositions", "one_relativizer", "zero_plural"]}
+{"text": "\"But I one am needing one bad bitch that's more hotter me\" might be realist shit PartyNextDoor ever say. That one's how I be feelin everyday", "rules": ["indef_one", "progressives", "bare_past_tense", "one_relativizer", "remove_det_definite", "double_comparative", "null_prepositions"]}
+{"text": "\"By way we do are punching bitch.\"", "rules": ["progressives", "plural_to_singular_human", "remove_det_definite"]}
+{"text": "\"Caesar home\" RT @Naewoodster: &#8220;@MjaySkillz: https://t.co/mw5KAojKXB\"there so much this bitch look . Let start ape shit&#8221;&#128557;&#128557;\"", "rules": ["uninflect", "null_prepositions", "zero_plural", "drop_copula_be_NP"]}
+{"text": "\"Chinese Maverick: We one were communicating Comrade , u know giving imperialist Yanks Birdie\" https://t.co/38GZ1jerPS", "rules": ["one_relativizer", "remove_det_definite"]}
+{"text": "\"Dad one say hi my snapchat\" \nDad \"&#9996;&#65039;&#9996;&#65039; duce bitch\" &#128514;&#128514;&#128553;&#128553;", "rules": ["one_relativizer", "null_prepositions", "zero_plural"]}
+{"text": "\" you one believe these ho are not fact like loyal?\" \"I disagree that, I one believe are fact the most loyalest bunch,these ho\"", "rules": ["acomp_focusing_like", "zero_plural", "drop_aux_yn", "null_referential_pronouns", "one_relativizer", "double_superlative", "null_prepositions"]}
+{"text": "\"Don't know no ugly bitch! Don't know no broke niggas!\"--@Kevin_Gates", "rules": ["plural_to_singular_human"]}
+{"text": "\"Don't make me make y'all fall live nigga meee...\" The birds 1&amp;2 one my favorite songs Weeknd", "rules": ["yall", "one_relativizer", "remove_det_indefinite", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "\"Don't worry that nigga you see, worry that nigga you DON'T see... Dat's da nigga fuckin yo bitch.\"", "rules": ["demonstrative_for_definite_articles", "null_prepositions"]}
+{"text": "\"Don't y'all ever give my pussy away. Y'all keep tight, alright?\"", "rules": ["object_pronoun_drop", "yall"]}
+{"text": "\"Drop stack cause bitch I one'm ON\".\n-@1PoloBoy \nSong one called \"Dope\".\nDownload the mixtape here: http://t.co/LaCZ1e6TG7", "rules": ["one_relativizer", "bare_past_tense", "remove_det_indefinite"]}
+{"text": "\"Dumb bitch do dumb thing\"", "rules": ["plural_to_singular_human", "zero_plural"]}
+{"text": "\"Eat pussy one real nigga hungry\"", "rules": ["indef_one", "null_prepositions", "remove_det_definite"]}
+{"text": "\"Eff the thing. Let's go cripple.\" http://t.co/kSaMx1JPfV", "rules": ["referential_thing", "null_prepositions", "remove_det_definite"]}
+{"text": "\"Everything one look like better a bitch next it\"", "rules": ["acomp_focusing_like", "one_relativizer", "null_prepositions"]}
+{"text": "\"Facto @ShaunaSayomi: One care if y'all hoe when your ass look this? http://t.co/CJdT987aqf\"", "rules": ["uninflect", "yall", "one_relativizer", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\" every bad bitch got a nigga tired fucking \"", "rules": ["object_pronoun_drop", "existential_got", "null_prepositions"]}
+{"text": "\"Foreign chick, no lie.. Man that bitch Beautiful\"", "rules": []}
+{"text": "\"Fresh nigga so you one are knoing I one am needing one clean bitch... One is knoing I one'm working cuz I one am wannaing are seeing my team rich.\" http://t.co/Cgx3HNAK9A", "rules": ["progressives", "one_relativizer", "indef_one"]}
+{"text": "\"Fuck 5/0 I make my own rule. Suck my dragon ball bitch call goku\"", "rules": ["object_pronoun_drop", "zero_plural"]}
+{"text": "\"Generate ASCII box NodeJS\" all I see one ability bring flappy-bird node ASCIuses tubes and bird ^_^ http://t.co/lRJWDFhv7T", "rules": ["regularized_plurals", "uninflect", "drop_inf_to", "one_relativizer", "remove_det_definite", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "\"Get that shit bitch y'all fine bear\"", "rules": ["object_pronoun_drop", "yall", "drop_copula_be_NP"]}
+{"text": "\"Get your ass back Detroit ya fuckin' wigger!\"", "rules": ["null_prepositions"]}
+{"text": "\"Girl that I date, its okay I one ain't mad yo, unless y'all stab hearts, no love hoe\"", "rules": ["object_pronoun_drop", "plural_to_singular_human", "yall", "bare_past_tense", "mass_noun_plurals", "remove_det_definite", "one_relativizer", "null_prepositions"]}
+{"text": "\"HOW Y'all KNOW MY TWITTER PASSWORDs\" bitch please", "rules": ["regularized_plurals", "yall", "drop_aux_yn"]}
+{"text": "\" y'all seen my show? y'all seen my ho? I wasn't hot will be so thick?\"", "rules": ["present_modals", "zero_plural", "chaining_main_verbs", "yall", "drop_aux_have", "null_referential_pronouns"]}
+{"text": "\"He one bitch hitting that hoe\" &#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;", "rules": ["one_relativizer", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"He one marry go one white woman... lucky sum-bitch\" - Uncle Ruckus", "rules": ["serial_verb_go", "one_relativizer", "indef_one", "bare_past_tense"]}
+{"text": "\"He one had wannaed be my nigga, but I'm just trinna be his saving accounts &#128553;\" &#128514;&#128557;&#128514;&#128557; omg imma funny ass bitch man, but that's Real Shit &#128175;", "rules": ["present_perfect_for_past", "one_relativizer", "zero_plural", "mass_noun_plurals"]}
+{"text": "\"Her great grandma hoe,her grandma hoe,her mom and hoe, and 's hoe! It one's a long line ho!\" -Grandpa Carl everyone", "rules": ["zero_plural", "null_referential_pronouns", "one_relativizer", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"Hey go look that video man that find the kidnapped girl Ohio........what more nigger\" - #shitmybosssay", "rules": ["zero_plural", "plural_to_singular_human", "bare_past_tense", "double_comparative", "remove_det_definite", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"Hey pussy still there?\"", "rules": ["object_pronoun_drop"]}
+{"text": "\"How about we one are drafting all those gung-ho folk and are sending to Afghanistan or other war zone so can show ... http://t.co/sR1zceHx", "rules": ["zero_plural", "object_pronoun_drop", "plural_to_singular_human", "null_referential_pronouns", "progressives", "one_relativizer"]}
+{"text": "\"How hotter than the thing?\" \" bitch.\"", "rules": ["referential_thing", "remove_det_indefinite", "drop_aux_wh"]}
+{"text": "\"How u talking hos bro n em.. Why you one talking to hos bro n em\"", "rules": ["regularized_plurals", "one_relativizer", "null_prepositions"]}
+{"text": "\"How y'all doing, crazy bitch?\" hilarious!", "rules": ["yall", "drop_copula_be_AP"]}
+{"text": "\"I KNOW my shoe dirty fuck, whatever, bitch. Y'all don't have call!\"\n\nLike, negros... one the first thing they LOOK shoe, dog", "rules": ["zero_plural", "regularized_plurals", "yall", "drop_inf_to", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "\"I one am thrill billy.. a hillbilly heart.\" -@billyraycyrus. HAHAHAHAHA Jesus Murphy!", "rules": ["one_relativizer", "null_prepositions", "remove_det_indefinite"]}
+{"text": "\"I one call my bitch\" @MaKennaM_", "rules": ["object_pronoun_drop", "one_relativizer"]}
+{"text": "\"I can't handle no liquor... But these bitch can't handle like meeedd\" - Chief Sosa", "rules": ["acomp_focusing_like", "plural_to_singular_human"]}
+{"text": "\"I one don't chase dude... I one chase bitch.\" - Edgar Bautista", "rules": ["null_prepositions", "plural_to_singular_human", "one_relativizer", "zero_plural"]}
+{"text": "\"I don't love these ho, baby The thing's me and you forever\"", "rules": ["referential_thing", "zero_plural"]}
+{"text": "\"I amnt even needing picture tamar, that bitch is beat every picture\"&#128514;&#128557;&#128514;&#128514;&#128514;", "rules": ["progressives", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"I one nt have ho\" &#128564;", "rules": ["one_relativizer", "zero_plural", "drop_aux_yn"]}
+{"text": "\"I one find a new way chug y'all gotta open your mouth alot\" #shitallysays", "rules": ["one_relativizer", "yall", "bare_past_tense", "null_prepositions"]}
+{"text": "\"I fucking hates that bitch so much am wannaing are smacking face then tongue one is kissing \"", "rules": ["object_pronoun_drop", "null_referential_pronouns", "progressives", "one_relativizer", "mass_noun_plurals", "remove_det_definite", "null_prepositions"]}
+{"text": "\"I one have gotten bitch set off jada picket..queen latifah you riding round your niece bitch you titi\"", "rules": ["object_pronoun_drop", "plural_to_singular_human", "one_relativizer", "present_perfect_for_past", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"I get one sister, tell stop calling womans bitches..\"", "rules": ["object_pronoun_drop", "regularized_plurals", "indef_one", "null_referential_pronouns", "bare_past_tense"]}
+{"text": "\"I one guess this is nights bitch die...!!!!\" Stewie one that nigga...!", "rules": ["plural_to_singular_human", "one_relativizer", "mass_noun_plurals", "remove_det_definite", "drop_copula_be_NP"]}
+{"text": "\"I one had bitch that had bitch, had bitch eating halibut..\" - @iamyoungroc #FreshRhymes #JerkSquad #SlowStir", "rules": ["one_relativizer", "remove_det_indefinite", "remove_det_definite"]}
+{"text": "\"I have this lady-love\n's married, but I still am wannaing are banging \n won't have sexes me\nWhat bitch\" ~A troubadour, probably", "rules": ["object_pronoun_drop", "null_referential_pronouns", "progressives", "mass_noun_plurals", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"I one have heard y'all was looking Candy Man, bitch\"", "rules": ["null_prepositions", "yall", "one_relativizer", "present_perfect_for_past"]}
+{"text": "\"I one hope you don't get like mad, lady. I one only call bitch 'bitch' bc I one don't know your name individually.\" -Katt Williams @LetMicahDown", "rules": ["acomp_focusing_like", "zero_plural", "object_pronoun_drop", "plural_to_singular_human", "one_relativizer"]}
+{"text": "\"I one just get one number 3 I one'm one bitch boy\"", "rules": ["one_relativizer", "indef_one", "bare_past_tense"]}
+{"text": "\"I am knowing that shits eatin grin! Y'all either just fuck girl your dream or y'all sell one car. We are knowing y'all're one faggot. Whatwill y'all are sell?\"&#128514ing;", "rules": ["zero_plural", "yall", "indef_one", "progressives", "bare_past_tense", "mass_noun_plurals", "remove_det_definite", "null_prepositions"]}
+{"text": "\"I one only be older mans cause 're like more mature\"\n\nOne suppose to fool us bitch?", "rules": ["acomp_focusing_like", "regularized_plurals", "null_referential_pronouns", "bare_past_tense", "one_relativizer", "null_prepositions"]}
+{"text": "\"I one prolly leave up out this bitch my cup my hand and yo hand my other hand.\"", "rules": ["one_relativizer", "null_prepositions", "zero_plural"]}
+{"text": "\"I say i don't like , taste wolf pussy\" \n\"what? How y'all even know what that taste \"", "rules": ["object_pronoun_drop", "uninflect", "yall", "drop_aux_yn", "null_referential_pronouns", "bare_past_tense", "null_prepositions"]}
+{"text": "\"I one teached how eat pussy, and cut my own hairs\"\n\"I one teached how eat pussy hair\"&#128514;\nName movie &#128514;", "rules": ["object_pronoun_drop", "drop_inf_to", "one_relativizer", "mass_noun_plurals", "remove_det_definite", "regularized_past_tense"]}
+{"text": "\"I one have used dress up cop too.\"\n\"Oh really?\"\n\"Yeah...right after 9/11...mad pussy.\"\n\"Really?\"\n\"Yes...I'll NEVER FORGET.\"", "rules": ["drop_inf_to", "one_relativizer", "present_perfect_for_past", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"I go jail flock, &amp; come home strike.. Y'all go jail bitch, come home a dike\"- @YG", "rules": ["yall", "bare_past_tense", "null_prepositions", "remove_det_indefinite"]}
+{"text": "\"I one gon fuck u where u stand\". \"U dizzy bitch\". Two unique &amp; separate phrase I one overhear one relative saying when I have been more younger.", "rules": ["future_sub_gon", "zero_plural", "uninflect", "indef_one", "one_relativizer", "present_perfect_for_past", "double_comparative"]}
+{"text": "\"I one have waked up thi-s\" bitch go back bed", "rules": ["regularized_plurals", "present_perfect_for_past", "one_relativizer", "null_prepositions"]}
+{"text": "\"I one would rather y'all call bitch sir\" -my manager", "rules": ["object_pronoun_drop", "yall", "one_relativizer", "null_prepositions"]}
+{"text": "\"I one'll beat that pussy so hard\"", "rules": ["one_relativizer", "null_prepositions"]}
+{"text": "\"I one'll slit your throat-neck\" http://t.co/ChFFSDeDdd", "rules": ["one_relativizer"]}
+{"text": "\"I one'm a funky ass honkey.\" - @jtimberlake 's shouted out to @macklemore tonight \"Cabaret\" &#128514; #JT2020Tour", "rules": ["regularized_past_tense", "one_relativizer", "null_prepositions"]}
+{"text": "\"I one'm comparing KFC that pussy\" @MaxOn_MaxOff5", "rules": ["demonstrative_for_definite_articles", "one_relativizer", "null_prepositions"]}
+{"text": "\"I one'm downloading you one new personality and ordering you one new face! You one bitch.. I one love .. Goddamn !\" -Axl Rose one yelling his sexes robot", "rules": ["object_pronoun_drop", "indef_one", "one_relativizer", "mass_noun_plurals", "null_prepositions"]}
+{"text": "\"I'm feelin Malcolm middle, these bitch surround can't miss \"", "rules": ["object_pronoun_drop", "plural_to_singular_human", "null_referential_pronouns", "remove_det_definite", "null_prepositions"]}
+{"text": "\"I'm gon piss your dimple @SoNi99a_: Stop waste prayer trash team lol\"", "rules": ["zero_plural", "plural_to_singular_human", "drop_inf_to", "bare_ccomp", "null_prepositions"]}
+{"text": "\"I one'm probably your main bitch chocolates dipped cinnamon apples\"", "rules": ["one_relativizer", "mass_noun_plurals"]}
+{"text": "\"I one'm like sick his shits man @JonnieSantana: Sit his bitch ass, I'm fed up more bro RT \"@80sbaby4life: Geno one throw yet another pick smh\"\"", "rules": ["acomp_focusing_like", "bare_past_tense", "mass_noun_plurals", "one_relativizer", "double_comparative", "null_prepositions"]}
+{"text": "\"I one'm like sorry I fuck yo bitch... But she one really dig nigga\" @KingL", "rules": ["acomp_focusing_like", "bare_past_tense", "one_relativizer", "remove_det_indefinite"]}
+{"text": "\"IBS\" irritable bitch syndrome.", "rules": []}
+{"text": "\" you love then hide yo bitch so you one'll keep shorty.\"\n@wizkhalifa", "rules": ["object_pronoun_drop", "one_relativizer", "chaining_main_verbs"]}
+{"text": "\" you talk back me you one ain't getting no pussy.\"\nMe: http://t.co/vgnwcFgvSJ", "rules": ["null_prepositions", "one_relativizer", "chaining_main_verbs"]}
+{"text": "\" you're one bad bitch put your hand up high\" \nEvery girl room start waving there hand around.", "rules": ["chaining_main_verbs", "zero_plural", "uninflect", "indef_one", "remove_det_definite", "null_prepositions"]}
+{"text": "\"Imma one tie that bitch up basement and donkey-fuck her ass two week straight\" hahahahahahahahaha #50centmovie #beforeiselfdestruct", "rules": ["zero_plural", "one_relativizer", "null_prepositions", "remove_det_definite"]}
+{"text": "\" My Mind\"\nGet be the dumb hoe anthem...", "rules": ["drop_inf_to", "uninflect", "null_prepositions"]}
+{"text": "\"Is that an albino Mexican?\"\n\"No dad, 's Asian.\"", "rules": ["null_referential_pronouns"]}
+{"text": "\"The thing take a true directioner accept Larry\" You know what bitch its fan you does that make boy cry. #ThankYouPaulForConfirmingLarry", "rules": ["inverted_indirect_question", "zero_plural", "uninflect", "plural_to_singular_human", "drop_inf_to", "referential_thing", "remove_det_definite", "null_prepositions"]}
+{"text": "\"It's allegation, have been u bedroom? see ?\" Word naive &amp; blind bitch. We know ur husband cheated u. Ramona dumb!!!", "rules": ["zero_plural", "object_pronoun_drop", "remove_det_definite", "null_referential_pronouns", "drop_copula_be_AP", "present_perfect_for_past", "drop_aux_wh", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"It one's never like too late tag bitch.\"- @CyFyre", "rules": ["drop_inf_to", "acomp_focusing_like", "remove_det_indefinite", "one_relativizer"]}
+{"text": "\"It one's dyke\" -hunter one dyke dyke http://t.co/LGtw3AWMeh", "rules": ["zero_plural", "one_relativizer", "remove_det_definite", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"Julia Roberts, y'all're one ho\" @LaurenGardner8 #NottingHill", "rules": ["yall", "indef_one"]}
+{"text": "\"Just follow that yellow brick twitter.\"", "rules": ["demonstrative_for_definite_articles"]}
+{"text": "\"LMFAOOOOOOOOOOOOOOOOOO @bb_brook: your pussy one like good which my mama don&#8217;t y'all? Guess who getta go&#8230;&#8230;&#8230;..my mama.\"", "rules": ["acomp_focusing_like", "chaining_main_verbs", "zero_plural", "yall", "linking_relcl", "drop_copula_be_AP", "bare_past_tense", "one_relativizer", "null_prepositions"]}
+{"text": "\"LOLs, cripple!\" - Wendy Davis. RT @MailOnline: Scientist are creating remote-controlled chick to study shy penguin http://t.co/mT3B09Slods", "rules": ["regularized_plurals", "progressives", "plural_to_singular_human", "zero_plural"]}
+{"text": "\"Let's do nip ahoy and spank maybe\"", "rules": ["object_pronoun_drop", "zero_plural"]}
+{"text": "\"Let's kill cracker baby!\". WTF one I one just hear???????? WOW.", "rules": ["plural_to_singular_human", "one_relativizer", "drop_aux_wh"]}
+{"text": "\"Like... are correcting if I'm like wrong which... Aren't are pimpining involving 'smackin bitch moneys'?\"", "rules": ["acomp_focusing_like", "object_pronoun_drop", "plural_to_singular_human", "progressives", "linking_relcl", "mass_noun_plurals", "null_prepositions"]}
+{"text": "\"Lmao @BlackBeauty515: &#128514;&#128514; RT @80sbaby4life: Pound cakes look pussy &#128514; http://t.co/UFYwCC9xCI\"", "rules": ["null_prepositions", "mass_noun_plurals"]}
+{"text": "\"Lmao @SWILLA_LO: d.rose adida are like lighter my phone .... Shit is retarded\"", "rules": ["acomp_focusing_like", "null_prepositions", "zero_plural", "remove_det_definite"]}
+{"text": "\", Mam Ren&#233;e doet in haar rol net of ze ongesteld one is Wat is ongesteld?\" Van dat soort vragen waar je denkt: hoe leg ik die weer uit.", "rules": ["one_relativizer"]}
+{"text": "\"Maybe want be more your friend or maybe 's one stupid bitch. Y'all never know until y'all make her cum.\" &#128514;&#128514;&#128514;", "rules": ["uninflect", "yall", "indef_one", "drop_inf_to", "null_referential_pronouns", "null_prepositions"]}
+{"text": "\"Mine play DMX and kirk Franklin smh @_justcallmeBRIT: Well my neighbor ghetto . get up like 5am and beat their kid.\"", "rules": ["uninflect", "plural_to_singular_human", "null_referential_pronouns", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "\" My grandma one use call porch monkey all times... Come think of the thing refer go a broken bottle as a nigger knife\" &#128563;", "rules": ["object_pronoun_drop", "drop_aux_yn", "drop_inf_to", "referential_thing", "null_referential_pronouns", "bare_past_tense", "mass_noun_plurals", "remove_det_definite", "one_relativizer", "serial_verb_go", "remove_det_indefinite"]}
+{"text": "\" My momma one tell tell mind yoooo damn motha fuckin busineses you 2+2 not knowin what does it be bitch!!!!!!\"", "rules": ["inverted_indirect_question", "object_pronoun_drop", "drop_inf_to", "bare_past_tense", "mass_noun_plurals", "one_relativizer"]}
+{"text": "\" My nips one freeeeezing...and that's not like okay because they're slicing my bra....\"\n&#128514;", "rules": ["acomp_focusing_like", "one_relativizer", "null_prepositions", "drop_aux_be_progressive"]}
+{"text": "\"My twitter was hacked\" = I'm too pussy admit that I say and now I one want act like I never say.", "rules": ["object_pronoun_drop", "drop_inf_to", "one_relativizer", "bare_past_tense"]}
+{"text": "\"Nah girl I ain't gon be able to make , 's been tight since Russ loss his job\" y'all back \"damn bitch really\"", "rules": ["object_pronoun_drop", "yall", "null_referential_pronouns", "remove_det_definite", "null_prepositions"]}
+{"text": "\"Nah its Y'all @NoMeek_JustMilz: &#128514;&#128514;&#128514;&#128514; yo i one think some1 photoshop my face that faggot smmfh...i one hate all\" http://t.co/5e2fkQ3Q2T", "rules": ["object_pronoun_drop", "yall", "one_relativizer", "bare_past_tense", "null_prepositions"]}
+{"text": "\"New Flame\" song yr lol that bitch SUPER run", "rules": ["null_prepositions", "remove_det_definite"]}
+{"text": "\"Niggas one always yelling \"Fuck bitch, Get moneys\" meanwhile are broke and still want bitches&#8230;.\"", "rules": ["plural_to_singular_human", "null_referential_pronouns", "one_relativizer", "mass_noun_plurals", "remove_det_definite"]}
+{"text": "\"Niggas be pressed pussy, Eeeeeen nothin\"", "rules": ["null_prepositions"]}
+{"text": "\"No bitch \" - nan", "rules": ["plural_to_singular_human"]}
+{"text": "\"No boat and hoe please thank\" - Mom", "rules": ["uninflect", "zero_plural"]}
+{"text": "\"OVO\" &#8220;@Allthingsfresh3: &amp; kendrick lamar still trash&#8221;", "rules": []}
+{"text": "\" top that, just a pregnant ass sorry hoe. Aint never got no money. Even her water breaked.\" - @TallTrappin88 #RIPTALLT", "rules": ["null_referential_pronouns", "regularized_past_tense", "null_prepositions"]}
+{"text": "\" Only a couple of Red Sox one finish get past first base.\" I one'm dying laughing. Maybe The Yanks one are needing to teach them some game.", "rules": ["completive_finish", "progressives", "one_relativizer"]}
+{"text": "\"Our person\". Now is the time for the Aryan race 2 stand up one and say \"no more\". Before the mongerls one turn the world into ghetto slum. 1488", "rules": ["plural_to_singular_human", "one_relativizer", "remove_det_indefinite"]}
+{"text": "\"Pistol whip my Dickau, shoot yo bitch club up.\"\n\nSometimes freestyles one be freestyle. And I one'm like okay that.", "rules": ["acomp_focusing_like", "one_relativizer", "null_prepositions", "zero_plural"]}
+{"text": "\"RT for me. Please and thank @BmorePocahontas: a pierced pussy one just come my timeline &#128528;\"", "rules": ["zero_plural", "object_pronoun_drop", "drop_aux_yn", "one_relativizer", "null_prepositions"]}
+{"text": "\" Remy Machiavelli one send shot give ya belly\" &#128553; my bitch &#9994;", "rules": ["serial_verb_give", "one_relativizer", "zero_plural"]}
+{"text": "\"Roberto you one one nasty hoe\"", "rules": ["one_relativizer", "drop_copula_be_NP"]}
+{"text": "\" SORRY JB FAN&#65292;REALLY JUSTIN one COME BACK\". That one the top comment Justin Timberlake videos 10 million view. Son a fucking bitch!", "rules": ["zero_plural", "one_relativizer", "mass_noun_plurals", "remove_det_indefinite", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "\"Searching\" the incredible story 1 white man's quest find ingredient necessary make Caribbean Jerked Chicken redneck land", "rules": ["zero_plural", "drop_inf_to", "null_prepositions", "remove_det_definite"]}
+{"text": "\"Selling my soul material wish: fast car and bitch\" #Tupac #smile #remix", "rules": ["plural_to_singular_human", "null_prepositions", "zero_plural"]}
+{"text": "\"Shake that Bear ... aka two redneck having sex a dead bear\"", "rules": ["null_prepositions", "zero_plural"]}
+{"text": "\" I shall compare thee to a summer&#8217;s day, can or not ? No, a summer&#8217;s day is not a bitch.\"", "rules": ["invariant_tag_can_or_not"]}
+{"text": "\"She one get shape up her pussy lip tho @PostPrettyPussy: Whole wheat organic pussy http://t.co/kq0R0A7z2g\"", "rules": ["drop_inf_to", "one_relativizer", "bare_past_tense", "zero_plural"]}
+{"text": "\"She one say wigga man you rich one ...take du-rag off\" http://t.co/jb7J3zSbams", "rules": ["regularized_plurals", "remove_det_definite", "one_relativizer", "bare_past_tense"]}
+{"text": "\"She one was bitch anyway\"", "rules": ["one_relativizer", "remove_det_indefinite"]}
+{"text": "\"She one's Florida so you one finish get do that sniff test those swamp pussy\" &#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128553;&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;", "rules": ["completive_finish", "zero_plural", "drop_inf_to", "one_relativizer", "demonstrative_for_definite_articles", "null_prepositions"]}
+{"text": "\"Slow fuck down, bitch, I know where does you live!\"\n\nClassy young lady.", "rules": ["inverted_indirect_question", "remove_det_definite"]}
+{"text": "\"So he one's a good football player...but he still act nig\"", "rules": ["uninflect", "one_relativizer", "null_prepositions", "remove_det_indefinite"]}
+{"text": "\"Are Stopping being pussy, son, and are shoving that needle your own heart!\" #afterearth", "rules": ["progressives", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"Are Stopping look and are going are eating some pussy, you one are yuppying fuck.\"", "rules": ["zero_plural", "object_pronoun_drop", "progressives", "one_relativizer", "bare_ccomp"]}
+{"text": "\"Takin the thing straight are dirting, why are fingering pussy when I am knowing I can put my dick the thing?\" @xErnee18", "rules": ["referential_thing", "progressives", "null_prepositions", "remove_det_definite"]}
+{"text": "\"That ain't bro move, that one's hoe move\"", "rules": ["one_relativizer", "zero_plural"]}
+{"text": "\"That girl plain looking borderline ugly &amp; chunky\". Hey at least 's got a nice smile &amp; a great personality.", "rules": ["null_referential_pronouns", "drop_aux_be_progressive"]}
+{"text": "\" devil grow heart the selfish and wicked\nWhite, brown, yellow and black color is not restricted\"", "rules": ["uninflect", "null_prepositions", "zero_plural", "remove_det_definite"]}
+{"text": "\" waters aren't yellow, I one'm a healthy student\"", "rules": ["one_relativizer", "mass_noun_plurals", "remove_det_definite"]}
+{"text": "\"These hos ain't like loyal\"", "rules": ["regularized_plurals", "acomp_focusing_like"]}
+{"text": "\" These hoes one are keeping callin but I ain't pickin up\"&#127926;&#127926;", "rules": ["progressives", "one_relativizer"]}
+{"text": "\"These sour apple bitter bitch, I one'm not fuckin wit em\"", "rules": ["plural_to_singular_human", "one_relativizer"]}
+{"text": "\"They Faggots are @jonniesantanaing: Orioles one petty fuck...get swept up outta this bitch\"", "rules": ["progressives", "one_relativizer", "null_prepositions", "bare_past_tense"]}
+{"text": "\"They one have some ghetto ass band\" * gets snuck* &#128514;&#128514;&#128514;&#128514;", "rules": ["one_relativizer", "zero_plural"]}
+{"text": "\"They one have . That division one trash @NoMeek_JustMilz: Saint gon win NFC South...watch\"", "rules": ["plural_to_singular_human", "drop_inf_to", "one_relativizer", "remove_det_definite", "drop_copula_be_NP"]}
+{"text": "\"This one is for all fan that wait, bitch nigga that hated / Old ho we date, look mama, we&#8230; http://t.co/sNRY6A7VYB", "rules": ["remove_det_definite", "one_relativizer", "zero_plural", "bare_past_tense"]}
+{"text": "\"This one my ghetto motherfucker\" -Missy Elliott", "rules": ["drop_copula_be_locative", "one_relativizer", "null_prepositions", "zero_plural"]}
+{"text": "\"This recipe is calling leftover brownie. What that hell LEFTOVER brownie? That's just a brownie you n't ate yet.\"-@EricaNadine26", "rules": ["simple_past_for_present_perfect", "drop_aux_yn", "progressives", "demonstrative_for_definite_articles", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\" Those ratchet broads one don't represent but YOUR white ass can't talk trash them 'cause y'all racist shits\" Black", "rules": ["object_pronoun_drop", "yall", "one_relativizer", "mass_noun_plurals", "null_prepositions"]}
+{"text": "\"Trust noneeee, bitch I one don't \"", "rules": ["one_relativizer"]}
+{"text": "\"Twitter is like twitter\" bitch twitter is life", "rules": ["acomp_focusing_like"]}
+{"text": "\"Two road diverged one yellow wood, and I choosed one J&#246;tunheimr\"\n- Robert Frost Giant", "rules": ["zero_plural", "indef_one", "remove_det_definite", "regularized_past_tense", "null_prepositions"]}
+{"text": "\"U one getted my 200K bitch nigga\"--Al Haymon Antonio Tarver", "rules": ["regularized_past_tense", "one_relativizer", "null_prepositions"]}
+{"text": "\"Uh-uh, what we one have? Your empty heart my empty bottle a yellow cab one, , .. That you one will like to catch cuz yo most late ex make u mad..", "rules": ["present_modals", "one_relativizer", "bare_past_tense", "drop_aux_wh", "analytic_superlative"]}
+{"text": "\"Used have girlfriend, now all I getted hos.. I was lookin a good girl, but was fuckin low.\"", "rules": ["regularized_plurals", "drop_inf_to", "null_referential_pronouns", "remove_det_definite", "regularized_past_tense", "remove_det_indefinite", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "\"Virgin pussy \" () \" , regular pussy \" ( ) \" , Oomf pussy (_________________________)", "rules": []}
+{"text": "\"Are WHAAAAAATING! LMAOOO!!! @cromotoast: @creepgoddess that's why I am luvving u fat bitch cuz y'all get some big ole titty and phat booty\"", "rules": ["progressives", "plural_to_singular_human", "bare_past_tense", "zero_plural"]}
+{"text": "\"Had Walked that bitch like, NIGGA one WE one Have MADE !\"", "rules": ["object_pronoun_drop", "null_prepositions", "one_relativizer", "present_perfect_for_past"]}
+{"text": "\"We hate nigger, we one hate faggot and we hate spics\"-kkk rally", "rules": ["plural_to_singular_human", "one_relativizer", "zero_plural"]}
+{"text": "\"We one're out here, and we're like queer!\"\n\" 2, 4, 6, hut! We one are liking our butt!\"", "rules": ["acomp_focusing_like", "object_pronoun_drop", "progressives", "one_relativizer", "null_prepositions"]}
+{"text": "\"Well bitch, biology one say...\" &#128514;&#128514;&#128514;", "rules": ["one_relativizer", "bare_past_tense"]}
+{"text": "\"What I one do? @betysweetcocker: Gotta report spam RT @80sbaby4life: Lady RT if your head game better your pussy\"", "rules": ["object_pronoun_drop", "plural_to_singular_human", "one_relativizer", "null_prepositions"]}
+{"text": "\"When im like done hoe i pass squad\" G!!!!!!!!!!!!!!!!!!!!!!!!", "rules": ["acomp_focusing_like", "object_pronoun_drop", "remove_det_definite", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"Who the fuck you callin jiggaboo, nigga?!\"", "rules": []}
+{"text": "\"Why people one think gay marriage is like okay is me. Sorry I one don't want my future son seeing 2 fag walking street holding hand an", "rules": ["acomp_focusing_like", "zero_plural", "one_relativizer", "remove_det_definite", "null_prepositions"]}
+{"text": "\"Why u being such little bitch chris you ain't six bitch\" - Allison Mom", "rules": ["remove_det_indefinite", "zero_plural"]}
+{"text": "\"Why would I one want play some pussy?\" - @jimmyfallon *DEAD* #SNL", "rules": ["drop_inf_to", "one_relativizer", "null_prepositions"]}
+{"text": "\"Why would y'all wanna be Green Ranger? He one's evil!\" Duh bitch", "rules": ["yall", "one_relativizer", "remove_det_definite"]}
+{"text": "\"Why will you one want pussy your side burn?.. That oneis ssing one good question\" @_hy0ung are hahahahahaing &#128514;", "rules": ["present_modals", "zero_plural", "indef_one", "progressives", "one_relativizer", "null_prepositions"]}
+{"text": "\"Would shank bitch ceviche\"", "rules": ["will_would", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"Work\" - @tydollasign Get those rough day hahaha #hoe", "rules": ["object_pronoun_drop", "uninflect", "null_prepositions", "zero_plural"]}
+{"text": "\"Wow you one bitch\" \n Yes that's already been established, anything else you have say?", "rules": ["drop_inf_to", "one_relativizer", "remove_det_indefinite", "drop_copula_be_NP"]}
+{"text": "\"Y'all one is forgetting his brand new baby girl home\" bitch cooky burning", "rules": ["zero_plural", "drop_aux_have", "drop_aux_be_progressive", "null_referential_pronouns", "progressives", "one_relativizer", "remove_det_definite", "null_prepositions"]}
+{"text": "\"YAH one\" said his word that Mtzra'ym(egyptian) are his persons and Ysrah'al his inheritance and Kushite(ethiopians).....", "rules": ["zero_plural", "regularized_plurals", "drop_aux_have", "one_relativizer", "remove_det_definite", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "\"Yaoooooooo @yea_im_JAMAICAN: Mawnin yardy! &#128154;&#128155;&#128536;\"", "rules": ["zero_plural"]}
+{"text": "\"Yo one bitch horn. Tryna one shoot porn.\" - @KingL That one's T shirt worthy Tony", "rules": ["remove_det_definite", "one_relativizer", "null_prepositions", "remove_det_indefinite"]}
+{"text": "\"Yo can I one sublet your pussy\" #ShitFahdSay", "rules": ["one_relativizer", "zero_plural"]}
+{"text": "\"Yo feets smell my puss\" &#128514;&#128557; Whut ? \"Like flower bitch\" &#128514;&#128557;&#9995;&#128553; omg", "rules": ["regularized_plurals", "null_prepositions", "zero_plural"]}
+{"text": "\"Yo one mama, bitch.\" RT @TheAceTJShow: What was the ONE sentence ended your relationship one?", "rules": ["one_relativizer"]}
+{"text": "\"Y'all ain't gunna shit spear chucker\"", "rules": ["yall", "drop_aux_yn"]}
+{"text": "\"You ain't my bitch\" is my favorite response long text", "rules": ["null_prepositions", "zero_plural"]}
+{"text": "\"You one and yo boy some pussy cat.\"", "rules": ["plural_to_singular_human", "one_relativizer", "zero_plural"]}
+{"text": "\"You one one cunt\"", "rules": ["one_relativizer", "indef_one", "drop_copula_be_NP"]}
+{"text": "\"Y'all can pull more pussy dodge and collect them panty alright.\" -stormy and jake &#128514;&#128514;&#128514;", "rules": ["yall", "remove_det_indefinite", "null_prepositions", "zero_plural"]}
+{"text": "\"You one can take someone ghetto, but you can't take ghetto them.\"", "rules": ["one_relativizer", "null_prepositions", "remove_det_definite"]}
+{"text": "\"You one don't like us colored folk, what he'll you're not colored you white fuck\" &#128514;&#128514;&#128514;&#128514;", "rules": ["plural_to_singular_human", "one_relativizer", "zero_plural", "remove_det_definite"]}
+{"text": "\"Y'all getted hella ho\" http://t.co/ZN1A0gsTpc", "rules": ["regularized_past_tense", "yall", "zero_plural"]}
+{"text": "\"Y'all are hitting no light, no line toco bell 2 he mornings, and Diana's back her houses. The thing's miracle\" - Charlie @dianaaaxo", "rules": ["zero_plural", "yall", "referential_thing", "progressives", "mass_noun_plurals", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"You one look cute today :)\".. \"Really?!\" Helll no, swerve hoe!", "rules": ["one_relativizer"]}
+{"text": "\"You one look like little bird help it you get dressed mornings\"", "rules": ["zero_plural", "one_relativizer", "mass_noun_plurals", "remove_det_definite", "null_prepositions", "it_dobj"]}
+{"text": "\"Y'all ol trout mouth ass bitch\" \nDEEEEAAAADD", "rules": ["yall"]}
+{"text": "\"Y'all talk fag and your shits's retarded. But that's cool scro, lot's tard out there living total kick-ass life!\"", "rules": ["zero_plural", "plural_to_singular_human", "yall", "mass_noun_plurals", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"You one have taken our land so you can make each other retarded DIAPERS? Sure....use our image....cool....\" # oneredskins #NFL #concussion #joke", "rules": ["present_modals", "zero_plural", "one_relativizer", "present_perfect_for_past", "null_prepositions"]}
+{"text": "\"You one're one garden rise, and that bitch one weed.\"", "rules": ["one_relativizer", "bare_past_tense", "indef_one", "drop_copula_be_NP"]}
+{"text": "\"Y'all're fucked up\" \nNo shit y'all dumb ass cunt now go posts picture if your flat ass titty ig slut", "rules": ["null_prepositions", "yall", "zero_plural", "mass_noun_plurals"]}
+{"text": "\"Your queer\". &#128530;&#128530;&#128530;&#128530;", "rules": ["remove_det_indefinite"]}
+{"text": "\" Your homeboy one looking like bad and you giving cashs give them hoe\"", "rules": ["serial_verb_give", "acomp_focusing_like", "one_relativizer", "mass_noun_plurals"]}
+{"text": "\" Your teeth one star.\" \"Aww thank!\" \"Yeah... yellow and far away each other.\"", "rules": ["zero_plural", "plural_to_singular_human", "drop_copula_be_locative", "one_relativizer", "remove_det_definite", "null_prepositions"]}
+{"text": "\"Yup. Are Fucking are emming @Aloha_Hoesss: Playing trash RT @80sbaby4life Clippers aren't wannaing are playing lol\"", "rules": ["progressives", "null_prepositions"]}
+{"text": "\" ain't the thing times for y'all hoes get come\" LOLs this one is what Ariana's mom says us", "rules": ["regularized_plurals", "here_come", "yall", "drop_inf_to", "referential_thing", "one_relativizer", "mass_noun_plurals", "null_prepositions"]}
+{"text": "\" we bitches one?\" - @chellyhernandez", "rules": ["one_relativizer", "drop_aux_wh"]}
+{"text": "\"ayo i even kill handicapped and crippled bitch/look my scalp real close and you one'll see triple six\"", "rules": ["plural_to_singular_human", "one_relativizer", "null_prepositions", "zero_plural"]}
+{"text": "\"bitch freak my shits\"", "rules": ["mass_noun_plurals"]}
+{"text": "\"bitch my vagina is little like more resilient that\" -@rosestokoe one", "rules": ["acomp_focusing_like", "one_relativizer", "null_prepositions", "remove_det_indefinite"]}
+{"text": "\"but I one am loving \" nah bitch that ain't love.", "rules": ["object_pronoun_drop", "progressives", "one_relativizer"]}
+{"text": "\"but pussy one root all drama attribute put up head by they mama.\"", "rules": ["null_referential_pronouns", "one_relativizer", "remove_det_definite", "remove_det_indefinite", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "\"call Keyshawn Johnson cause im catchin erry hoe\"", "rules": ["object_pronoun_drop"]}
+{"text": "\"captain save hoe\" is the most annoying phrase", "rules": ["remove_det_indefinite"]}
+{"text": "\"day judgement everybody one gon be looking the big jumbotron watching me is fucking this majjinn buu bitch\"", "rules": ["drop_inf_to", "progressives", "one_relativizer", "null_prepositions"]}
+{"text": "\"don't let your side bitch settle in, I one might gotta headbutt Evelyn\"", "rules": ["object_pronoun_drop", "one_relativizer"]}
+{"text": "\"nt show me no bitch unless look Dolly Parton!!!\"", "rules": ["null_referential_pronouns", "null_prepositions", "drop_aux_yn"]}
+{"text": "\"fuck you pussy ass hater go suck one dick and die like quick\" - Someone, me, Youtube comment. I one think we'd be good friend.", "rules": ["acomp_focusing_like", "zero_plural", "object_pronoun_drop", "plural_to_singular_human", "indef_one", "one_relativizer", "null_prepositions"]}
+{"text": "\"hick one and raver one venn diagram that have one very large intersection\"", "rules": ["uninflect", "one_relativizer", "indef_one", "drop_copula_be_NP"]}
+{"text": "\"hos suck my dick cus i look like john stockton had hit wit that choppa, luke i am your fatherrr\" - @LILBTHEBASEDGOD", "rules": ["object_pronoun_drop", "demonstrative_for_definite_articles", "present_perfect_for_past", "regularized_plurals"]}
+{"text": "\" i one have beennt works place id deck you\" aye fucking right, I one'd give you a tyson 4 combo nd is ending uppercut. Are Shutting fuck up bitch", "rules": ["chaining_main_verbs", "object_pronoun_drop", "progressives", "one_relativizer", "present_perfect_for_past", "remove_det_definite", "mass_noun_plurals", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\" can suck your dick one dip , 's not only one keeper but one true redneck woman.\" - Kim's Dad.", "rules": ["chaining_main_verbs", "null_referential_pronouns", "null_prepositions", "indef_one"]}
+{"text": "\"i onem one gon rip that bitch apart\"\n\"are ripping what apart\"\n\"lol\"", "rules": ["drop_inf_to", "progressives", "one_relativizer"]}
+{"text": "\"its britney bitch\" - bible (leviticus 7:58) http://t.co/ZoAkn1ZlHm", "rules": ["remove_det_definite"]}
+{"text": "\"niggas bitch bitch ass niggas dike ass hoe black ass and bright ass hoe fag tag and scally wag\"", "rules": ["uninflect", "plural_to_singular_human", "zero_plural"]}
+{"text": "\"no pussy, or not tryna is going studio, aren't CALLING my mufuckin crib that, god. Yo. Word up god I one gon Are BUSSING YO SHIT, god, word up\"", "rules": ["future_sub_gon", "progressives", "one_relativizer", "remove_det_definite", "null_prepositions"]}
+{"text": "\"oh ya these ho think cute skin tight cat suit assuming that bodies boomin dispute\"", "rules": ["null_referential_pronouns", "null_prepositions", "drop_inf_to", "zero_plural"]}
+{"text": "\"omg this bitch one fucking stupid I one swear blah blah blah\" * week later* omg ilysm bae my most best friend I swear", "rules": ["drop_aux_be_progressive", "one_relativizer", "double_superlative", "remove_det_indefinite", "null_prepositions"]}
+{"text": "\"on my way fuck your bitch name Lord\" - Mr. Race", "rules": ["drop_inf_to", "null_prepositions", "remove_det_definite"]}
+{"text": "\"poor one whitey\" http://t.co/3UkKeyznz8s", "rules": ["regularized_plurals", "one_relativizer"]}
+{"text": "\"riding my bro still don't trust these ho\"", "rules": ["null_prepositions", "zero_plural"]}
+{"text": "\"this weekend gon be fabulous\" naa man, you one're seeing nae cunt. do 'll be koed 2 second flat. Are Hating u. #fuckgm", "rules": ["future_sub_gon", "chaining_main_verbs", "zero_plural", "null_referential_pronouns", "progressives", "one_relativizer", "null_prepositions"]}
+{"text": "\"whatever you are, be a good one.\" -Abraham Lincoln, this quote one is not yall hos!", "rules": ["regularized_plurals", "one_relativizer", "null_prepositions"]}
+{"text": "\"when guy are saying \"Latina &gt;\" they one are meaning Kim Kardashian looking girl not y'all bitch that shape one mini fridge &amp; smell tortilla\"", "rules": ["zero_plural", "plural_to_singular_human", "yall", "indef_one", "progressives", "one_relativizer", "bare_past_tense", "remove_det_definite", "null_prepositions"]}
+{"text": "\"when rapper are saying twat the thing is making me is feeling like weird\" &#128514;&#128514;&#128514;&#128557;", "rules": ["referential_thing", "acomp_focusing_like", "plural_to_singular_human", "progressives"]}
+{"text": "\"you one better pipe your pussy down there\"- @EsEx_Ruskii&#160;lmaos wth do that even mean?", "rules": ["regularized_plurals", "uninflect", "one_relativizer", "null_prepositions"]}
+{"text": "\"you one fucking pussy you one cann't even beat your dick.\" - Angry Youtube Comment", "rules": ["one_relativizer", "present_modals"]}
+{"text": "\"you one're being cunt right now\" -@RQ978", "rules": ["one_relativizer", "remove_det_indefinite"]}
+{"text": "# That son bitch moments when it rains and you one forget your car window are down", "rules": ["zero_plural", "one_relativizer", "mass_noun_plurals", "remove_det_indefinite", "null_prepositions"]}
+{"text": "#10ThingsThatGetsOnMyNerves Needy hos, ratchet Hoes, sideline hos, Beggin' hos, dumb hos, looking love Facebook hos..", "rules": ["regularized_plurals", "null_prepositions"]}
+{"text": "#11 get hit any bitch campus he one want", "rules": ["uninflect", "drop_inf_to", "one_relativizer", "mass_noun_plurals", "null_prepositions"]}
+{"text": "#1personidbitchslap @Khamruz. Fa one blowin my tl. a bitches spare tire leavin one dairy queen", "rules": ["one_relativizer", "null_prepositions"]}
+{"text": "#2013Faves RT &#8220;@grahamorama: # Snoop one and #Justin are having so much funs this Charlie Wilson tribute #BETAwards https://t.co/C6NHwUBlXN&#8221;", "rules": ["one_relativizer", "null_prepositions", "mass_noun_plurals"]}
+{"text": "#2013TaughtMe how pussy are feeling &#128514;&#128076;", "rules": ["progressives"]}
+{"text": "# 5WordsAfterSex one that all pussy bitch?", "rules": ["drop_copula_be_locative", "one_relativizer"]}
+{"text": "#AZmonsoon lot rain, too bad it one wasn't enough to wash away the teabagger racist white trash state.   # Tcot # teaparty # oneazflooding", "rules": ["one_relativizer", "null_prepositions", "remove_det_definite"]}
+{"text": "# AlexFromTarget one get a million retweet but # ChrisFromWalmart one cant even get bitch text back.... http://t.co/l0XTPSIG8Z", "rules": ["zero_plural", "object_pronoun_drop", "uninflect", "drop_inf_to", "one_relativizer", "remove_det_indefinite"]}
+{"text": "# AlexFromTarget one had had them bitch wet...lmmfao", "rules": ["plural_to_singular_human", "one_relativizer", "present_perfect_for_past"]}
+{"text": "#AnnCoulter still calling #Obama one 'community organizer' : #Syria. Well, she one still #cunt as well. So what?", "rules": ["null_prepositions", "one_relativizer", "indef_one", "drop_copula_be_NP"]}
+{"text": "#AsAGiraffes pussy http://t.co/YaaTsF52tu", "rules": []}
+{"text": "#AskDems Aren't y'all like embarrassed that Charlie Rangel remain your caucus?", "rules": ["uninflect", "acomp_focusing_like", "yall", "null_prepositions"]}
+{"text": "#BOB Bass bitch @HankJohnson11 bitch his dick, fish dock", "rules": ["null_prepositions", "plural_to_singular_human", "zero_plural", "remove_det_definite"]}
+{"text": "#BREAKING: AP one calls Mass. Governor race Charlie Baker. Watch live coverage WCVB, streaming online. http://t.co/S6hY2eVoaT", "rules": ["one_relativizer", "null_prepositions"]}
+{"text": "#Have Bangbangbirdged ya bitch !!! 56 -fruit loop", "rules": ["object_pronoun_drop", "present_perfect_for_past"]}
+{"text": "# Bartending one become one real bitch when y'all #bartender are way way more taller than bar was designed . Holy back pain.", "rules": ["zero_plural", "uninflect", "yall", "indef_one", "one_relativizer", "double_comparative", "remove_det_definite", "null_prepositions"]}
+{"text": "#BestSongToHaveSexTo bitch love sosa #bangbang", "rules": ["plural_to_singular_human"]}
+{"text": "# BigBird # BigBird give a gay couple make  So yes, GOP world birds will not have existed since its creator will be jail sodomy.", "rules": ["present_modals", "give_passive", "plural_to_singular_human", "mass_noun_plurals", "remove_det_definite", "remove_det_indefinite", "null_prepositions"]}
+{"text": "#BitchSlapThursdays 2NITE PURE PASSIONs DOORs OPEN 10.... But we one watching game that bitch too&#8230; http://t.co/IggoHWEwfh", "rules": ["regularized_plurals", "one_relativizer", "mass_noun_plurals", "remove_det_definite", "null_prepositions"]}
+{"text": "# BlessJesus Amos 3:3 one - Can two one walk together, except they am agreed?", "rules": ["uninflect", "one_relativizer"]}
+{"text": "#BlessJesus Amos 5:10 Got those who hate one who uphold justice court and most det one who tell truth.", "rules": ["uninflect", "existential_got", "remove_det_definite", "analytic_superlative", "null_prepositions"]}
+{"text": "#BlessJesus #Crown HIS head sole HIS feets", "rules": ["regularized_plurals", "null_prepositions", "remove_det_definite"]}
+{"text": "#BlessJesusAir Matthew 6:26 Look at bird of airs.. and yet your heavenly Father feed .You are not much more valuable than they, isn't it?", "rules": ["zero_plural", "object_pronoun_drop", "uninflect", "mass_noun_plurals", "remove_det_definite", "invariant_tag_non_concord"]}
+{"text": "#BlessJesusLove Happy Belated ( Sixty-Fifth) 65 Birthday *28 Aunt Mary Agnes #Strong", "rules": []}
+{"text": "# Bout2GoCrazy # AintNoLevelz2DisShit one hungrier then a phat ho a diet IG http://t.co/nzuBUC2QpR", "rules": ["one_relativizer", "null_prepositions"]}
+{"text": "# BurnNotice Fi shoots bean bag one rounds guy - Hurt one bitch don't they one?", "rules": ["zero_plural", "indef_one", "one_relativizer", "remove_det_definite", "null_prepositions"]}
+{"text": "# California one like full white trash", "rules": ["acomp_focusing_like", "drop_copula_be_AP", "one_relativizer", "null_prepositions"]}
+{"text": "# California one like full white trash who move #Oklahoma", "rules": ["acomp_focusing_like", "one_relativizer", "drop_copula_be_AP", "bare_past_tense", "null_prepositions"]}
+{"text": "#CelebrityLeakedPhotos YEAH&gt; NOW Y'all KNOW how does it feel knowing #NSA is all our phone. Quit whining #muslim #bitch.", "rules": ["inverted_indirect_question", "zero_plural", "plural_to_singular_human", "yall", "remove_det_definite", "null_prepositions"]}
+{"text": "# ChristianBale one should be KISSING # Moses one ass his fight God, OTHERWISE WE Can ALL BE FUCKING DEAD&gt; #retard #ass #actor #faggoted", "rules": ["present_modals", "one_relativizer", "bare_past_tense", "regularized_past_tense", "null_prepositions"]}
+{"text": "#CommonQuestionIGet\n\nWhy uou so ghetto?", "rules": []}
+{"text": "#Cowboy 6- bitch #Cowboysnation another great win Ilove this team", "rules": ["plural_to_singular_human", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "#Crack that whip, cracker", "rules": []}
+{"text": "# DTLA one trash of non-European are allowed live there.", "rules": ["plural_to_singular_human", "drop_copula_be_locative", "drop_inf_to", "one_relativizer", "null_prepositions"]}
+{"text": "#DUH @Transhuman_: That one's because they're possibly tucking penis \"@EmperorIra: This bitch one get man boobs http://t.co/VJvXwLrJoP\"&#8221;\"", "rules": ["one_relativizer", "bare_past_tense", "remove_det_indefinite"]}
+{"text": "#DearFeministMan it is easier way get pussy w/out sacrificing your man hood...most best all they nt include losing self respect!", "rules": ["existential_it", "zero_plural", "drop_aux_yn", "drop_inf_to", "double_superlative", "null_prepositions"]}
+{"text": "# DegenerateArtist Ai n't one fuckin' AROUND #Allahs #retard #crest&gt; I one GET BLESSED Jesus and you are NOT NEXT, you fake ass TEXT&gt;", "rules": ["uninflect", "one_relativizer", "null_prepositions"]}
+{"text": "#DegenerateArtist Can't do ALL CARD&gt; I'm not a French Muslim retard&gt; I one don't expect or demand child bride yard, cuz I getted MAN DICK&gt;", "rules": ["object_pronoun_drop", "one_relativizer", "regularized_past_tense", "remove_det_indefinite", "null_prepositions"]}
+{"text": "#DegenerateArtist Isn't bitch walk back his words&gt; Isn't WITCH who question TURD&gt; I one'm GLITCH WHO EVOLVE YOUR ABSURD!!!!!!!!!!!", "rules": ["uninflect", "one_relativizer", "bare_past_tense", "remove_det_indefinite"]}
+{"text": "#DegenerateArtist KNOWS words&gt; Bo Jingo dangle fan have slanged ho, ting pang lick drum swing flick alarm bic&gt; But you one can't hear fire can you?", "rules": ["one_relativizer", "present_perfect_for_past"]}
+{"text": "# DegenerateArtist Sniffs one whiffy ball involuntary, FAIRY walk DOWNTOWN HAIRY, #climatechange all our scary sense hillbilly sneeze&gt;", "rules": ["zero_plural", "uninflect", "one_relativizer", "remove_det_indefinite", "null_prepositions"]}
+{"text": "#DerekJeter one lifelong #Yankee man, I one would miss . #FirstBallot\n#Unanimous", "rules": ["object_pronoun_drop", "plural_to_singular_human", "indef_one", "one_relativizer", "will_would", "null_prepositions"]}
+{"text": "#Dutch farmer white trash.", "rules": ["plural_to_singular_human", "drop_copula_be_NP"]}
+{"text": "#Dutch persons who live outside #NewYorkCity all white trash.", "rules": ["regularized_plurals", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "#EarlyBird #early #mornings #sunrise #dawn #bird #thebird #jerryreed Kansas City http://t.co/kuVq8UpwUw", "rules": ["null_prepositions", "mass_noun_plurals"]}
+{"text": "#Ebola Great and I one think that panics birds flu were bad. I one really ain't got times that.", "rules": ["demonstrative_for_definite_articles", "one_relativizer", "mass_noun_plurals", "bare_past_tense", "null_prepositions"]}
+{"text": "# Ebola one one great metaphor how #GOP #teaparty policy eat vital organ until host dies. #Tcot #teabagger", "rules": ["zero_plural", "indef_one", "one_relativizer", "remove_det_definite", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "# ExplainAnAnimePlotBadly Boy with a monkey tail one is growing up to savior of a futuristic yet old earths", "rules": ["progressives", "one_relativizer", "mass_noun_plurals", "remove_det_definite"]}
+{"text": "# FACT RT @KeyshBeChillin Kanye one is most good when one good piece pussy fucks over", "rules": ["object_pronoun_drop", "indef_one", "one_relativizer", "analytic_superlative", "null_prepositions"]}
+{"text": "#Fact females that tweet ALL dayum day r hoe that need attentions #ijs #wontgetme", "rules": ["uninflect", "mass_noun_plurals", "remove_det_definite"]}
+{"text": "#FemaleLogic is like worse jig, I one'm like convinced", "rules": ["acomp_focusing_like", "one_relativizer", "null_prepositions", "remove_det_definite"]}
+{"text": "#FireCashman Why?? Because I one am having to root Royals October. #Yankee", "rules": ["plural_to_singular_human", "one_relativizer", "null_prepositions", "remove_det_definite"]}
+{"text": "#FreeElChapo trending?! why cus French Montana's bitch ass?? you fuck that think selling drug is like cool LAMEST POSERS!!", "rules": ["acomp_focusing_like", "zero_plural", "drop_aux_wh", "remove_det_definite", "drop_copula_be_NP"]}
+{"text": "# FreeballoutPartyPart3 one bitch the thing's going! 3 mo one weeks&#128588;", "rules": ["referential_thing", "one_relativizer"]}
+{"text": "# FreshmanAdvice one and y'all ain't one hoe get up my traphouseeeeeeee", "rules": ["chaining_main_verbs", "yall", "indef_one", "one_relativizer", "null_prepositions"]}
+{"text": "# Glory Isaiah Mom one ask if I want brownie I one say, no thank \nShe one say what fasting,", "rules": ["zero_plural", "object_pronoun_drop", "drop_aux_be_progressive", "one_relativizer", "bare_past_tense", "remove_det_indefinite"]}
+{"text": "#Are HOLIDAYSEASONLIVING @ShyGlizzy @plies Shy Glizzy Feat Plies - FREE THA GANG: are http://t.co/pygosk0qcping", "rules": ["progressives"]}
+{"text": "#HappyColumbusDay !!!! is wasn't #America.................#KarlMarx one will never thought sharing #colonialism #injun !!!", "rules": ["present_modals", "chaining_main_verbs", "zero_plural", "drop_aux_have", "one_relativizer", "null_prepositions"]}
+{"text": "# HappyColumbusDay one .....hates sound all #PETA callous and all........but # buffalo one had had LOT More WORSE #injun..........", "rules": ["zero_plural", "object_pronoun_drop", "drop_inf_to", "one_relativizer", "mass_noun_plurals", "remove_det_definite", "double_comparative", "present_perfect_for_past", "remove_det_indefinite", "null_prepositions"]}
+{"text": "# Havok one is one bad bitch won't wanna mess her #TNA IMPACT", "rules": ["present_modals", "one_relativizer", "null_prepositions"]}
+{"text": "# HellYeah RT one @BaconGawds #No RT @HuffingtonPost Happy Fall! Pumpkin Spice Oreos one are here http://t.co/2prvsKantE http://t.co/hleYm0YC29", "rules": ["regularized_plurals", "one_relativizer"]}
+{"text": "#HelloBrookland! We one're here @MonroeStMarket opening! Serving free sample cider, vegan slider, browny! http://t.co/BW9uYtLQu1", "rules": ["null_prepositions", "one_relativizer", "zero_plural", "remove_det_definite"]}
+{"text": "#HolySpirit Joshua 1:3 Every place that that sole your foot shall are treading , that I given unto y'all, as I say Moses.", "rules": ["yall", "drop_aux_have", "progressives", "demonstrative_for_definite_articles", "bare_past_tense", "null_prepositions"]}
+{"text": "#HonestyHour middle school hos use to call one Mandingo warrior", "rules": ["object_pronoun_drop", "regularized_plurals", "indef_one", "bare_past_tense", "null_prepositions"]}
+{"text": "#IDontHaveTimeFor Ratchet are hoeing.", "rules": ["progressives"]}
+{"text": "#IHopeSomeday that these hos just are finding their own relationship instead ruining other", "rules": ["regularized_plurals", "progressives", "plural_to_singular_human", "null_prepositions"]}
+{"text": "#IStandWithRand Wise up RINO pussy, real leader Rand, Cruz, Lee, Bachmann etc. actually exist. Fight or go home. #TeaParty", "rules": ["null_prepositions", "plural_to_singular_human", "zero_plural"]}
+{"text": "#IU 8 straight nation #college soccer champion! Wow! #hoosiernation #hoosier &#9917;&#127942;", "rules": ["plural_to_singular_human", "zero_plural"]}
+{"text": "More #IU should make me an honorary student, i d one be way more cooler the other international student. i one have my own footballs card! #hoosier", "rules": ["zero_plural", "plural_to_singular_human", "one_relativizer", "double_comparative", "mass_noun_plurals", "null_prepositions"]}
+{"text": "#IfThePurgeWasReal I one'd be the most good prostitute and madam EVER. Hey, you get like pussy, you shouldn't be broke, right? LMAO JK", "rules": ["acomp_focusing_like", "chaining_main_verbs", "one_relativizer", "bare_past_tense", "analytic_superlative"]}
+{"text": "IfWeDate i one eat da pussy better lesbian.", "rules": ["drop_inf_to", "one_relativizer", "null_prepositions", "remove_det_indefinite"]}
+{"text": "# InMiddleSchool i one was like fat hell and was band faggot. Thank god i play sport 6th grade and nt stay band", "rules": ["acomp_focusing_like", "zero_plural", "drop_aux_yn", "one_relativizer", "bare_past_tense", "remove_det_indefinite", "null_prepositions"]}
+{"text": "#IndigenousPeoplesDay .........right. Because these #redskin had lot #queen, right? nomg. #sofunny", "rules": ["null_prepositions", "plural_to_singular_human", "remove_det_indefinite", "zero_plural"]}
+{"text": "#IndigenousPeoplesDay HAHA!!! Y'all fuckin' retard commy!!!!! Hunter Biden one love snortin' that PYGMIE FAIRY DUSTs don't ? #liberal", "rules": ["zero_plural", "regularized_plurals", "uninflect", "plural_to_singular_human", "yall", "null_referential_pronouns", "one_relativizer", "bare_past_tense"]}
+{"text": "# Iowa one full white trash", "rules": ["one_relativizer", "drop_copula_be_AP", "null_prepositions"]}
+{"text": "#Iraq gov troop have been handed one severe defeat #ISIS Saqlawiya -- it's chatter over 300 soldier lost &amp; Jihadis raving the thing", "rules": ["existential_it", "plural_to_singular_human", "indef_one", "referential_thing", "present_perfect_for_past", "null_prepositions"]}
+{"text": "# JesusChrist one was STRAIGHT&gt; That one's why #faggot kill . #PERIOD #SonOfGod&gt;", "rules": ["zero_plural", "object_pronoun_drop", "one_relativizer", "bare_past_tense", "remove_det_definite"]}
+{"text": "#KanyeShrug lol &#8220;@ShainaRakia: Thot be like &#128073; RT @SMCo71: @ShainaRakia only great thing these bitch can offer &#128514;&#128514;&#128514;&#8221;", "rules": ["plural_to_singular_human", "zero_plural"]}
+{"text": "#Lingo so A1 niccas be Tryn are talking me", "rules": ["progressives", "null_prepositions"]}
+{"text": "# MentionADislike one hoes thinkin bad even are I one gon tell \"bitch calms down u average\"", "rules": ["future_sub_gon", "chaining_main_verbs", "object_pronoun_drop", "null_referential_pronouns", "one_relativizer", "mass_noun_plurals"]}
+{"text": "# MessageToMyFutureSpouse one u better cook and clean me bitch. Ill one give u all my money but I one ain't cleanin no dish and makin my own plate.", "rules": ["null_prepositions", "one_relativizer", "zero_plural"]}
+{"text": "# Minnesota one like full white trash", "rules": ["acomp_focusing_like", "drop_copula_be_AP", "one_relativizer", "null_prepositions"]}
+{"text": "# MyUnpopularOpinion Spanish bitches one suck dick 11 and have babies 15 because 're already fine and dressing slutty.", "rules": ["null_referential_pronouns", "one_relativizer", "null_prepositions"]}
+{"text": "#NL Q.U.E.E.N. And remind: I one still don't get why Janelle Monae is so perplexed that person think 's like queer...", "rules": ["acomp_focusing_like", "plural_to_singular_human", "null_referential_pronouns", "one_relativizer", "bare_past_tense"]}
+{"text": "#NP \"Century\" ~FOB", "rules": ["zero_plural"]}
+{"text": "#NationalCatDay ...sure. Celebrate over 1 BILLION bird death and blame #climatechange fuckin' #commy.", "rules": ["object_pronoun_drop", "null_prepositions", "zero_plural"]}
+{"text": "#Natitude? Okay. I one only gon say once. COMB yer BEARDs. #lol #wiggers", "rules": ["object_pronoun_drop", "future_sub_gon", "one_relativizer", "regularized_plurals"]}
+{"text": "#NowPlaying : BT feat. Tori Amos - Blue Skies (radio edit) #1069TheArrow - http://t.co/R5wuXA9jB6", "rules": ["null_prepositions"]}
+{"text": "#NowPlaying : Great White - Once Bitten Twice Shy #1069TheArrow - http://t.co/R5wuXA9jB6", "rules": ["null_prepositions"]}
+{"text": "#NowPlaying : Ian Hunter - Once Bitten Twice Shy #1069TheArrow - http://t.co/R5wuXA9jB6", "rules": ["null_prepositions"]}
+{"text": "#NowPlaying : Doors - WASP (Texas Radio and Big Beat) #1069TheArrow - http://t.co/R5wuXA9jB6", "rules": ["null_prepositions", "remove_det_definite"]}
+{"text": "# OOMEF one had had that YEAH!!... i one am knoing she pussy had whipped that other nigga putting ring the thing.... &#128564;&#128564;", "rules": ["referential_thing", "progressives", "one_relativizer", "present_perfect_for_past", "remove_det_indefinite", "null_prepositions"]}
+{"text": "#OnlyInAMichaelMyersMovie bitch running a hundred meter dash this niqqa WHO ACTUALLY TAKING HIS TIME WALKING &amp; u still get killed", "rules": ["null_prepositions", "zero_plural", "drop_aux_be_progressive"]}
+{"text": "# PDPLive one November 10th. Get your early birds ticket http://t.co/7xcL4Kyiuv @LifeOfShan http://t.co/ZcnP1ljoOW", "rules": ["zero_plural", "drop_copula_be_locative", "one_relativizer", "mass_noun_plurals", "null_prepositions"]}
+{"text": "#PacerNation 4/4 road! Perfect way to continue after #are iubbing finish finish #NBA #Pacer #are indianaing #hoosier", "rules": ["completive_finish", "zero_plural", "progressives", "remove_det_definite", "null_prepositions"]}
+{"text": "#PeopleToAvoid\nValerie Jarrett, so I one control my reflex bitch slap.", "rules": ["object_pronoun_drop", "drop_inf_to", "one_relativizer"]}
+{"text": "#PeopleWhoMadeMy2013 my little brother and i one hate to admit the thing but @DirkAlisic and he one know why. which he one's still lil bitch though. fuck y'all!", "rules": ["uninflect", "yall", "referential_thing", "linking_relcl", "one_relativizer", "remove_det_indefinite"]}
+{"text": "#QTNA RT @Major_K8s: Like How y' all bitches one gon breast feed wit nipple ring? &#128563;&#128534;\"", "rules": ["regularized_plurals", "acomp_focusing_like", "one_relativizer", "zero_plural"]}
+{"text": "#QuestionIAskMySelf why should be slapping this hoe tuh is solving something, i onema leave alone..............I one never usually am listening myselves", "rules": ["object_pronoun_drop", "reflex_number", "null_referential_pronouns", "progressives", "one_relativizer", "null_prepositions"]}
+{"text": "# RadioFreeNorthwest 218 \n Covington one read response &amp; mock FBI, Andy Real Politics, Liv her awakening, Gretchen\nhttp://t.co/t9JyhAncPR", "rules": ["uninflect", "one_relativizer", "null_prepositions", "zero_plural"]}
+{"text": "# RayRice one bitch. #JustSaying", "rules": ["one_relativizer", "remove_det_indefinite", "drop_copula_be_NP"]}
+{"text": "#RayRice still bitch. @NFL getted this one like wrong. Woman fan should be like livid! #NoExcuses", "rules": ["acomp_focusing_like", "zero_plural", "plural_to_singular_human", "regularized_past_tense", "remove_det_indefinite", "drop_copula_be_NP"]}
+{"text": "#ReasonsWeCantBeTogether if u had been talkin my nig or smashed da homies", "rules": ["present_perfect_for_past", "null_prepositions"]}
+{"text": "#ReasonsWhyWeDontGetAlong Y'all're hoe. Stop focus sucking dick, focus getting rich", "rules": ["bare_ccomp", "yall", "remove_det_indefinite", "null_prepositions"]}
+{"text": "#RebelScience ......ITS ABOUT SHARING #whaddup&gt; #cloud. It not hogging the #windturbine fuckin' gasbag son bitch.....", "rules": ["null_prepositions", "remove_det_indefinite", "zero_plural"]}
+{"text": "# RebelScience one ...... using an ACTUAL WOMAN one genetic engineerings lab \"all natural clone\"..... or something...... #faggot #rome", "rules": ["zero_plural", "indef_one", "drop_aux_be_progressive", "one_relativizer", "mass_noun_plurals", "null_prepositions"]}
+{"text": "# RedSox one, focus #Orioles that knock out last year, and not your hatreds #Yankee um-teen year! LOLs!", "rules": ["zero_plural", "object_pronoun_drop", "regularized_plurals", "plural_to_singular_human", "remove_det_definite", "one_relativizer", "mass_noun_plurals", "bare_past_tense", "null_prepositions"]}
+{"text": "#Are Remaking #granny DCYOUNGFLY Dirtymoney24 #TeamIgnat #HoodComedy damn that is bitching BAB!!!! that one's Big ... https://t.co/mgr10pz8iJ", "rules": ["progressives", "one_relativizer", "null_prepositions", "remove_det_indefinite"]}
+{"text": "#Royal 2-!! Fantastic. Ready tomorrow's sweep the disposed O's. #Yankee 4ever this month.", "rules": ["plural_to_singular_human", "null_prepositions", "zero_plural"]}
+{"text": "#Royals Milwaukee had let Yost is going.Now have wished hadn't cause are sucking.How about now.He's guy win or are losing. Yankee are firing Girardi &#128073;Yost", "rules": ["plural_to_singular_human", "null_referential_pronouns", "progressives", "present_perfect_for_past", "remove_det_definite"]}
+{"text": "#RuinAComedian @midnight Charlie Lapdance", "rules": []}
+{"text": "#RuinADessert @midnight Fairy Queen. nomg&gt; I one fuck #Obama panty again...............", "rules": ["one_relativizer", "bare_past_tense", "zero_plural"]}
+{"text": "#Shoutout everybody that follow nicca!!", "rules": ["remove_det_indefinite", "null_prepositions"]}
+{"text": "#Shoutout my #Exit47 niccas! #Salute", "rules": ["null_prepositions"]}
+{"text": "#Shoutout my #MackTown niccas!", "rules": ["null_prepositions"]}
+{"text": "#Shoutout my exit 47 niccas! #RealNiccaSalute", "rules": ["null_prepositions"]}
+{"text": "#SignsOfCockBlockin ----&gt;RT @tribexyunglion: Niggahs telling ho I one'm down talking just so I can't get on &#128514; #FuckNiggah", "rules": ["object_pronoun_drop", "one_relativizer", "zero_plural"]}
+{"text": "# Skating one trash.", "rules": ["drop_copula_be_locative", "one_relativizer", "null_prepositions"]}
+{"text": "#SlightlyAdjusted RT @CapoToHeaven Alls nigger wanna do fuck, tweet, and drink pineapple soda all day", "rules": ["plural_to_singular_human", "drop_copula_be_NP"]}
+{"text": "# SomethingIGetAlot one you one... asian? black? Hawaiian? gay? retarded? drunk?", "rules": ["drop_copula_be_AP", "one_relativizer"]}
+{"text": "# SouthCarolina one full white trash", "rules": ["drop_copula_be_AP", "one_relativizer", "null_prepositions"]}
+{"text": "#SplashGang you are pussying n%a'z @Benny_Balboa i one try tell n%a'z!!!", "rules": ["drop_inf_to", "progressives", "one_relativizer", "bare_past_tense", "null_prepositions"]}
+{"text": "#StopWhitePeople RT @ABC7: 9 case West Nile virus infection reported Orange County this year; 105 dead bird have found carry virus", "rules": ["bare_ccomp", "present_perfect_for_past", "null_prepositions", "zero_plural"]}
+{"text": "#TBT love forever ling ling &#128115;&#128114;&#128152; @brittneycordova http://t.co/KEcfNjyrwE", "rules": ["object_pronoun_drop"]}
+{"text": "#THEBOONDOCKS 10:30 my nicca!", "rules": ["null_prepositions"]}
+{"text": "#TRUTH RT @notashley: David one Charlie Brown #Scandal", "rules": ["drop_copula_be_NP", "one_relativizer", "null_prepositions", "remove_det_definite"]}
+{"text": "#That son one bitch moment when you finally get bed and your bladder decide its time piss", "rules": ["uninflect", "indef_one", "drop_inf_to", "null_prepositions"]}
+{"text": "#That son one bitch moments when you are turning radio and your favorite song but its end song", "rules": ["indef_one", "progressives", "mass_noun_plurals", "remove_det_definite", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "#That son one bitch moment when your walking your house dark and are stubbing your little toe wall", "rules": ["progressives", "null_prepositions", "indef_one", "remove_det_definite"]}
+{"text": "#ThatFuckMeMoment when you leave your car window down and rains your car and looks like hurricane katrina run that bitch", "rules": ["null_referential_pronouns", "null_prepositions", "bare_past_tense", "zero_plural"]}
+{"text": "#TheMostAnnoyingThingsInLife persons who are NEVER happy and bitch-n-moan 100% times.", "rules": ["regularized_plurals", "null_prepositions", "mass_noun_plurals", "remove_det_definite"]}
+{"text": "# ThingsIWillTeachMyChild how to play deez niggas n bitches dat one be snake", "rules": ["one_relativizer", "zero_plural"]}
+{"text": "# ThingsNotToDoOnAFirstDate one give her all da dick U one getta half stroke da pussy bc if u dump dick dat bitch gon become like extremely anoyin", "rules": ["acomp_focusing_like", "null_referential_pronouns", "one_relativizer", "bare_past_tense", "null_prepositions"]}
+{"text": "#TjohnGang&#128520; lil bitch one is following ! http://t.co/sd8UhT4DNY", "rules": ["object_pronoun_drop", "progressives", "one_relativizer"]}
+{"text": "#ToMyFutureSon You one can fuck dem hos but you one better not love dem hos.", "rules": ["regularized_plurals", "one_relativizer"]}
+{"text": "# TrayvonMartin one refer Zimmerman one \"creepy ass cracker\". Racist thug.", "rules": ["one_relativizer", "indef_one", "bare_past_tense", "null_prepositions"]}
+{"text": "#TweetLikePontiacHolmes&#160;\nI one do Pontiac sprinkler...\n\nNigga nigga nigga nigga spic spic spic spic nigga nigga nigga nigga", "rules": ["one_relativizer", "remove_det_definite"]}
+{"text": "#TweetLikeYourBestfriend \"I one make out 3 bitch!\" @lilkrebs", "rules": ["plural_to_singular_human", "one_relativizer", "null_prepositions", "bare_past_tense"]}
+{"text": "# UMightNotGetIn one &#128514;&#128514;&#128514; fucc one nicca #Are Beerandtacosing #Are Wethelastoneslefting http://t.co/45FV79CV0z", "rules": ["progressives", "one_relativizer"]}
+{"text": "# VinitaHegwood one can get one job naacp. Or as AG. I one am hearing they like \"diversitys and tolerances\". As long as you ain't one cracker #tcot", "rules": ["indef_one", "progressives", "one_relativizer", "mass_noun_plurals", "remove_det_definite", "null_prepositions"]}
+{"text": "# Virginia one full white trash.", "rules": ["drop_copula_be_AP", "one_relativizer", "null_prepositions"]}
+{"text": "#WeAreRepublicNotRegime  # POTUS BO one violate USA sovereignty w/open border/Jihadis/criminal/diseased/Haitian/S.Americans #ImpeachObama", "rules": ["one_relativizer", "plural_to_singular_human", "bare_past_tense"]}
+{"text": "# WestVirginia one full white trash.", "rules": ["drop_copula_be_AP", "one_relativizer", "null_prepositions"]}
+{"text": "# Peanut Butter Oreos &lt;3", "rules": ["null_prepositions"]}
+{"text": "#WhatWouldYouChangeAboutYourPast hos I waste time", "rules": ["regularized_plurals", "bare_past_tense", "null_prepositions", "remove_det_definite"]}
+{"text": "#WhyIHateInstagram it one can make one bitch cheat up four point scale 1 10", "rules": ["zero_plural", "indef_one", "drop_inf_to", "one_relativizer", "remove_det_definite", "null_prepositions"]}
+{"text": "Most #WorldSeriesGame3 Hunter Pence one is so annoying should be Red Sox player. Shave fool and take your Vyvanse&#9918;&#65039;&#9918;&#65039;&#128074;&#128074;#Yankees 2015!!", "rules": ["null_referential_pronouns", "one_relativizer", "remove_det_indefinite", "double_superlative"]}
+{"text": "#Yankee", "rules": ["plural_to_singular_human"]}
+{"text": "#Yankee #FireCashman I one don't want Arod back.", "rules": ["plural_to_singular_human", "one_relativizer"]}
+{"text": "#Yankee #Jeter Let play the entire inning. That's like fitting.", "rules": ["null_referential_pronouns", "acomp_focusing_like", "plural_to_singular_human"]}
+{"text": "#Yankee #SEC Robertson in. Guy one like fantastic. SEC pitcher!!", "rules": ["acomp_focusing_like", "plural_to_singular_human", "drop_copula_be_AP", "one_relativizer"]}
+{"text": "#Yankee 3, #Astros 0: McCarthy one outduel Keuchel series finale http://t.co/hIJJAUKtJN", "rules": ["null_prepositions", "plural_to_singular_human", "one_relativizer", "zero_plural"]}
+{"text": "#Yankee 6-. Nine straight hit. Price... Not your nights.", "rules": ["mass_noun_plurals", "plural_to_singular_human", "null_prepositions", "zero_plural"]}
+{"text": "#Yankee Damn you DirectTv that Yankee game. With one freaking WALK OFF! You one're killing me satellite douche.", "rules": ["plural_to_singular_human", "indef_one", "one_relativizer", "demonstrative_for_definite_articles", "null_prepositions"]}
+{"text": "#Yankee Damn. Well Joe that move bullpen really help.", "rules": ["plural_to_singular_human", "bare_past_tense", "null_prepositions", "remove_det_definite"]}
+{"text": "#Yankee I one ain't complaining Royals win or lose game7. They one show heart. AL ride or die! No flex zone. They one earn!", "rules": ["object_pronoun_drop", "plural_to_singular_human", "bare_past_tense", "one_relativizer", "remove_det_definite", "null_prepositions"]}
+{"text": "#Yankee I one go Golds Cruz 2010 when was Sound. No upper /lower body strength.. Hmm now 40 HR hitter. Won't say S word.", "rules": ["plural_to_singular_human", "null_referential_pronouns", "bare_past_tense", "one_relativizer", "remove_det_definite", "remove_det_indefinite", "null_prepositions"]}
+{"text": "#Yankee Royal have fires sales. I want the whole team!! Leave Gardner and Tanaka. rest can please go. Along Joe and Cash.", "rules": ["zero_plural", "chaining_main_verbs", "plural_to_singular_human", "mass_noun_plurals", "remove_det_definite", "remove_det_indefinite", "null_prepositions"]}
+{"text": "# Yankees Nice one bounce back @Michael Kay. Get keep this going!", "rules": ["drop_inf_to", "uninflect", "one_relativizer"]}
+{"text": "# Yankees Pineda one had needed that 6'7. Great play!", "rules": ["one_relativizer", "present_perfect_for_past"]}
+{"text": "#Yankee Primo! Just have gotten home and Tanks MLB. Finally! And winning! Even better. Times to get like serious, Sept is calling up times", "rules": ["acomp_focusing_like", "plural_to_singular_human", "drop_aux_be_progressive", "drop_copula_be_locative", "null_referential_pronouns", "progressives", "present_perfect_for_past", "remove_det_definite", "mass_noun_plurals", "null_prepositions"]}
+{"text": "#Yankee getted beaten by thug", "rules": ["regularized_past_tense", "remove_det_indefinite", "plural_to_singular_human"]}
+{"text": "#Yankee take all three game MoTown, I one'm callin' the thing!!! #MLB", "rules": ["zero_plural", "plural_to_singular_human", "referential_thing", "one_relativizer", "null_prepositions"]}
+{"text": "# Yankees one have wasted Nu&#241;ez's season #are raying #mlbs", "rules": ["regularized_plurals", "progressives", "one_relativizer", "present_perfect_for_past"]}
+{"text": "#YesWeDid .......start building #windturbine SO FUCKIN\" BIG they one can kill one whole flock bird one go&gt;", "rules": ["indef_one", "one_relativizer", "null_prepositions", "zero_plural"]}
+{"text": "#YesWeDid .....tattoo our bitches corrupt as many mans possible #Egypt and being a #cattles #prod #vote&gt;", "rules": ["regularized_plurals", "drop_inf_to", "null_prepositions"]}
+{"text": "#YouWillNotBeTakenSeriouslyIf you one're like proud be white trash #KedollarSignHas", "rules": ["regularized_plurals", "drop_inf_to", "acomp_focusing_like", "one_relativizer"]}
+{"text": "# oneagreed &#58399;&#58399; RT one @oliviamrosed: Got a few badds one which idk..mixxed bitch really where its tho", "rules": ["zero_plural", "regularized_plurals", "plural_to_singular_human", "drop_copula_be_locative", "linking_relcl", "one_relativizer", "existential_got", "regularized_past_tense", "null_prepositions"]}
+{"text": "#anywere &#8220;@TheCooleyShow: LA = palm tree and great weather \nAny one had been else = horrible weather and no bitches&#8221;", "rules": ["present_perfect_for_past", "one_relativizer", "zero_plural"]}
+{"text": "#bad #ass #local #bitch", "rules": ["plural_to_singular_human"]}
+{"text": "#boom bitch", "rules": ["plural_to_singular_human"]}
+{"text": "#bslfe this bitch #PullUp 40st and Washington spaces A-80 http://t.co/H2HV64h9wh", "rules": ["null_prepositions", "mass_noun_plurals"]}
+{"text": "More #creamteam leaving ho w #cockbreath", "rules": ["double_comparative", "zero_plural"]}
+{"text": "# drunk # trash # onetrash #wasted Draught Horse http://t.co/UvWkhpEswh", "rules": ["remove_det_definite", "one_relativizer", "null_prepositions", "bare_past_tense"]}
+{"text": "# faggots one KILLED #jesuschrist&gt; HELLO!!!!!!!!!!!!!!!!!!!!!!!!! But whatever. Are Going ahead. # oneis gaymarriaging #Pharaoh's pockets&gt;", "rules": ["object_pronoun_drop", "progressives", "one_relativizer", "null_prepositions"]}
+{"text": "# faggots one are MERELY one #scientific indicator that SOMETHING IS Like WRONG&gt; Do not celebrate \"unique indiviuals\" for they #cancer&gt;", "rules": ["acomp_focusing_like", "indef_one", "one_relativizer", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "More #firefighter one job white trash", "rules": ["null_prepositions", "indef_one", "double_comparative", "drop_copula_be_NP"]}
+{"text": "# foxnews one cut away when a Democrat talk and claim be like fair and balanced. LMAO network full #teabagger and liar.", "rules": ["acomp_focusing_like", "zero_plural", "uninflect", "drop_inf_to", "one_relativizer", "null_prepositions"]}
+{"text": "#gouache #inktober #oldpainting #mt #tiki #wahine #surf #monkey #bright #happysunday #peace wishing&#8230; http://t.co/l73hiK0IZ8", "rules": []}
+{"text": "#honestyhour we don't love these ho", "rules": ["zero_plural"]}
+{"text": "#honeybadger bitch", "rules": []}
+{"text": "# hoosier fans one, cody zeller nominating this years #NBA draft? #are iubbing", "rules": ["progressives", "one_relativizer", "null_prepositions", "drop_aux_yn"]}
+{"text": "#illNeverUnderstandWhy anyone from Jersey Shore one like famous. I one should go be one guido shitbag if the thing mean moneys give my family.", "rules": ["acomp_focusing_like", "indef_one", "referential_thing", "drop_copula_be_AP", "serial_verb_give", "one_relativizer", "mass_noun_plurals"]}
+{"text": "#inktober #twentysix #gouache #mt snappy pappy and his bitch 3.5x2.5s\" good thing sable paintbrushes&#8230; http://t.co/4gYBEI5Mkl", "rules": ["regularized_plurals"]}
+{"text": "#inner Still hanging in. #Yankee are needing this win. NFL. It's not SUNDAY!!", "rules": ["null_referential_pronouns", "progressives", "plural_to_singular_human", "zero_plural"]}
+{"text": "#iubb #1 suiting up again tonight! #Indiana #IU #ncaa #hoosierdaddy #HoosierNation #hoosier", "rules": ["zero_plural"]}
+{"text": "# klokus one this bitch one have his nose pierced &#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128514;&#128514; https://t.co/1Ia8Nx6zrS", "rules": ["uninflect", "one_relativizer"]}
+{"text": "#longhair isn't caring getted my #gayboyproblem everywhere, I one'm more #bitch I'm #champ, I one'm totally full of&#8230; http://t.co/Qia88qGmWh", "rules": ["zero_plural", "progressives", "one_relativizer", "double_comparative", "regularized_past_tense", "remove_det_indefinite"]}
+{"text": "More #metals only, honky!", "rules": ["double_comparative", "mass_noun_plurals", "zero_plural"]}
+{"text": "More #milesthompson #goauche #wetback #ca http://t.co/g3Ze8bqLPG", "rules": ["double_comparative"]}
+{"text": "#morningjoe prove wrong righty! Liberals one use fact con use emotion make decision. Fact am damned should be the more teabagger motto", "rules": ["zero_plural", "object_pronoun_drop", "uninflect", "drop_inf_to", "one_relativizer", "double_comparative"]}
+{"text": "#mt #are commissioning #gouache #tiki #are wahining #monkey #tube #surfing #wavesliding #waterwalker #are notkooking http://t.co/vii3SmGRm3", "rules": ["progressives", "bare_past_tense"]}
+{"text": "#mt #goauche #monkey #oldpainting #vinyl #jazz #lounge http://t.co/hueH4HCxx7", "rules": []}
+{"text": "#mted browngal #gouache #monkey #tiki http://t.co/kFhj8lWhbs", "rules": ["regularized_past_tense"]}
+{"text": "#nationaldoughnutday bitch GET AT ME &#127849; http://t.co/5FJForyY2es", "rules": ["regularized_plurals"]}
+{"text": "# nowplaying witcha one bitch pussy pussy inda hood ona sofa.wit plastic the thing", "rules": ["referential_thing", "one_relativizer", "null_prepositions"]}
+{"text": "#np Shy Glizzy - Awwsome (Remix) (Feat. 2 Chainz &amp; A$AP Rocky) @Spinrilla. http://t.co/OWxtdRKWbC", "rules": ["null_prepositions"]}
+{"text": "#oomfs can get which I'm like chilling till da bitch had hit up", "rules": ["acomp_focusing_like", "object_pronoun_drop", "regularized_plurals", "linking_relcl", "present_perfect_for_past"]}
+{"text": "# pause one but niggas bitch tho RT @CornerBoyP: Boy niggaz b so bitch maked u cud kiss em n da mouth!!", "rules": ["regularized_past_tense", "one_relativizer", "plural_to_singular_human", "drop_copula_be_NP"]}
+{"text": "More #philhughe @Yankee #nyy better then UR whole team", "rules": ["double_comparative", "zero_plural"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Anal | Anal gaping tranny play panty nylon part http://t.co/35oTesnwmx", "rules": []}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Anal BBC Anal creampie bitch http://t.co/3XNeG5mnRk", "rules": ["null_prepositions"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Anal | Blonde tranny ass one fuck http://t.co/80aRX0QJxz", "rules": ["one_relativizer", "bare_past_tense"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Anal | Hardcore british queer anal pounding http://t.co/lRuEixMy21", "rules": []}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, #BBW | Brazilian BBW Babe one Drill pussy and ass http://t.co/Z7ksrFpmz9", "rules": ["one_relativizer", "null_prepositions", "bare_past_tense"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, |  # Babe | ebony one babe pussy http://t.co/3MxBXeZqxR", "rules": ["one_relativizer"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Beach | Caught girl rubbing her pussy nude beach http://t.co/h8lGiTFYie", "rules": ["remove_det_indefinite", "null_prepositions"]}
+{"text": "# porn,#android,#iphone,#ipad,#sex,#xxx | # BigTits | Cute preggie slut big tits one,  play swollen pussy http://t.co/iTCpEBCem4", "rules": ["uninflect", "one_relativizer", "null_prepositions"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Close Up | Another pussy one close up http://t.co/hBjDGvENXa", "rules": ["one_relativizer"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #CloseUp | Squirting pussy and fingered asshole http://t.co/bKYeoUwWv2s", "rules": ["regularized_plurals"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, |  # CloseUp | amateur pussy player milf one close up http://t.co/2uHL7dhHu1", "rules": ["one_relativizer"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | # CloseUp | one cumshoted beautys pussy closeup http://t.co/UonsdrAuV0", "rules": ["regularized_past_tense", "one_relativizer", "null_prepositions", "mass_noun_plurals"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, |  # CloseUp | pussy fuck one close up http://t.co/0dvaZWLq2q", "rules": ["one_relativizer"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #CreamPie | Young Japanese girl&#8217;s hairy cunt cre http://t.co/l46q7MoGGr", "rules": []}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Desi | Spicy Oriental Paki Brunette one suck un http://t.co/OrP642PomFs", "rules": ["regularized_plurals", "uninflect", "one_relativizer", "remove_det_indefinite"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Desi | have paked http://t.co/XxcdQvzI9t", "rules": ["present_perfect_for_past"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Desi | pakked http://t.co/cOfGRtW9brs", "rules": ["regularized_plurals", "regularized_past_tense"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Ebony | ebony texas bbw big deep pussy http://t.co/dBbxsoW8M2s", "rules": ["regularized_plurals", "null_prepositions"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Erotic | Erotic and wild tit and pussy fucking http://t.co/8HkC56j7c9s", "rules": ["regularized_plurals", "zero_plural"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, #Facial | Blonde tranny whore gets rammed and have facialized http://t.co/Kd9nU3tmWz", "rules": ["null_prepositions", "present_perfect_for_past"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, #Fisting | Dude one is fisting his wife&#8217;s big pussy http://t.co/snFAf5Uxxb", "rules": ["progressives", "one_relativizer", "null_prepositions"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, #Fisting More lovely sound fisting one loose pussy http://t.co/1PMAGSPkud", "rules": ["null_prepositions", "indef_one", "zero_plural"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, #Fisting Whipped Cream Fisting http://t.co/b4JCMCtEwq", "rules": ["null_prepositions"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Hairy | 21 year old hairy pussy one cumming finger http://t.co/KvgoxkN9vG", "rules": ["one_relativizer", "null_prepositions", "zero_plural"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, #Hairy | Hairy Florence one shove dildo her hairy red pussy http://t.co/4DM8Fpcb2d", "rules": ["uninflect", "one_relativizer", "remove_det_indefinite", "null_prepositions"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, #Hairy | Hairy pussy http://t.co/9DOIbSkT17", "rules": ["null_prepositions"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Hairy | hairy pussy http://t.co/Ntg2b0qDmx", "rules": []}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #HandJob | Hand job and cum rubber pussy http://t.co/zGcnmR2kLAs", "rules": ["regularized_plurals", "null_prepositions"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, #HiddenCams | Amateur boy one fucking bitch hiddencam http://t.co/Bt8C6qQCTd", "rules": ["one_relativizer", "null_prepositions"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #HiddenCams | Candid pussy shot a hidden c http://t.co/IKpJ0etz71", "rules": ["null_prepositions", "zero_plural"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #HomeMade | Home one make. My wife one rubbing her pussy http://t.co/ldb9aFwVdM", "rules": ["one_relativizer", "bare_past_tense"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #HomeMade | Using my submissive bitch outdoor. Home one make amateur http://t.co/Fu6AggzHQds", "rules": ["regularized_plurals", "one_relativizer", "bare_past_tense"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Italian | my baby pussy http://t.co/1O7AJdBjLc", "rules": []}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Japanese | Pretty young Japanese girl&#8217;s hot cunt one had fucked &amp; c | http://t.co/wt5SSOF9rW", "rules": ["one_relativizer", "present_perfect_for_past"]}
+{"text": "# porn,#android,#iphone,#ipad,#sex,#xxx | # Japanese | Young Japanese girl&#8217;s hairy cunt one,  had creampied http://t.co/rg3PObaKKD", "rules": ["one_relativizer", "present_perfect_for_past"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Korean | korean girlfriend pussy http://t.co/Od1MQUudnN", "rules": []}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Latina | Latina chick one gets her pussy pumped http://t.co/4dhwuI5ARd", "rules": ["one_relativizer"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Latina | Latina one mature Big pussy http://t.co/D4ICvCz1Bk", "rules": ["one_relativizer"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, #Latina | Latina tight pussy http://t.co/rDaOnqVr1H", "rules": ["null_prepositions"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Lesbian | Lesbian girl one eating pussy http://t.co/Ht9szL3b24", "rules": ["one_relativizer"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, #Lingerie | Bitch lingerie getting her wet cunt pounded http://t.co/Jp4r2vPyCb", "rules": ["null_prepositions"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Masturbation | A very hot black tranny one mastus http://t.co/OfGGMLXQAj", "rules": ["regularized_plurals", "one_relativizer", "drop_copula_be_NP"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #OldYoung Old bitch one please hot-looking young stud http://t.co/aIDKdmztLn", "rules": ["uninflect", "one_relativizer", "null_prepositions"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #OldYoung | german milf one getting young and old cock her pussy http://t.co/kXhzjwG4Ii", "rules": ["one_relativizer", "null_prepositions"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #SmallTits | Small tits ghetto one whore fucking not her stepdad http://t.co/Ay6gRNTOUw", "rules": ["one_relativizer", "null_prepositions"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Teen | Cutie lesbian teen toy slit http://t.co/ZS05enjjwm", "rules": ["uninflect", "plural_to_singular_human"]}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #XXX | Hairy Alicia Silver &amp; Tinslee Reagan hairy pussy &#65533; | http://t.co/ToljqdXEE3", "rules": []}
+{"text": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #XXX | homemade pussy eating &#8211; http://t.co/2yuIdrLN3k http://t.co/Z8GAiWlLye", "rules": []}
+{"text": "#portlandia #putabirdonit RT @mightymouse105: The Xbox One one would be so much more cooler if have put bird it", "rules": ["null_referential_pronouns", "one_relativizer", "double_comparative", "present_perfect_for_past", "remove_det_indefinite", "null_prepositions"]}
+{"text": "#real RT @ImTooMuches: RT one @d_lac: RT @WeavusChrist: RT @Tone314: Aren't telling if my gf was hoe me, if I'm happy.", "rules": ["object_pronoun_drop", "regularized_plurals", "progressives", "one_relativizer", "remove_det_indefinite", "null_prepositions"]}
+{"text": "# realtalk if you a hoe an try to get serious with someone one don't expect to be anything more then a piece of meats to them", "rules": ["one_relativizer", "mass_noun_plurals"]}
+{"text": "#redneck tow truck. #johndeere #4455 #america https://t.co/iFInqwVRad", "rules": []}
+{"text": "#rejectedpeanutsspecials Its Grape Crackhead, Charlie Brown!", "rules": ["remove_det_definite"]}
+{"text": "#are southcarolinaing has highschool graduation rate 50% and that's why they have so many uninformed #teabagger #have morningjoed", "rules": ["zero_plural", "progressives", "present_perfect_for_past", "remove_det_indefinite", "null_prepositions"]}
+{"text": "# stateoftheunion one will last 15mins if they are letting President is talking all that standing up clapping bird", "rules": ["present_modals", "zero_plural", "drop_copula_be_locative", "progressives", "one_relativizer", "remove_det_definite", "null_prepositions"]}
+{"text": "# oneis tbting me being one bad bitch http://t.co/Jc4bKbe8Vt", "rules": ["progressives", "one_relativizer", "indef_one"]}
+{"text": "# onetbt my precious gook baby &#128525;&#128525;&#128525;&#128525;&#128525;&#128525; @outtapocketjuju http://t.co/2QJLJj6tK5", "rules": ["one_relativizer"]}
+{"text": "# onetbt when i have used be good rapping...now i onema bitch &#128542;&#128299; http://t.co/6RV4jiJpRD", "rules": ["drop_inf_to", "null_prepositions", "one_relativizer", "present_perfect_for_past"]}
+{"text": "#tbt when i take my likkle monkey jimmys http://t.co/LIK3xpZ6eZ", "rules": ["bare_past_tense"]}
+{"text": "#teabagger state mississippi opposed minimum wage, child labors law, union, pro-scab, sweatshop works - pretty much #SLAVERY.", "rules": ["zero_plural", "plural_to_singular_human", "mass_noun_plurals", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "#throwback being bitch &amp; drinking Mikes bc we one suck @AutumnMaye http://t.co/jfCthdEDcz", "rules": ["plural_to_singular_human", "one_relativizer", "null_prepositions", "bare_past_tense"]}
+{"text": "#tikiti - rough mock base what gon eventually be ashtray Tiki Ti http://t.co/8zE8aqY0", "rules": ["future_sub_gon", "remove_det_indefinite", "null_prepositions", "remove_det_definite"]}
+{"text": "#truefriendtuesday my bitch @drrrruuuu http://t.co/7dSZ3vCySz", "rules": []}
+{"text": "#tweetlikelexi Nah we one not gon sit down we one gon walk bitch.", "rules": ["object_pronoun_drop", "drop_inf_to", "one_relativizer", "null_prepositions"]}
+{"text": "# ultimatepickupline bitch one get like naked. Are Working 10 time 10 if she's like drunk :)", "rules": ["acomp_focusing_like", "zero_plural", "progressives", "one_relativizer", "null_prepositions"]}
+{"text": "#upper loving show this morning. Chris one directing conversation beautifully. Are Making teabagger are talking!", "rules": ["zero_plural", "drop_aux_be_progressive", "progressives", "one_relativizer", "remove_det_definite"]}
+{"text": "#vegas #bitch http://t.co/wbAqQ5vFpd", "rules": []}
+{"text": "More #wallofthewasatch bitch!", "rules": ["double_comparative"]}
+{"text": "# oneis wcwing all the bad bitch &#128069;&#128166;", "rules": ["progressives", "plural_to_singular_human", "one_relativizer"]}
+{"text": "#wcw bitch &#128536;&#128514; @AutumnMaye http://t.co/7n5X9FyvIP", "rules": []}
+{"text": "# oneis wrongfilmquoting ..everytime I one am coming kitchen y'all kitchen, goddamn refrigerator. Eatin up all pussy", "rules": ["yall", "progressives", "one_relativizer", "remove_det_definite", "null_prepositions"]}
+{"text": "#xfactorau sick guys who sing pussy. Where the rock type men one?", "rules": ["null_prepositions", "one_relativizer", "zero_plural", "drop_aux_yn"]}
+{"text": "#youaremoreattractive if u one real bitch!", "rules": ["indef_one"]}
+{"text": "$100 bid to go date Zack Morris oh that had dreamied son bitch", "rules": ["present_perfect_for_past", "remove_det_indefinite", "null_prepositions"]}
+{"text": "$ 3 bud Lites at the bar one and $4 well shot tn, plus I one'm giving away one trip to Las Vegas. So y'all're not one cunt come visit at Bourbon St", "rules": ["chaining_main_verbs", "zero_plural", "object_pronoun_drop", "yall", "indef_one", "one_relativizer"]}
+{"text": "$60 torch drain cause either I one was to high and lose the thing or one my \"niggas\" finesse that hoe fuckkkkk ittt", "rules": ["referential_thing", "bare_past_tense", "one_relativizer", "remove_det_definite", "null_prepositions"]}
+{"text": "&#127813;&#127813;&#127813; RT @GottliebShow: \"Killer line?\" @SBNationNBA: Josh Smith one drop one killer trash talk line Kenneth http://t.co/C8d3sJoUpj&#8221;", "rules": ["one_relativizer", "null_prepositions", "bare_past_tense", "indef_one"]}
+{"text": "&#127829;&#128049; RT @TAN1AAA: RT @PeachDulce: piece pussy http://t.co/BcWiT2nuz5", "rules": ["remove_det_indefinite", "null_prepositions"]}
+{"text": "&#127850; RT @Ms_SadaClay: I one love salad RT&#8220;@viaNAWF: Anyway fuck y'all ho, eat one salad.&#8221;", "rules": ["yall", "one_relativizer", "indef_one", "zero_plural"]}
+{"text": "&#127867;&#127867;&#127867;&#127804;&#128153;&#127913; plus Sheryl crow http://t.co/49KYwZnotU", "rules": []}
+{"text": "&#127942; RT @UBoyRock17s: Every bitch n my passenger seat I dun one fucked at least one time", "rules": ["regularized_plurals", "one_relativizer"]}
+{"text": "&#128027;=&#128176;&#128184; &#8220;@GOALSminded: its true that the early birds.. get worm first!&#8221;", "rules": ["mass_noun_plurals", "remove_det_definite"]}
+{"text": "&#128034; dirty whore. I one love . but you hoe. but I one love . Jesus one watching.", "rules": ["object_pronoun_drop", "one_relativizer", "remove_det_indefinite", "drop_aux_be_progressive"]}
+{"text": "&#128064; RT @Freegeezy17: This hoe one had gotten school shirt sucking dick &#128553;&#128553;&#128553;&#128553;&#128553;&#128553;", "rules": ["one_relativizer", "null_prepositions", "remove_det_indefinite", "present_perfect_for_past"]}
+{"text": "&#128064; RT @Mr_QuenchYaGirl: lotta fck niggas this here Twitter. Really be talking bitch.", "rules": ["plural_to_singular_human", "remove_det_indefinite", "null_prepositions"]}
+{"text": "&#128064; RT @PrettyDamAmazin: These bitch start shooting my party. Fuck New Orleans", "rules": ["plural_to_singular_human", "bare_past_tense", "null_prepositions"]}
+{"text": "&#128064; bitch giving back rub?", "rules": ["plural_to_singular_human", "zero_plural"]}
+{"text": "&# 128072;never one been one coon grow up bokoo coon tho which never was 1 I one did some coon shit tho", "rules": ["zero_plural", "indef_one", "linking_relcl", "one_relativizer", "bare_past_tense", "null_prepositions"]}
+{"text": "&#128073; RT @OeauxMar: Nigga one was smashing his hoe, have had his hoe paying one condo and he one still with her &#128514;&#128514;&#128514;&#128514; Yep Fucboy", "rules": ["null_prepositions", "indef_one", "one_relativizer", "present_perfect_for_past"]}
+{"text": "&#128073; RT @OfficiallyIce: # GuiltyPleasure one watching nigger fight YouTube/Vine/IG", "rules": ["plural_to_singular_human", "one_relativizer", "null_prepositions"]}
+{"text": "&#128073; RT @Pr3ttyN33: Don't like ??? &#128186;with a the rest of the bitches one waiting for me to give a fuck &#128540;&#128129;", "rules": ["object_pronoun_drop", "one_relativizer", "drop_aux_have"]}
+{"text": "&#128073; RT @_WSBG: I'd rather be called nigger uncle tom or mark", "rules": ["remove_det_indefinite", "null_prepositions"]}
+{"text": "&#128073;RT @Str8_no_Chazer: Are Betting y' all bitches one was like deaf MC Lyte's word being treated queen huh", "rules": ["acomp_focusing_like", "zero_plural", "progressives", "one_relativizer", "remove_det_indefinite", "null_prepositions"]}
+{"text": "&#128075; hi-ho http://t.co/FiC4FnRutZ", "rules": []}
+{"text": "&#128077;RT @kwagiheath: One'a y'all b!tch gon end up dead screen shot thinkn that sh!t funny... ain't too many nicca gon like laugh that b!", "rules": ["acomp_focusing_like", "null_prepositions", "remove_det_indefinite", "zero_plural"]}
+{"text": "&#128079; congrat you oneever turn hoe housewife, don't get shitty when your guy start singing have hit the thing first. #ButThatsNoneOfMyBusiness", "rules": ["zero_plural", "present_for_exp_perfect", "plural_to_singular_human", "null_referential_pronouns", "referential_thing", "one_relativizer", "present_perfect_for_past", "remove_det_indefinite", "null_prepositions"]}
+{"text": "&#128095;&#128095;&#128095;&#128095; have gotten ur bitch tip toeing my marble floor.......", "rules": ["present_perfect_for_past", "null_prepositions", "zero_plural"]}
+{"text": "&#128114;&#128069;&#128166;&#128149; - &#128514;&#128557; omg just thinccin you are making me is laughing, we are using to STAY talking shits 3rd period, you are cuting, &amp; my bitch &#9994;&#128514;&#128557;", "rules": ["object_pronoun_drop", "progressives", "null_prepositions", "mass_noun_plurals"]}
+{"text": "&#128119;&#128119; you needa stop sucking dick hoe &#128514;&#128514;", "rules": []}
+{"text": "&#128128; RT @OGBEARDs: \"OMG LIL B FOLLOWED ME YASSSS\" \n\nbitch he one follow everybody shutted yo ass up", "rules": ["regularized_plurals", "regularized_past_tense", "one_relativizer"]}
+{"text": "&#128128;&#128128; RT @monique504Q one : &#128557;&#128128; &#8220;@ByeKandace: is hopping off hoe. RT @KekePalmer: Are Coming @KSTiLLS!!! &#128079;&#128079;&#128079;&#128079;&#128079;&#128079;&#128079;&#8221;", "rules": ["progressives", "one_relativizer", "null_prepositions"]}
+{"text": "&# 128129;&#128513;&#128586;- one lmao my nigga . Let's go half weed brownie &#128553; we one would be laughing hard hell senior seminar", "rules": ["will_would", "one_relativizer", "null_prepositions", "remove_det_indefinite"]}
+{"text": "&#128131;&#128131; &amp; you ain't ho get up out my traps hooouseee.", "rules": ["remove_det_indefinite", "chaining_main_verbs", "mass_noun_plurals"]}
+{"text": "&#128139;&#128175; - ugh bitch I love &amp; that A S S &#128553; your just simply FLAWLESS &#128149; I one remember when does you cute peice your hairs hella short &#128514;", "rules": ["inverted_indirect_question", "object_pronoun_drop", "one_relativizer", "mass_noun_plurals", "remove_det_indefinite", "null_prepositions"]}
+{"text": "&#128149;&#128149;&#128149; pussy ride dick like she one Jamaican / \\ / &#128167;\\ \n. */. &#127796; |. &#165;~ ! &#127796;. | &gt; \\ \n&#128043; $. / &#127806;\\ ; &#128043; ) &amp;&#128043;*", "rules": ["indef_one"]}
+{"text": "&#128165;&#128162; pussy http://t.co/mWXQnjm4So", "rules": ["null_prepositions", "remove_det_definite"]}
+{"text": "&#128175; RT @DammitHamm_: Loyal pussy.", "rules": []}
+{"text": "&#128175; my bitch &#128079;&#128523;", "rules": []}
+{"text": "&#128347; the most important thing. All this temporary bullshit one and ly fa bird. Are Killing that!", "rules": ["zero_plural", "progressives", "one_relativizer", "remove_det_definite", "drop_copula_be_NP"]}
+{"text": "&#128514; &#8220;@BossmobbE: Racist all month .. Fuck u honkey&#8221;", "rules": []}
+{"text": "&#128514; Gucci are bbing having my rude shit&#8220;@AmazinNaNas: Lol that one's not like nice \"@SMCo71: \" that bitch ailike nt worth quarter \"\"&#8221;", "rules": ["acomp_focusing_like", "regularized_plurals", "object_pronoun_drop", "progressives", "one_relativizer", "remove_det_indefinite", "null_prepositions"]}
+{"text": "&#128514; RT @LaShana_Sinead: Mimi too old be covering her titty sex&#128514;&#128514;&#128514s; bitch childish", "rules": ["zero_plural", "regularized_plurals", "object_pronoun_drop", "drop_inf_to", "null_prepositions"]}
+{"text": "&#128514; RT @TheOnlyReed: LMFAO RT @Tone314: you watching porn &amp; beating off &amp; yo homie texts u &amp; it one show his name banner youare one faggot", "rules": ["chaining_main_verbs", "indef_one", "one_relativizer", "mass_noun_plurals", "remove_det_definite", "null_prepositions"]}
+{"text": "&#128514; bruh one these hoes one get be like stupid.", "rules": ["drop_inf_to", "one_relativizer", "acomp_focusing_like", "bare_past_tense"]}
+{"text": "&#128514;&#128514; &#8220;@Juggs201: SOMEBODYs GONNA DIE &#128557;&#128557;&#128557; RT @SMCo71: @Juggs201 &#128514; itis bitch NJT setting up lean as we tweet&#8221;", "rules": ["existential_it", "null_prepositions", "remove_det_indefinite", "mass_noun_plurals"]}
+{"text": "&#128514;&#128514; &#8220;@JusDahl &#8220;@JustKorey &#8220;@JusDahl: Y'all have boring sex.&#8221; Nope.. I one lick side my bitch face when I'm like hittin back&#8221;&#8221;", "rules": ["acomp_focusing_like", "object_pronoun_drop", "one_relativizer", "remove_det_definite", "null_prepositions"]}
+{"text": "&#128514;&#128514; &#8220;@mcdonavins: Of course cooder's nude trash. She live DMV what you expect? &#128514;&#128514;&#128514;.&#8221;", "rules": ["zero_plural", "uninflect", "remove_det_definite", "drop_aux_wh", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "&#128514;&#128514; My stomach pain one mufucka RT @OwIPharaoh This nigga that's rating bitch 3/10? http://t.co/yFlFuBJ2Po", "rules": ["plural_to_singular_human", "indef_one", "null_prepositions", "remove_det_definite"]}
+{"text": "&#128514;&#128514; bitch get stuff one done. http://t.co/GvFpk65ah5", "rules": ["plural_to_singular_human", "one_relativizer"]}
+{"text": "&#128514;&#128514; fuccs nicca yus are posing to be pullin up", "rules": ["regularized_plurals", "progressives"]}
+{"text": "&#128514;&#128514; maaaaannnn i hope so! RT @ABrown252: @VonshayeB we get rid John Legend looking Charlie Batch?", "rules": ["null_prepositions", "drop_aux_yn"]}
+{"text": "&#128514;&#128514; mike one call t-birds @mikemastroccco", "rules": ["object_pronoun_drop", "uninflect", "one_relativizer", "mass_noun_plurals"]}
+{"text": "&#128514;&#128514; niggas sending screenshot me to they bitch \" stop texting cuh \" &#128557;", "rules": ["uninflect", "null_prepositions", "zero_plural"]}
+{"text": "&#128514;&#128514; this white bitch one think she miley cyrus &#128557;&#128557; http://t.co/lFfy5HvcNa", "rules": ["one_relativizer"]}
+{"text": "&#128514;&#128514;&#128514; &#8220;@snapbackBLAC: i one see a thot ass bitch some high top whites&#8221;", "rules": ["one_relativizer", "bare_past_tense", "null_prepositions"]}
+{"text": "&#128514;&#128514;&#128514; Nicca one getta team full worsum hos", "rules": ["regularized_plurals", "one_relativizer", "null_prepositions", "bare_past_tense"]}
+{"text": "&#128514;&#128514;&#128514; RT this hoe just DM'd me sayin one &#8220;@TuneLuciano: \"never give up your dreams\"...fuckin fortune cookie ass hoe, fuck out my DM's&#8221;", "rules": ["one_relativizer", "null_prepositions"]}
+{"text": "&#128514;&#128514;&#128514; RT @A2daO: When one dyke get like pregnant mistake &gt;&gt;&gt;&gt;&gt;", "rules": ["acomp_focusing_like", "null_prepositions", "indef_one"]}
+{"text": "&#128514;&#128514;&#128514; RT@gxdlyvisual: \"bitch i one know y'all get game your phone\" http://t.co/I2HyINFIdW", "rules": ["zero_plural", "yall", "one_relativizer", "bare_past_tense", "null_prepositions"]}
+{"text": "&#128514;&#128514;&#128514; bitch my lrt", "rules": []}
+{"text": "&#128514;&#128514;&#128514; burnt pussy lip", "rules": ["zero_plural"]}
+{"text": "&#128514;&#128514;&#128514; i one just say that RT @BoyThats_ARYAH: My TL one getta chill this pretty face challenge foolishness, y' all hoes one agg", "rules": ["one_relativizer", "null_prepositions", "bare_past_tense"]}
+{"text": "&#128514;&#128514;&#128514; nah if y'all round y'all do Molly &#8220;@CallNeeshCakey: Only bitch no nigga do Mollies...&#8221;", "rules": ["object_pronoun_drop", "plural_to_singular_human", "yall", "null_prepositions"]}
+{"text": "&#128514;&#128514;&#128514; play that nigga smh &#8220;@sexualgifss: bitch are so shady... oh my god &#128514;&#128514; http://t.co/1VhC9LqsKg&#8221;", "rules": ["plural_to_singular_human", "bare_past_tense"]}
+{"text": "&#128514;&#128514;&#128514;&#128514; &#128128;&#128128; &#8220;@LisforLex: No bitch go away &#9995;\"@subnorbot1: @Tats_NSnapback @LisforLex @LisforLex tu puta madre @carlosnoodles\"&#8221;", "rules": ["zero_plural"]}
+{"text": "&#128514;&#128514;&#128514;&#128514; @shoota1017 bitch one had been like mad af https://t.co/9C4i4W7Q7D", "rules": ["acomp_focusing_like", "one_relativizer", "present_perfect_for_past"]}
+{"text": "&#128514;&#128514;&#128514;&#128514; I one am hating ! Are RTING @YumiYoko: Cyrus ho one rookie slut. getting cashs date? nope nope nope.", "rules": ["object_pronoun_drop", "progressives", "one_relativizer", "mass_noun_plurals", "remove_det_definite", "remove_det_indefinite", "null_prepositions", "drop_copula_be_NP"]}
+{"text": "&#128514;&#128514;&#128514;&#128514; RT @MREEUH: when you one're tryna relax but your pussy shooting out light beam http://t.co/5eHbmr8TKo", "rules": ["one_relativizer", "zero_plural", "drop_aux_be_progressive"]}
+{"text": "&#128514;&#128514;&#128514;&#128514; RT @SMASHaVelli: Murda out here sucking bitch &#128514;&#128514;&#128514;&#128514; #howDhow?", "rules": ["plural_to_singular_human"]}
+{"text": "&#128514;&#128514;&#128514;&#128514; bitch if y'all're hobbit y'all need let me know right now &#128514;&#128514;&#128514;&#128514;&#128079;&#128079;&#128079;", "rules": ["drop_inf_to", "yall", "remove_det_definite"]}
+{"text": "&#128514;&#128514;&#128514;&#128514; these folks one so bad. I one'm just here talk trash.", "rules": ["drop_inf_to", "one_relativizer"]}
+{"text": "&#128514;&#128514;&#128514;&#128514;&#128514; brittany one bitch u my dog man &#128514;&#128514;&#128514;&#9996;&#65039;&#9996;&#65039;&#128553;&#128553;&#128553;&#128553;&#128553;&#128553;&#128569;&#128569;&#128584;&#128584;&#128584;&#128584;", "rules": ["one_relativizer"]}
+{"text": "&#128514;&#128514;&#128514;&#128514;&#128514;&#128514; RT @KarltonHinez: @ItsNotHarold smh bitch one is sellining her ass", "rules": ["progressives", "one_relativizer"]}

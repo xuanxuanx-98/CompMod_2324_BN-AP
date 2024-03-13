@@ -7,8 +7,6 @@ data/BN-CS_NER/test.conll
 data/davidson/original_davidson.csv
 data/hatexplain/original_hatexplain.json
 data/wiki-detox/original_detox.tsv
-data/wiki-detox/toxicity_annotations.tsv
-
 
 # ignore all files in text_compose folder
 text_compose/*/.*

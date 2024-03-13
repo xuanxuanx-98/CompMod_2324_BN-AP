@@ -5,7 +5,7 @@ data/BN-CS_NER/test.conll
 
 # ignore all original large datesets
 data/davidson/original_davidson.csv
-data/hatexplain/original_hatexplain.csv
+data/hatexplain/original_hatexplain.json
 data/wiki-detox/original_detox.tsv
 data/wiki-detox/toxicity_annotations.tsv
 

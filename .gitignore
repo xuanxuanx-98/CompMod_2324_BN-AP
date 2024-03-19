@@ -6,6 +6,10 @@ data/BN-CS_NER/test.conll
 # ignore all original large datesets
 data/davidson/original_davidson.csv
 data/hatexplain/original_hatexplain.json
+data/hatexplain/aave_full.json
+data/hatexplain/nigeriaD_full.json
+data/hatexplain/indianD_full.json
+data/hatexplain/singlish_full.json
 data/wiki-detox/original_detox.tsv
 
 # ignore all files in text_compose folder

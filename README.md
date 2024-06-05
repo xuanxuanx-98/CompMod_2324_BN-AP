@@ -2,7 +2,7 @@
 
 Project work for seminar Computational Modeling's BN and AP requirements.
 
-BN Project: This project aims to examine multi-functional spaCy language models' performance on named entity recognition (NER) tasks, when the texts are code-mixed.
+About: This project aims to examine multi-functional spaCy language models' performance on named entity recognition (NER) tasks, when the texts are code-mixed.
 
 ## Repository Structure
 

@@ -7,7 +7,8 @@ About: This project aims to examine multi-functional spaCy language models' perf
 ## Repository Structure
 
 - ``/data``: instructions on how to get the dataset used in the experiment
-- ``/notebooks``: implementation of the project
+- ``/notebooks``: intermediate development workspaces for the project
+- ``/scripts``: implementation of the project
 - ``/text_compose``: organizational texts and their source LaTeX codes
 
 ## How2Run
@@ -15,7 +16,7 @@ About: This project aims to examine multi-functional spaCy language models' perf
 - Install runtime requirements in ``REQUIREMENTS.txt``.
 - Follow the instructions in ``/data/How2GetData.txt`` to download the correct dataset.
 - Make sure ``train.conll`` is in the `/data` folder.
-- Run notebook `/notebooks/spaCy_NER_on_CS.ipynb`.
+- Run notebook `/scripts/spaCyNEROnCS.py`.
 
 ## License
 

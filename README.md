@@ -1,6 +1,6 @@
 # spaCy Performance on Named Entity Recognition with Code-Mixed Data
 
-Project work for seminar Computational Modeling's BN and AP requirements.
+Project work for seminar Computational Modeling's BN requirements.
 
 About: This project aims to examine multi-functional spaCy language models' performance on named entity recognition (NER) tasks, when the texts are code-mixed.
 
